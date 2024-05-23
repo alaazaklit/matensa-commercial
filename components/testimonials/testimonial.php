@@ -1,4 +1,4 @@
-<section class="testimonials-section">
+<section class="testimonials-section pt-5 pb-5">
     <div class="container">
         <h2 class="h2-style-1  text-center">Comments From <br> <span class="font-border">Our Clients</span></h2>
 
