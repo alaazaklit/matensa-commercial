@@ -1063,7 +1063,7 @@ input[type=text] {
   transform: scale(1.2);
 }
 
-.slider-item-style-1 img {
+.slider-item-style-1 .img img {
   height: 30rem;
   width: 100%;
   -o-object-fit: cover;
@@ -1175,6 +1175,255 @@ input[type=text] {
 .matensa-community {
   background: #0A0130;
   width: 100%;
+}
+
+.ban-client-info {
+  overflow: hidden;
+}
+
+.banImg1 {
+  opacity: 0;
+  transform: translateY(400px) scale(0);
+  vertical-align: bottom;
+}
+
+.bg-img-1 {
+  opacity: 0;
+}
+
+.trans,
+.hero-content h1,
+.hero-content p,
+.hero-content span {
+  opacity: 0;
+}
+
+.banner-img-1 {
+  overflow: hidden;
+}
+
+.ban-client-img img,
+.ban-client-info {
+  transform: scale(0);
+}
+
+.ban-client-img img {
+  opacity: 0;
+}
+
+.load-page .ban-client-img img {
+  opacity: 1;
+}
+
+.load-page .ban-clients.active .ban-client-img img,
+.load-page .ban-clients.active .ban-client-info {
+  animation: ini-scale 0.5s forwards;
+}
+
+@keyframes ini-scale {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(1.15);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.banImg1,
+.bg-img-1,
+.trans,
+.ban-client-img img {
+  transition-delay: 0s;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 1s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 1s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 1s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.hero-content h1,
+.hero-content p,
+.hero-content span,
+.ban-client-style-1 {
+  transition-duration: 1s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-duration: 1s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-duration: 1s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-duration: 1s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.load-page .banImg1,
+.load-page .bg-img-1 {
+  transform: translateY(0) scale(1);
+  opacity: 1;
+}
+
+.load-page .hero-content h1,
+.load-page .hero-content p,
+.load-page .hero-content span {
+  opacity: 1;
+}
+
+.ban-clients {
+  display: none;
+}
+
+.ban-clients.active {
+  display: block;
+}
+
+.removeItems .ban-client-style-1 {
+  transform: scale(0);
+}
+
+.trans-1 {
+  transition-delay: 0.2s;
+}
+
+.trans-2 {
+  transition-delay: 0.4s;
+}
+
+.trans-3 {
+  transition-delay: 0.6s;
+}
+
+.trans-4 {
+  transition-delay: 0.8s;
+}
+
+.trans-5 {
+  transition-delay: 1s;
+}
+
+.trans-6 {
+  transition-delay: 1.2s;
+}
+
+.trans-7 {
+  transition-delay: 1.4s;
+}
+
+.trans-8 {
+  transition-delay: 1.6s;
+}
+
+.trans-9 {
+  transition-delay: 1.8s;
+}
+
+.trans-10 {
+  transition-delay: 2s;
+}
+
+.anim-1 {
+  animation-delay: 0.2s !important;
+}
+
+.anim-2 {
+  animation-delay: 0.4s !important;
+}
+
+.anim-3 {
+  animation-delay: 0.6s !important;
+}
+
+.anim-4 {
+  animation-delay: 0.8s !important;
+}
+
+.anim-5 {
+  animation-delay: 1s !important;
+}
+
+.anim-6 {
+  animation-delay: 1.2s !important;
+}
+
+.anim-7 {
+  animation-delay: 1.4s !important;
+}
+
+.anim-8 {
+  animation-delay: 1.6s !important;
+}
+
+.anim-9 {
+  animation-delay: 1.8s !important;
+}
+
+.anim-10 {
+  animation-delay: 2s !important;
+}
+
+.slider-item-1-content {
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  left: 10%;
+}
+
+.slider-item-1-card {
+  display: flex;
+  background: #FFFFFF;
+  border-radius: 1rem;
+  padding: 0.7rem 0.8rem;
+}
+
+.slider-item-1-content h5 {
+  font-size: 1.75rem;
+  text-align: center;
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 1.5rem;
+}
+
+.slider-item-1-card i {
+  margin-right: 0.6rem;
+}
+
+.slider-item-1-card p b {
+  display: block;
+  font-size: 1rem;
+}
+
+.slider-item-1-card span {
+  font-size: 1.15rem;
+  color: #141C24;
+  margin-left: 0.5rem;
+  font-weight: 500;
+}
+
+.slider-item-1-card p {
+  display: block;
+  font-size: 0.9rem;
+  margin-bottom: 0;
 }
 
 .footer {
