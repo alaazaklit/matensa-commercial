@@ -1,0 +1,136 @@
+.swiper-container {
+    height: 400px;
+}
+
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: #fff;
+
+    transition: transform 0.3s;
+}
+
+.swiper-3d .swiper-slide-shadow-left {
+    background: none;
+}
+
+.swiper-slide-active {
+    transform: scale(1.2);
+}
+
+.slider-item-style-1 img {
+    height: 30rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+.swiper-pagination {
+    bottom: -6rem !important;
+    top: auto !important
+}
+
+.swiper-pagination-bullet-active {
+    background: #637083;
+    width: 1.3rem;
+    border-radius: 0.5rem;
+}
+
+.swiper-slide.swiper-slide-visible {
+    opacity: 1;
+}
+
+.swiper-slide {
+    opacity: 0;
+}
+
+.home-section-3 {
+    overflow: hidden;
+    background: var(--website-text-blue-dark, #0A0130);
+}
+
+.home-blk-3-video img {
+    max-height: 80vh;
+    object-fit: cover;
+    border-radius: 1rem
+}
+
+.video-player-1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.slider-item-blk-3 img {
+    max-width: 100%;
+}
+
+.home-section-2 {
+    margin-bottom: 10rem !important
+}
+
+.gallery-blk-3-tabs {
+    display: flex;
+    margin-top: 1rem;
+    justify-content: center;
+    /* Centers the swiper container horizontally */
+    align-items: center;
+    /* Centers the swiper container vertically if needed */
+}
+
+.tab-style-1 {
+    display: inline-block;
+    border: 1px solid white;
+    color: white;
+    padding: 0.5rem 0.9rem;
+    border-radius: 3rem;
+    font-size: 0.9rem;
+    margin-right: 0.5rem;
+    cursor: pointer;
+}
+
+.tab-style-1.active {
+    background: white;
+    color: var(--Text-text-primary, #141C24);
+    font-weight: 500;
+}
+
+.home-blk-3-content img {
+    max-width: 100%;
+}
+
+.shadow-style-1 {
+    width: 0;
+    height: 0;
+    opacity: 0.4;
+    display: inline-block;
+    border-radius: 50%;
+    /* Makes the element round */
+    background: linear-gradient(270deg, #D7008A 0%, #FFA72E 100%);
+    /* Background gradient */
+    box-shadow: 0px 0px 30vw 30vw #D7008A,
+        /* Gradient color for the box shadow */
+        0px 0px 30vw 30vw #FFA72E;
+    /* Gradient color for the box shadow */
+    /* Box shadow */
+
+}
+
+.aboutus-section img {
+    max-width: 100%;
+}
+
+.aboutus-section-img-1 {
+    display: inline-block;
+    width: 40%;
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    vertical-align: top;
+}
+
+.matensa-community {
+    background: #0A0130;
+    width: 100%;
+}

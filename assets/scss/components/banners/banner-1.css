@@ -1,0 +1,132 @@
+.hero {
+  position: relative;
+}
+
+.hero img {
+  max-width: 100%;
+}
+
+.hero-bg img {
+  width: 100%;
+  height: 100vh;
+}
+
+.banner-img-1 {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.banImg1 {
+  height: 76vh;
+  position: relative;
+  z-index: 10;
+}
+
+.bg-img-1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 77%;
+}
+
+.bg-img-1 span {
+  height: 100%;
+  width: 80%;
+  border-radius: 32px 32px 0px 0px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.15);
+  border: 3px solid #D4D4D4;
+}
+
+.hero-content-row {
+  position: absolute;
+  top: 20vh;
+  left: 9vw;
+  width: 100%;
+  z-index: 10000;
+}
+
+.hero-content {
+  width: 38%;
+}
+
+.hero-content p {
+  font-size: 1.5rem;
+  color: white;
+  line-height: 1.4;
+}
+
+.ban-client-style-1 {
+  position: relative;
+  float: right;
+}
+
+.ban-client-style-1.left .ban-client-info .inner-content {
+  padding-right: 4rem;
+}
+
+.ban-client-style-1.right .ban-client-info .inner-content {
+  padding-left: 4rem;
+}
+
+.ban-client-style-1.right {
+  margin-right: 14rem;
+}
+
+.ban-client-style-1.right .ban-client-info {
+  left: 50%;
+  right: auto;
+}
+
+.ban-client-img {
+  position: relative;
+  z-index: 10;
+}
+
+.ban-client-info {
+  position: absolute;
+  top: 0;
+  right: 50%;
+}
+
+.ban-client-info .inner-content {
+  background: white;
+  display: flex;
+  padding: 0.5rem 0.8rem;
+  line-height: 1;
+  border-radius: 8px;
+}
+
+.ban-client-info i {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 0.5rem;
+}
+
+.client-info-transaction span {
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.ban-clients {
+  position: absolute;
+  right: 9vw;
+  top: 6vh;
+}
+
+.client-info-transaction .price {
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.125rem;
+}
+
+.transaction-status {
+  font-size: 0.75rem;
+  line-height: 0.75rem;
+}/*# sourceMappingURL=banner-1.css.map */

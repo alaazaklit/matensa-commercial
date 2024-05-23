@@ -1,0 +1,75 @@
+.stay-connected {
+    background: #D7008A;
+}
+
+.stay-connected .desc {
+    font-size: 1rem;
+    color: #E7E6F6 !important;
+}
+
+.stay-connected .desc.color-white {
+    color: white !important;
+    font-weight: 600;
+}
+
+.rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    /* Adjust the size of the stars */
+    position: relative;
+    width: max-content;
+}
+
+.star-container {
+    display: flex;
+    position: relative;
+}
+
+.star {
+    color: #ccc;
+    /* Default color for empty stars */
+    position: relative;
+    z-index: 1;
+}
+
+.star::before {
+    content: '★';
+    color: #ffce00;
+    /* Color for filled stars */
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.star.full::before {
+    width: 100%;
+}
+
+.star.half::before {
+    width: 50%;
+}
+
+.rate-result {
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    display: inline-block;
+}
+
+.pagyment-gatway-section-head p {
+    font-size: 1.125rem
+}
+
+.payment-gateway {
+    display: flex;
+    max-width: 80%;
+}
+
+.payment-gateway span {
+    width: 100%;
+    text-align: center;
+}

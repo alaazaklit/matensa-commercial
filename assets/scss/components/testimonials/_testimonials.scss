@@ -1,0 +1,23 @@
+.swiper-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    cursor: pointer;
+}
+
+.swiper-button-next-swiper-testimonoals {
+    right: 0;
+}
+
+.quote-1 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.quote-2 {
+    position: absolute;
+    top: 3rem;
+    width: 100%;
+}

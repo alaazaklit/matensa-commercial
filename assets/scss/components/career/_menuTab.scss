@@ -1,0 +1,53 @@
+// your component style goes here, please user nested scss
+.menu-tab {
+    width: 70%;
+    margin: auto;
+    margin-bottom: 8.125rem;
+    .tab-menu {
+        display: flex;
+        justify-content: center;
+        li {
+            margin: 0 1rem;
+            width: 100%;
+            text-align: center;
+            cursor: pointer;
+            i {
+                background: #E0EBC9 0% 0% no-repeat padding-box;
+                border: 2px solid #31402A;
+                min-width: 9.9375rem;
+                min-height: 9.9375rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+                border-radius: 12px;
+                margin-bottom: 1rem;
+                img {
+                    display: block;
+                    margin: auto;
+                }
+            }
+            h3 {
+                color: #000000;
+                font-size: 1.625rem;
+                font-weight: bold;
+                line-height: 1.875rem;
+                width: 70px;
+                text-align: center;
+                margin: auto;
+                display: flex;
+                justify-content: center;
+            }
+            .active-a {
+                i {
+                    background: #A4C663;
+                    border-color: #A4C663;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 960px) {
+    // padding-bottom: 0.7rem;
+}

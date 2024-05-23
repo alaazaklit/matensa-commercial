@@ -1,0 +1,84 @@
+/* Custom styles for the navbar and dropdown */
+
+
+.navbar {
+    padding: 1rem 0;
+}
+
+
+.navbar-brand img {
+    max-height: 40px;
+}
+
+a,
+.nav-link::before {
+    transition-delay: 0s;
+    transition-duration: 0.4s;
+    transition-property: all;
+    transition-timing-function: ease;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-duration: 0.4s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-delay: 0s;
+    -moz-transition-duration: 0.4s;
+    -moz-transition-property: all;
+    -moz-transition-timing-function: ease;
+    -ms-transition-delay: 0s;
+    -ms-transition-duration: 0.4s;
+    -ms-transition-property: all;
+    -ms-transition-timing-function: ease;
+    -o-transition-delay: 0s;
+    -o-transition-duration: 0.4s;
+    -o-transition-property: all;
+    -o-transition-timing-function: ease;
+}
+
+.nav-link {
+    font-size: 1rem;
+    color: white;
+    position: relative;
+    padding: 0.5rem 0.2rem;
+}
+
+.nav-link::before,
+.dropdown-toggle:before {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 1px !important;
+    content: "";
+    background: white;
+
+}
+
+.nav-link:hover:before {
+    width: 60%;
+}
+
+.nav-item {
+    margin-left: 1.2rem;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.dropdown-menu {
+    min-width: 200px;
+}
+
+////////////////
+header {
+    position: fixed;
+    top: 1.5rem;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.ml-auto {
+    margin-left: auto !important
+}

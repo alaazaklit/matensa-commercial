@@ -1,0 +1,47 @@
+input[type="text"] {
+    color: $text;
+    font-size: 1.7rem;
+    font-weight: 500;
+    width: 100%;
+    font-family: $font;
+    border: 0;
+    border-bottom: 2px $black solid;
+    outline: none;
+    appearance: none;
+    height: 60px;
+    background: transparent;
+    @media (max-width: 800px) {
+        font-size: 1.4rem;
+        height: 40px;
+    }
+}
+
+button {
+    background: $btnbg;
+    border-radius: 30px;
+    color: $white;
+    font-size: 1.875rem;
+    height: 5.625rem;
+    appearance: none;
+    outline: none;
+    font-family: $font;
+    border: 0;
+    min-width: 13.8125rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    @media (max-width: 800px) {
+        height: 3.925rem;
+        min-width: 11.375rem;
+        border-radius: 10px;
+        font-size: 1.4rem;
+    }
+}
+
+::-ms-input-placeholder {
+    /* Edge 12-18 */
+    color: #31402A;
+}
+
+ ::placeholder {
+    color: #31402A;
+}

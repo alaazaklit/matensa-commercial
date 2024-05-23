@@ -1,0 +1,66 @@
+            // your component style goes here, please user nested scss
+            .footer {
+                width: 100%;
+                background: #E0EBC9;
+                padding: 3.75rem 0;
+                @media(max-width: 960px) {
+                    padding: 3.75rem 2rem;
+                }
+                nav {
+                    ul {
+                        display: flex;
+                        flex-wrap: wrap;
+                        @media (max-width: 800px) {
+                            display: block;
+                        }
+                        li {
+                            width: 50%;
+                            padding: 0.1rem 0;
+                            @media (max-width: 800px) {
+                                width: 100%;
+                            }
+                            a {
+                                color: #000000;
+                                font-size: 1.6875rem;
+                                text-transform: uppercase;
+                                @media (max-width: 800px) {
+                                    font-size: 1.3rem;
+                                }
+                            }
+                        }
+                    }
+                }
+                .footer_logo {
+                    text-align: center;
+                    img {
+                        display: block;
+                        margin: auto;
+                    }
+                }
+                .social_icon {
+                    display: flex;
+                    align-items: center;
+                    justify-content: flex-end;
+                    @media (max-width: 800px) {
+                        display: block;
+                    }
+                    li {
+                        margin-left: 2.5rem;
+                        @media (max-width: 800px) {
+                            margin: 0 0 1rem;
+                            display: flex;
+                            justify-content: flex-end;
+                        }
+                        &:first-child {
+                            margin-left: 0;
+                        }
+                        img {
+                            display: block;
+                            width: 3.1875rem;
+                            @media (max-width: 800px) {
+                                width: 2.1875rem;
+                            }
+                        }
+                    }
+                }
+            }
