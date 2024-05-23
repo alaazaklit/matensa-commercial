@@ -1,7 +1,7 @@
 <header>
     <div class="container mod">
         <nav class="navbar navbar-expand-lg navbar-light">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.php">
                 <img src="assets/images/logo.svg" alt="Logo" style="height: 40px;">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
@@ -13,7 +13,7 @@
             <div class="collapse navbar-collapse ml-auto" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="index.php">Home</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -21,20 +21,22 @@
                             Matensa for Business
                         </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="#">Our Story</a>
-                            <a class="dropdown-item" href="#">Team</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Careers</a>
+                            <a class="dropdown-item" href="growbusiness.php">Grow your Business</a>
+                            <a class="dropdown-item" href="agreementoverview.php">Agreements Overview</a>
+                            <!-- <div class="dropdown-divider"></div> -->
+                            <a class="dropdown-item" href="transactionhistory.php">Transaction History</a>
+                            <a class="dropdown-item" href="businessintegration.php">Seamless Business Integration</a>
+
                         </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">About us</a>
+                    <li class="nav-item"> 
+                        <a class="nav-link" href="aboutus.php">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Highlights</a>
+                        <a class="nav-link"  href="highlights.php">Highlights</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="faq.php">Contact</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Login</a>

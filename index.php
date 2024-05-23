@@ -74,7 +74,7 @@
 
 
 <!-- ///////////////////Section Three///////////// -->
-<section class='home-section-3 mt-5'>
+<section class='home-section-3 mt-5 pt-5 '>
     <div class="home-blk-3-1">
         <div class="text-center"><span class="shadow-style-1"></span></div>
 
@@ -108,7 +108,7 @@
     </div>
 
 
-    <div class="home-blk-3-2">
+    <div class="home-blk-3-2 mt-5">
         <div class="container mod">
             <div class="row">
                 <div class="col-md-5">
@@ -250,7 +250,7 @@
 <?php include 'components/testimonials/testimonial.php'; ?>
 
 <!-- ///////////////////About Section///////////// -->
-<section class="aboutus-section">
+<section class="aboutus-section pt-5 pb-5">
     <div class="container">
         <div class="row">
             <div class="col-md-8">
@@ -279,7 +279,7 @@
 
 
 <!-- ///////////////////Matensa Community///////////// -->
-<section class="matensa-community py-5">
+<section class="matensa-community py-5 pt-5">
     <div class="container mod text-center">
         <div class="row">
             <div class="col-md-1"></div>

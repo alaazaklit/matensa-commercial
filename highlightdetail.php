@@ -1,0 +1,73 @@
+<?php include 'html-start.php'; ?>
+<?php include 'components/headers/header-1.php'; ?>
+    <div >
+        <div class="container pt-5 pb-5" style="margin-top:11rem !important">
+            <div class="text-center">
+                <img style="width: 90%;" src="assets/images/content/Mask group (2).png">
+            </div>
+            <div class=" mb-5" style="text-align: left;">
+                <div class="highlight-content mt-5">Is Matensa safe?</div>
+                <div class="highlight-text mt-2">Security</div>
+                <div>Lorem ipsum dolor sit amet consectetur. Dui metus vivamus maecenas ultricies in. Arcu lorem in
+                    malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet consectetur. Dui metus vivamus
+                    maecenas
+                    ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet
+                    consectetur.
+                    Dui metus vivamus maecenas ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem
+                    ipsum
+                    dolor sit amet consectetur. Dui metus vivamus maecenas ultricies in. Arcu lorem in malesuada sed
+                    arcu
+                    eros id id nibh.Lorem ipsum dolor sit amet consectetur.</div>
+            </div>
+            <div class="text-center"> <img style="width: 60%;" src="assets/images/content/Mask group (2).png"></div>
+            <div class="mt-5" style="text-align: left;">Lorem ipsum dolor sit amet consectetur. Dui metus
+                vivamus maecenas ultricies in. Arcu
+                lorem in
+                malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet consectetur. Dui metus vivamus maecenas
+                ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet consectetur.
+                Dui metus vivamus maecenas ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem ipsum
+                dolor sit amet consectetur. Dui metus vivamus maecenas ultricies in. Arcu lorem in malesuada sed arcu
+                eros id id nibh.Lorem ipsum dolor sit amet consectetur.Lorem ipsum dolor sit amet consectetur. Dui metus
+                vivamus maecenas ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit
+                amet consectetur. Dui metus vivamus maecenas ultricies in. Arcu lorem in malesuada sed arcu eros id id
+                nibh.Lorem ipsum dolor sit amet consectetur. Dui metus vivamus maecenas ultricies in. Arcu lorem in
+                malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet consectetur. Dui metus vivamus maecenas
+                ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet consectetur.
+            </div>
+
+            <div class="heading-6 pl-0 mt-5">Share article</div> (Social Media icons)
+            <div class="heading-6 pl-0 mt-5">More articles</div>
+            <div class="highlight-list">
+                <div class="highlight-item">
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-block">
+                        <div class="highlight-text">Security</div>
+                        <div class="highlight-content">Is Matensa safe?</div>
+
+                    </div>
+                </div>
+                <div class="highlight-item">
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-block">
+                        <div class="highlight-text">Security</div>
+                        <div class="highlight-content">Is Matensa safe?</div>
+
+                    </div>
+                </div>
+                <div class="highlight-item">
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-block">
+                        <div class="highlight-text">Security</div>
+                        <div class="highlight-content">Is Matensa safe?</div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <?php include 'components/stay-connected/stay-connected.php'; ?>
+<!-- ///////////////////Stay Connected///////////// -->
+<?php include 'components/footers/footer-1.php'; ?>
+<!-- Insights Start here -->
+<?php include 'html-end.php'; ?>

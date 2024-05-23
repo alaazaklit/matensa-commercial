@@ -42,7 +42,7 @@
     </div>
 </section>
 
-<section class="pagyment-gatway-section">
+<section class="pagyment-gatway-section pt-5 pb-5">
     <div class="container">
         <div class="pagyment-gateway-section-head">
             <div class="desc text-center">
