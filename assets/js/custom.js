@@ -1,3 +1,34 @@
+
+//////////RATING//////////
+window.addEventListener('load', function () {
+    document.body.classList.add('load-page');
+    setTimeout(function () {
+        const clientsListLoad = document.querySelector('.load-ban-clients');
+        clientsListLoad.classList.add('active');
+        setTimeout(function () { triggerAnimation() }, 3000);
+    }, 1000);
+});
+
+function triggerAnimation() {
+    const clientsList = document.querySelector('.ban-clients.active');
+    clientsList.classList.add('removeItems');
+    setTimeout(function () {
+        const clientsList2 = document.querySelector('.ban-clients');
+        clientsList2.classList.remove('removeItems');
+        clientsList2.classList.remove('active');
+
+    }, 1000);
+
+
+    setTimeout(function () {
+        const clientsList3 = document.querySelector('.ban-clients.hide');
+        clientsList3.classList.add('active');
+        clientsList3.classList.remove('hide');
+        clientsList.classList.add('hide');
+    }, 1100);
+
+
+}
 document.addEventListener('DOMContentLoaded', (event) => {
     const swiper = new Swiper('.swiper-container', {
         slidesPerView: 3,
@@ -114,3 +145,4 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 });
+

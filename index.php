@@ -35,6 +35,15 @@
                         <div class="swiper-slide">
                             <div class="slider-item-style-1">
                                 <div class="img"><img src="assets/images/home/wallet/1.png"></div>
+                                <div class="slider-item-1-content">
+                                    <h5>Efficient Payment
+                                        Reminder</h5>
+                                    <div class="slider-item-1-card">
+                                        <i><img src="assets/images/home/wallet/icons/1.png"></i>
+                                        <p><b>Gym subscription renewal</b> Reminder</p>
+                                        <span>100 $</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="swiper-slide">

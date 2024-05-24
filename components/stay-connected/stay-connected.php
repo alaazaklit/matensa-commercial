@@ -62,16 +62,25 @@
 </section>
 <section class="footer-section pt-5 pb-5" >
     <div class="container">
-        <div class="pagyment-gateway-section-head">
-            <div class="desc text-center">
-                <p class="mb-0"><b>Trusted by millions of customers worldwide</b></p>
-                <p>Chosen by leading industries and businesses</p>
-            </div>
-            <div class="payment-gateway">
-                <?php for($i=1;$i<6;$i++){?>
-                <span><img src="assets/images/payment-gateway/<?php echo $i;?>.png"></span><?php }?>
-            </div>
-        </div>
+       <div class="row">
+       <div class="col-lg-2">
 
+    </div>
+    <div class="col-lg-2">
+
+</div>
+<div class="col-lg-2">
+
+</div>
+<div class="col-lg-2">
+
+</div>
+<div class="col-lg-2">
+
+</div>
+       </div>
+       <div class="row">
+
+</div>
     </div>
 </section>
