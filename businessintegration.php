@@ -38,15 +38,12 @@
                     <div class="col-lg-9 col-md-12 pl-5 heading-6">
                         <div class="heading-2  mb-3">Simple & Secure
                         </div>
-                        <p>Craft your agreements with dual-currency convenience in Lebanese pounds or USD, and
-                            streamline local transactions by uploading contracts in masse or inputting them one at a
-                            time. Create templates for new agreements with ease, ensuring a personalized and
-                            efficient financial management experience.</p>
+                        <p>Experience the adaptability of managing your financial engagements with Matensa: at any moment, you're empowered to alter, discontinue, or put your agreements on hold, with the understanding that any revisions require unanimous agreement from all participating parties.</p>
 
                     </div>
                     <div class="col-lg-3 col-md-12" style="position: relative;">
                         <img style="border-radius: 16px;" width="100%"
-                            src="assets/images/content/Partnership-2--Streamline-Milano.png">
+                            src="assets/images/content/Reset-Password-1--Streamline-Milano.png">
                     </div>
                 </div>
             </div>
@@ -72,14 +69,14 @@
                         </div>
                     </div>
                     <div class="col-lg-4">
-                        <div class="numbering">2</div>
+                        <div class="numbering icon-yellow">2</div>
                         <div class="heading-1" style="font-weight: 600;">Fill in the form</div>
                         <div class="text-4 mt-3">Adjust, pause, or extend your agreements as circumstances change,
                             ensuring they always reflect current needs with mutual agreement.
                         </div>
                     </div>
                     <div class="col-lg-4">
-                        <div class="numbering">3</div>
+                        <div class="numbering icon-blue">3</div>
                         <div class="heading-1" style="font-weight: 600;">Publish your profile</div>
                         <div class="text-4 mt-3">Adjust, pause, or extend your agreements as circumstances change,
                             ensuring they always reflect current needs with mutual agreement.
@@ -94,13 +91,24 @@
                     MATENSA BUSINESS PROFILE
                 </div>
 
-                <div class="mt-5"> <img width="100%" src="assets/images/content/Mask group (7).png"> </div>
+                <div class="mt-5">  <div class="home-blk-3-video mt-5">
+                <div class="video position-relative">
+                    <a class="video-player-1"><svg width="118" height="118" viewBox="0 0 118 118" fill="none"
+                            xmlns="http://www.w3.org/2000/svg">
+                            <path
+                                d="M54.4827 78.0302L54.9187 78.6405L54.4827 78.0302ZM75.5238 63.0009L75.0879 62.3906L75.5238 63.0009ZM75.5238 54.9991L75.0879 55.6094L75.5238 54.9991ZM54.4827 39.9698L54.0468 40.5801L54.4827 39.9698ZM102.5 59C102.5 83.0244 83.0244 102.5 59 102.5V104C83.8528 104 104 83.8528 104 59H102.5ZM59 102.5C34.9756 102.5 15.5 83.0244 15.5 59H14C14 83.8528 34.1472 104 59 104V102.5ZM15.5 59C15.5 34.9756 34.9756 15.5 59 15.5V14C34.1472 14 14 34.1472 14 59H15.5ZM59 15.5C83.0244 15.5 102.5 34.9756 102.5 59H104C104 34.1472 83.8528 14 59 14V15.5ZM45.9583 43.9707V74.0293H47.4583V43.9707H45.9583ZM54.9187 78.6405L75.9597 63.6112L75.0879 62.3906L54.0468 77.4199L54.9187 78.6405ZM75.9597 54.3888L54.9187 39.3595L54.0468 40.5801L75.0879 55.6094L75.9597 54.3888ZM75.9597 63.6112C79.1237 61.3512 79.1237 56.6488 75.9597 54.3888L75.0879 55.6094C77.4143 57.2712 77.4143 60.7288 75.0879 62.3906L75.9597 63.6112ZM45.9583 74.0293C45.9583 78.6384 51.1681 81.3195 54.9187 78.6405L54.0468 77.4199C51.289 79.3897 47.4583 77.4184 47.4583 74.0293H45.9583ZM47.4583 43.9707C47.4583 40.5816 51.289 38.6103 54.0468 40.5801L54.9187 39.3595C51.1681 36.6805 45.9583 39.3616 45.9583 43.9707H47.4583Z"
+                                fill="white" />
+                        </svg>
+                    </a>
+                    <img src="assets/images/home/3/video.png" class="w-100">
+                </div>
+            </div> </div>
             </div>
-        </div>
+        </div> 
 
 
 
-        <div class="journey mt-5 " style="margin-top:8rem !important">
+        <div class="journey mt-5 " style="margin-top:10rem !important">
             <div class="container pt-5 pb-5 ">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">

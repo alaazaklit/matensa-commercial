@@ -112,33 +112,21 @@
                             users can confidently manage their financial commitments.</div>
                     </div>
                     <div class="block">
-                        <img src="assets/images/content/Accountant--Streamline-Milano.png">
-                        <div class="heading-4">Efficient Financial Oversight</div>
-                        <div class="heading-6">Matensa's platform provides a comprehensive and secure approach to
-                            payment management,
-                            giving users complete oversight of their financial transactions. With the ability to
-                            effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                            users can confidently manage their financial commitments.</div>
+                        <img src="assets/images/content/secured--interface-secured.png">
+                        <div class="heading-4">Digital Transfer Security</div>
+                        <div class="heading-6">Our platform enhances security and compliance through wallet-to-wallet digital transfers, featuring robust protections against unauthorized deposits. Users receive instant confirmation receipts for cash transactions, ensuring a secure and transparent financial environment.</div>
                     </div>
                 </div>
                 <div class="block-slider">
-                    <div class="block">
-                        <img src="assets/images/content/Accountant--Streamline-Milano.png">
-                        <div class="heading-4">Efficient Financial Oversight</div>
-                        <div class="heading-6">Matensa's platform provides a comprehensive and secure approach to
-                            payment management,
-                            giving users complete oversight of their financial transactions. With the ability to
-                            effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                            users can confidently manage their financial commitments.</div>
+                    <div class="block block-yellow">
+                        <img src="assets/images/content/Stack-Of-Money-2--Streamline-Milano.png">
+                        <div class="heading-4">Cash Flow Clarity</div>
+                        <div class="heading-6">Access a comprehensive view of your upcoming financial activities, including both incoming and outgoing payments. This feature provides a deeper insight into your cash flow, spotlighting payable and receivable amounts to facilitate more effective financial planning and management, all in a user-friendly interface.</div>
                     </div>
-                    <div class="block">
-                        <img src="assets/images/content/Accountant--Streamline-Milano.png">
-                        <div class="heading-4">Efficient Financial Oversight</div>
-                        <div class="heading-6">Matensa's platform provides a comprehensive and secure approach to
-                            payment management,
-                            giving users complete oversight of their financial transactions. With the ability to
-                            effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                            users can confidently manage their financial commitments.</div>
+                    <div class="block block-bl">
+                        <img src="assets/images/content/E-Wallet-2--Streamline-Milano.png">
+                        <div class="heading-4">Simplified Wallet Transfers</div>
+                        <div class="heading-6">Matensa makes transferring funds between wallets straightforward and efficient. From the Dashboard, the "Transfer" option lets users choose a recipient, currency, and amount, facilitating easy money transfers to friends or family and reducing reliance on physical cash.</div>
                     </div>
                 </div>
 

@@ -33,7 +33,10 @@
                         </div>
                         <p>Leverage Matensa business profiles to accept a variety of preferred payment methods from your
                             customers, using nothing more than a mobile device.</p><br>
-                        <p>(Payment method icons) </p>
+                            <div class="payment-gateway">
+                <?php for($i=1;$i<6;$i++){?>
+                <span style="margin-right:0.5rem"><img style="width:100%;" src="assets/images/payment-gateway/<?php echo $i;?>.png"></span><?php }?>
+            </div>
                     </div>
                 </div>
 
@@ -73,7 +76,7 @@
                             and invoices to payments and balance adjustments.</p>
 
                         <button class="button-1 mb-5">Learn More</button>
-                        <img style="width: 100%;" src="assets/images/content/Rectangle 17060.png">
+                        <img style="width: 100%;" src="assets/images/content/Rectangle 17059.png">
 
                     </div>
                     <div class="col-lg-6 col-md-12">

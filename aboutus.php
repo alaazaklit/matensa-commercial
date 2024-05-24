@@ -65,12 +65,9 @@
                             <div class="ml-3">You can trust that your finances are in capable hands.</div>
                         </div>
                     </div>
-                    <div class="block">
-                        <div class="heading-4 mb-3"> Simply Matensa It!</div>
-                        <div class="text-2 ">Redefining the way you send money and manage payments—safe, simple, and
-                            social.
-                            Discover the
-                            Matensa advantage and embrace seamless financial connections.</div>
+                    <div class="block block-blue">
+                      
+                        <div class="text-2 ">Matensa goes beyond transactions to foster real connections. Manage your money with ease and share life's moments on your terms.A perfect blend of finance and community.</div>
                     </div>
                 </div>
             </div>
@@ -82,7 +79,7 @@
                         <div class="heading-2 ">Our key <span class="heading-3"> Benefits </span>
                         </div>
                         <div class="mt-5 block-2 ">
-                            <div class="icon-2"><svg xmlns="http://www.w3.org/2000/svg" width="55" height="55"
+                            <div class="icon-2 icon-blue"><svg xmlns="http://www.w3.org/2000/svg" width="55" height="55"
                                     viewBox="0 0 55 55" fill="none">
                                     <g clip-path="url(#clip0_1680_30301)">
                                         <path
@@ -129,7 +126,7 @@
                             </div>
                         </div>
                         <div class="mt-5 block-2">
-                            <div class="icon-2"> <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55"
+                            <div class="icon-2 icon-yellow"> <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55"
                                     viewBox="0 0 55 55" fill="none">
                                     <path
                                         d="M27.6117 54.1406C27.3863 54.1397 27.1702 54.0502 27.0102 53.8914L20.8828 47.8758C20.8016 47.7962 20.737 47.7013 20.6928 47.5965C20.6485 47.4918 20.6255 47.3793 20.625 47.2656V41.25C20.625 41.0221 20.7155 40.8035 20.8767 40.6423C21.0379 40.4812 21.2565 40.3906 21.4844 40.3906H33.5156C33.7435 40.3906 33.9621 40.4812 34.1233 40.6423C34.2845 40.8035 34.375 41.0221 34.375 41.25V42.1094C34.375 42.3373 34.2845 42.5559 34.1233 42.717C33.9621 42.8782 33.7435 42.9688 33.5156 42.9688C33.2877 42.9688 33.0691 42.8782 32.908 42.717C32.7468 42.5559 32.6562 42.3373 32.6562 42.1094H22.3438V46.9047L27.6031 52.0609L32.6562 46.9047V45.5469C32.6562 45.319 32.7468 45.1004 32.908 44.9392C33.0691 44.778 33.2877 44.6875 33.5156 44.6875C33.7435 44.6875 33.9621 44.778 34.1233 44.9392C34.2845 45.1004 34.375 45.319 34.375 45.5469V47.2656C34.3741 47.4911 34.2845 47.7071 34.1258 47.8672L28.2219 53.8828C28.0632 54.0447 27.847 54.1374 27.6203 54.1406H27.6117Z"
@@ -199,7 +196,7 @@
                     <div class="col-lg-7  col-md-12"><img class="pl-5" style="margin-top: 8rem;width: 60%;"
                             src="assets/images/content/Midnight GreenMockup.png">
                         <img style="position: absolute;right:-6rem"
-                            src="assets/images/content/Midnight GreenMockup.png">
+                            src="assets/images/content/Midnight GreenMockup (1).png">
                     </div>
                 </div>
             </div>
@@ -250,7 +247,7 @@
                             </div>
                         </div>
                         <div class="mt-4 block-2">
-                            <div class="image-1"><img src="assets/images/content/Image (3).png"></div>
+                            <div class="image-1"><img src="assets/images/content/Image (8).png"></div>
                             <div>
                                 <div class="date-1">November 16, 2023</div>
 
@@ -265,19 +262,19 @@
                     </div>
                     <div class="col-lg-6 col-md-12">
                         <div class="mt-4 block-2 pb-5">
-                            <div class="image-1"><img src="assets/images/content/Image (3).png"></div>
+                            <div class="image-1"><img src="assets/images/content/Image (7).png"></div>
                             <div>
                                 <div class="date-1">November 16, 2023</div>
 
                                 <div class="heading-4">Agile Development Projects</div>
                                 <div class="text-4">Agile methods aim to overcome usability barriers in traditional
                                     development, but post new ...</div>
-                                    <div class="tags"><div class="tag-1 mr-2">Research</div><div class="tag-2">UI
-                                        Design</div></div>
+                                    <div class="tags"><div class="tag-1  mr-2">Research</div><div class="tag-2 tag-yellow">
+                                        Programming</div></div>
                             </div>
                         </div>
                         <div class="mt-4 block-2">
-                            <div class="image-1"><img src="assets/images/content/Image (3).png"></div>
+                            <div class="image-1"><img src="assets/images/content/Image (9).png"></div>
                             <div>
                                 <div class="date-1">November 16, 2023</div>
 

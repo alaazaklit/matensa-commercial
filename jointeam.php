@@ -33,58 +33,40 @@
                 <div class="block-3">
                     <img src="assets/images/content/ma tensa 1.png">
                     <div class="job">Full Time</div>
-                    <div class="heading-7 mt-3">Efficient Financial Oversight</div>
+                    <div class="helpsection-questions-header mt-3">Email Marketing</div>
                     <div class="text-4">Matensa - Beirut , Lebanon</div>
-                    <div class="heading-7">Matensa's platform provides a comprehensive and secure approach to
-                        payment management,
-                        giving users complete oversight of their financial transactions. With the ability to
-                        effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                        users can confidently manage their financial commitments.</div>
+                    <div class="heading-7">Matensa is looking for Email Marketing to help team ma ...</div>
                     <div class="tags"><div class="tag-1 mr-2">Research</div><div class="tag-2">UI
                             Design</div></div>
                 </div>
                 <div class="block-3">
                     <img src="assets/images/content/ma tensa 1.png">
-                    <div class="job">Full Time</div>
-                    <div class="heading-7 mt-3">Efficient Financial Oversight</div>
+                    <div class="job">Part Time</div>
+                    <div class="helpsection-questions-header mt-3">Brand Designer</div>
                     <div class="text-4">Matensa - Beirut , Lebanon</div>
 
-                    <div class="heading-7">Matensa's platform provides a comprehensive and secure approach to
-                        payment management,
-                        giving users complete oversight of their financial transactions. With the ability to
-                        effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                        users can confidently manage their financial commitments.</div>
-                    <div class="tags"><div class="tag-1 mr-2">Research</div><div class="tag-2">UI
+                    <div class="heading-7">Matensa is looking for Brand Designer to help team ma ...</div>
+                    <div class="tags"><div class="tag-1 tag-yellow mr-2">Marketing</div><div class="tag-2">
                             Design</div></div>
                 </div>
 
                 <div class="block-3">
                     <img src="assets/images/content/ma tensa 1.png">
                     <div class="job">Full Time</div>
-                    <div class="heading-7 mt-3">Efficient Financial Oversight</div>
+                    <div class="helpsection-questions-header mt-3">Email Marketing</div>
                     <div class="text-4">Matensa - Beirut , Lebanon</div>
 
-                    <div class="heading-7">Matensa's platform provides a comprehensive and secure approach to
-                        payment management,
-                        giving users complete oversight of their financial transactions. With the ability to
-                        effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                        users can confidently manage their financial commitments.</div>
-                    <div class="tags"><div class="tag-1 mr-2">Research</div><div class="tag-2">UI
-                            Design</div></div>
+                    <div class="heading-7">Matensa is looking for Email Marketing to help team ma ...</div>
+                    <div class="tags"><div class="tag-1 tag-yellow mr-2">Marketing</div></div>
                 </div>
                 <div class="block-3">
 
                     <img src="assets/images/content/ma tensa 1.png">
                     <div class="job">Full Time</div>
-                    <div class="heading-7 mt-3">Efficient Financial Oversight</div>
+                    <div class="helpsection-questions-header mt-3">Visual Marketing</div>
                     <div class="text-4">Matensa - Beirut , Lebanon</div>
-                    <div class="heading-7">Matensa's platform provides a comprehensive and secure approach to
-                        payment management,
-                        giving users complete oversight of their financial transactions. With the ability to
-                        effortlessly monitor both pending and overdue payments linked to agreements or invoices,
-                        users can confidently manage their financial commitments.</div>
-                    <div class="tags"><div class="tag-1 mr-2">Research</div><div class="tag-2">UI
-                            Design</div></div>
+                    <div class="heading-7">Matensa is looking for Visual Designer to help team ma ...</div>
+                    <div class="tags"><div class="tag-1 mr-2">Business</div></div>
                 </div>
             </div>
 
@@ -98,14 +80,9 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="heading-2 mt-2">Build Your Personal Account Profile
                     </div>
-                    <div class="mt-4 text-1"> In the crucible of adversity, Matensa was born — not merely as a
-                        platform,
-                        but as
-                        a beacon of hope and empowerment. From the aftermath of a catastrophic fire that obliterated
-                        all
-                        financial records at a petrol station, emerged a visionary idea: a secure, transparent
-                        system
-                        that empowers individuals to manage their finances with confidence and growth. </div>
+                    <div class="mt-4 text-1"> But I must explain to you how all this mistaken ideas lead to misunderstandings and to provide you with comprehensive support tailored to your job application.
+                        <br> 1. Upload your CV <br>You should correctly upload your CV and ensure that all the information is filled in accurately.<br>
+                    2. Scheduling Interview <br>You should collaborate with the HR manager when arranging an interview and ensure that you're well-prepared for it. This demonstrates professionalism and respect for the hiring process. </div>
                 </div>
                 <div class="col-lg-6 col-md-12 pl-5 text-center">
 

@@ -36,6 +36,35 @@ body {
     color: #D7008A
 }
 
+.icon-yellow {
+    background-color: #FFB21A !important;
+}
+
+.icon-blue {
+    background-color: #1C008A !important;
+
+}
+
+.newsletter-form input {
+    border: 1px solid white !important;
+    border-radius: 8px;
+    background: white !important;
+    padding: 1rem;
+    font-size: 1.2rem !important;
+}
+
+.button-5 {
+    width: 100%;
+    height: unset !important;
+    border-radius: 3.5rem;
+    // border: var(--spacing-2, 2px) solid var(--Text-text-primary, #141C24);
+    background: #970061 !important;
+    font-size: 1.123rem;
+    padding: 0.7rem 1rem;
+    font-weight: 500;
+    color: white !important;
+}
+
 .button-1 {
     height: unset !important;
     border-radius: 3.5rem;
@@ -165,6 +194,31 @@ body {
     width: 100%;
     border: 1px solid #8080807d !important;
     border-radius: 8px;
+    height: unset !important;
+
+
+}
+
+.block-blue {
+    background-color: #F0F4FF !important;
+}
+
+.tag-yellow {
+    background-color: #FFEECC !important;
+    color: #B37520 !important;
+
+}
+
+body .securepayment .block-slider .block-yellow {
+    background-color: #FFF9EB !important;
+}
+
+body .securepayment .block-slider .block-bl {
+    background-color: #E5EEFF !important;
+}
+
+.form-group {
+    margin-bottom: 1rem;
 }
 
 .form-group span {
@@ -172,8 +226,6 @@ body {
     color: #637083;
     font-weight: 400;
     font-size: 0.8rem;
-    margin-top: 0.5rem;
-    margin-bottom: 1rem;
 }
 
 .form-group .label {
@@ -529,6 +581,14 @@ select {
     width: 60%;
     font-size: 1rem;
     border: 1px solid #80808082;
+    border-radius: 8px;
+    height: 50px;
+    padding: 1rem;
+}
+
+.apply-now select {
+    border-radius: 8px;
+    height: 50px;
 }
 
 .termsCond {
@@ -574,13 +634,13 @@ select {
     max-width: 40%;
 }
 
-.securepayment .block-slider .block:nth-child(1) {
+.securepayment .block:nth-child(1) {
     background-color: #E5F4FF !important;
     text-align: left;
     padding: 4rem 1rem !important;
 }
 
-.securepayment .block-slider .block:nth-child(2) {
+.securepayment .block:nth-child(2) {
     background-color: #ECF9F2 !important;
     text-align: left;
     padding: 4rem 1rem !important;
