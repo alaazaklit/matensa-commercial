@@ -29,13 +29,13 @@
                             meticulously planned payment schedules.</p>
                         <button class="button-1 mb-5 ">Learn More</button>
                         <img style="border-radius: 16px;    margin-left: 5rem;
-                        margin-top: 2rem;" width="90%" src="assets/images/content/Rectangle 17005 (1).png">
+                        margin-top: 2rem;" width="90%" src="assets/images/content/Rectangle 17005 (2).png">
 
                     </div>
                     <div class="col-lg-6 col-md-12 pl-5 mt-5">
 
                         <img style="border-radius: 16px;    margin-top: 10rem;" width="90%"
-                            src="assets/images/content/Mask group (4).png">
+                            src="assets/images/content/Mask group (10).png">
                     </div>
                 </div>
 
@@ -64,7 +64,7 @@
             </div>
         </div>
 
-        <div class="journey mt-5 pt-5">
+        <div class="journey mt-5 pt-5" style="margin-top:8rem !important">
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">

@@ -22,18 +22,18 @@
                     </div>
                 </div>
                 <div class="highlight-item">
-                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17007.png"></div>
                     <div class="highlight-block">
                         <div class="highlight-text">Security</div>
-                        <div class="highlight-content">Is Matensa safe?</div>
+                        <div class="highlight-content">Can you use Matensa as a bank account?</div>
 
                     </div>
                 </div>
                 <div class="highlight-item">
-                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17009.png"></div>
                     <div class="highlight-block">
-                        <div class="highlight-text">Security</div>
-                        <div class="highlight-content">Is Matensa safe?</div>
+                        <div class="highlight-text">News</div>
+                        <div class="highlight-content">New Cooperation with a bank.</div>
 
                     </div>
                 </div>

@@ -35,14 +35,14 @@
                         fames mi id tincidunt.</div>
                 </div>
                 <div class="row mt-5 pt-2 ">
-                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17060 (1).png">
-                        <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans.</div>
+                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17059 (1).png">
+                        <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans</div>
                     </div>
                     <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17060 (1).png">
-                        <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans.</div>
+                        <div class="mt-3">Contracts with set repayment schedules</div>
                     </div>
-                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17060 (1).png">
-                        <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans.</div>
+                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17061 (1).png">
+                        <div class="mt-3">One-time invoices</div>
                     </div>
                 </div>
                 <div class="row mt-5">
@@ -63,9 +63,9 @@
                 </div>
                 <div class="row mt-5">
 
-                    <div class="col-lg-8"> <img style="width: 100%;" src="assets/images/content/Mask group (6).png">
+                    <div class="col-lg-8"> <img style="width: 100%;" src="assets/images/content/Mask group (9).png">
                     </div>
-                    <div class="col-lg-4"> <img src="assets/images/content/Mockup-iPhone (1).png">
+                    <div class="col-lg-4"> <img src="assets/images/content/Mockup-iPhone (2).png">
                     </div>
                 </div>
 
@@ -85,7 +85,7 @@
                 <div class="row mt-5">
                     <div class="col-lg-5 col-md-12" style="position: relative;">
                         <img style="border-radius: 16px;" width="100%"
-                            src="assets/images/content/Partnership-2--Streamline-Milano.png">
+                            src="assets/images/content/Rectangle 17063.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
                         <div class="heading-2 mt-2 mb-3">Secure Agreement
@@ -120,7 +120,7 @@
                             business's pace, promoting both flexibility and expansion.
                         </div>
                         <div class="mt-5 block-2">
-                            <div class="icon-2"> <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55"
+                            <div class="icon-2 icon-yellow"> <svg xmlns="http://www.w3.org/2000/svg" width="55" height="55"
                                     viewBox="0 0 55 55" fill="none">
                                     <path
                                         d="M27.6117 54.1406C27.3863 54.1397 27.1702 54.0502 27.0102 53.8914L20.8828 47.8758C20.8016 47.7962 20.737 47.7013 20.6928 47.5965C20.6485 47.4918 20.6255 47.3793 20.625 47.2656V41.25C20.625 41.0221 20.7155 40.8035 20.8767 40.6423C21.0379 40.4812 21.2565 40.3906 21.4844 40.3906H33.5156C33.7435 40.3906 33.9621 40.4812 34.1233 40.6423C34.2845 40.8035 34.375 41.0221 34.375 41.25V42.1094C34.375 42.3373 34.2845 42.5559 34.1233 42.717C33.9621 42.8782 33.7435 42.9688 33.5156 42.9688C33.2877 42.9688 33.0691 42.8782 32.908 42.717C32.7468 42.5559 32.6562 42.3373 32.6562 42.1094H22.3438V46.9047L27.6031 52.0609L32.6562 46.9047V45.5469C32.6562 45.319 32.7468 45.1004 32.908 44.9392C33.0691 44.778 33.2877 44.6875 33.5156 44.6875C33.7435 44.6875 33.9621 44.778 34.1233 44.9392C34.2845 45.1004 34.375 45.319 34.375 45.5469V47.2656C34.3741 47.4911 34.2845 47.7071 34.1258 47.8672L28.2219 53.8828C28.0632 54.0447 27.847 54.1374 27.6203 54.1406H27.6117Z"
@@ -148,10 +148,8 @@
                                         fill="white" />
                                 </svg></div>
                             <div>
-                                <div class="heading-4">Vision</div>
-                                <div class="text-4">Building a premier social and financial network where secure
-                                    transactions empower every
-                                    individual, shaping a future of financial confidence and prosperity.</div>
+                                <div class="heading-4">Flexible Agreements:</div>
+                                <div class="text-4">Adjust, pause, or extend your agreements as circumstances change, ensuring they always reflect current needs with mutual agreement.</div>
                             </div>
                         </div>
                         <div class="mt-5 block-2">
@@ -180,21 +178,19 @@
                                         fill="white" />
                                 </svg></div>
                             <div>
-                                <div class="heading-4">Values</div>
-                                <div class="text-4">Integrity and Honesty - People First - Bold Thinking - Pursuit of
-                                    Excellence -
-                                    Simplicity and Innovation.</div>
+                                <div class="heading-4">Streamlined Management:</div>
+                                <div class="text-4">Keep all your agreements and transactions neatly in one spot for easy oversight. A few clicks is all it takes to review, modify, or confirm, giving you ultimate control and transparency.</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5  col-md-12"><img class="pl-5"
-                            src="assets/images/content/Midnight GreenMockup.png">
+                    <div class="col-lg-5  col-md-12"><img class="pl-5" style="width:100%"
+                            src="assets/images/content/Rectangle 17064.png">
                     </div>
                 </div>
             </div>
         </div>
         <div class="journey ">
-            <div class="container pt-5 pb-5">
+            <div class="container pt-5 pb-5" style="margin-top:9rem !important">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
 

@@ -19,7 +19,7 @@
                     arcu
                     eros id id nibh.Lorem ipsum dolor sit amet consectetur.</div>
             </div>
-            <div class="text-center"> <img style="width: 60%;" src="assets/images/content/Mask group (2).png"></div>
+            <div class="text-center"> <img style="width: 60%;" src="assets/images/content/Rectangle 17005 (3).png"></div>
             <div class="mt-5" style="text-align: left;">Lorem ipsum dolor sit amet consectetur. Dui metus
                 vivamus maecenas ultricies in. Arcu
                 lorem in
@@ -35,30 +35,30 @@
                 ultricies in. Arcu lorem in malesuada sed arcu eros id id nibh.Lorem ipsum dolor sit amet consectetur.
             </div>
 
-            <div class="heading-6 pl-0 mt-5">Share article</div> (Social Media icons)
-            <div class="heading-6 pl-0 mt-5">More articles</div>
+            <div class="heading-1 pl-0 mt-5">Share article</div> (Social Media icons)
+            <div class="heading-1 pl-0 mt-5">More articles</div>
             <div class="highlight-list">
                 <div class="highlight-item">
-                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17011.png"></div>
                     <div class="highlight-block">
-                        <div class="highlight-text">Security</div>
-                        <div class="highlight-content">Is Matensa safe?</div>
+                        <div class="highlight-text">Matensa</div>
+                        <div class="highlight-content">Matensa log in process.</div>
 
                     </div>
                 </div>
                 <div class="highlight-item">
-                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17013.png"></div>
                     <div class="highlight-block">
-                        <div class="highlight-text">Security</div>
-                        <div class="highlight-content">Is Matensa safe?</div>
+                        <div class="highlight-text">Event</div>
+                        <div class="highlight-content">Matensa latest event.</div>
 
                     </div>
                 </div>
                 <div class="highlight-item">
-                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17005.png"></div>
+                    <div class="highlight-image"><img src="assets/images/content/Rectangle 17067.png"></div>
                     <div class="highlight-block">
-                        <div class="highlight-text">Security</div>
-                        <div class="highlight-content">Is Matensa safe?</div>
+                        <div class="highlight-text">News</div>
+                        <div class="highlight-content">Matensa new event.</div>
 
                     </div>
                 </div>

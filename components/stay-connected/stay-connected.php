@@ -30,8 +30,10 @@
 
             <div class="col-md-3"></div>
             <div class="col-md-5">
-                <div class="newsletter-form">
-
+                <div class="newsletter-form mt-5">
+                  <input type="text" placeholder="Your e-mail address">
+                  <div class="mt-3">
+                  <button class="button-5">Subscribe</button></div>
                 </div>
 
             </div>
@@ -42,7 +44,7 @@
     </div>
 </section>
 
-<section class="pagyment-gatway-section pt-5 pb-5">
+<section class="pagyment-gatway-section pt-5 pb-5" style="background-color:#F2F4F7;">
     <div class="container">
         <div class="pagyment-gateway-section-head">
             <div class="desc text-center">
@@ -50,6 +52,21 @@
                 <p>Chosen by leading industries and businesses</p>
             </div>
 
+            <div class="payment-gateway">
+                <?php for($i=1;$i<6;$i++){?>
+                <span><img src="assets/images/payment-gateway/<?php echo $i;?>.png"></span><?php }?>
+            </div>
+        </div>
+
+    </div>
+</section>
+<section class="footer-section pt-5 pb-5" >
+    <div class="container">
+        <div class="pagyment-gateway-section-head">
+            <div class="desc text-center">
+                <p class="mb-0"><b>Trusted by millions of customers worldwide</b></p>
+                <p>Chosen by leading industries and businesses</p>
+            </div>
             <div class="payment-gateway">
                 <?php for($i=1;$i<6;$i++){?>
                 <span><img src="assets/images/payment-gateway/<?php echo $i;?>.png"></span><?php }?>

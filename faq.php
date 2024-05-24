@@ -9,7 +9,8 @@
                 additional, please get in
                 touch
                 with our friendly team</div>
-            <input class="mt-5" style="width: 100%;border: 1px solid #80808073;" type="text" placeholder="Search"
+            <input class="mt-5" style="width: 100%;border: 1px solid #80808073;    padding: 1rem;
+    border-radius: 8px;font-size: 1.3rem;" type="text" placeholder="Search"
                 name="search">
 
             <div class="ng-star-inserted mt-5">
@@ -29,8 +30,7 @@
                 </div>
                 <div class="helpsection-questions-block">
                     <div class="helpsection-questions-row">
-                        <div class="helpsection-questions-header">01. How can i create a Matensa
-                            account ? </div>
+                        <div class="helpsection-questions-header">02. How to create a business account </div>
                         <div class="helpsection-questions-icons"><i class="fal fa-plus-circle"></i>
                         </div>
                     </div>
@@ -89,6 +89,7 @@
                 <span>IIf you aren’t sure or do not have a Matensa account, please enter the email address you are best
                     reached.</span>
             </div>
+            <div class="mb-3" style="text-align:left"><input type="checkbox" class="mr-2" style="margin-right:0.5rem">I no longer have access to this email <span >(Optional) </span></div>
             <div class="form-group">
                 <div class="label">Phone Number <span>(Optional)</span></div> <input type="text">
                 <span>Please enter number only, no dashes. If you have a Matensa account, please use the phone number on
