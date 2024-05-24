@@ -36,9 +36,13 @@ a,
 
 .nav-link {
     font-size: 1rem;
-    color: white;
+    color: #344051 !important;
     position: relative;
     padding: 0.5rem 0.2rem;
+}
+
+.white-header .nav-link {
+    color: #ffffff !important;
 }
 
 .nav-link::before,
@@ -50,7 +54,14 @@ a,
     width: 0;
     height: 1px !important;
     content: "";
-    background: white;
+    background: #344051;
+
+}
+
+.white-header .nav-link::before,
+.white-header .dropdown-toggle:before {
+
+    background: #ffffff;
 
 }
 

@@ -1,8 +1,21 @@
-<header>
+<?php
+// Get the full path of the current PHP file
+$pageName = $_SERVER['PHP_SELF'];
+
+// Extract the base name without the extension
+$pageName = pathinfo($pageName, PATHINFO_FILENAME);
+
+?>
+
+<header class="<?php if($pageName=="index"){?>white-header<?php } ?>">
     <div class="container mod">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="index.php">
+                <?php if($pageName=="index"){?><img src="assets/images/white-logo.svg" alt="Logo"
+                    style="height: 40px;"><?php }else{?>
                 <img src="assets/images/logo.svg" alt="Logo" style="height: 40px;">
+                <?php } ?>
+
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,11 +42,11 @@
 
                         </div>
                     </li>
-                    <li class="nav-item"> 
+                    <li class="nav-item">
                         <a class="nav-link" href="aboutus.php">About us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link"  href="highlights.php">Highlights</a>
+                        <a class="nav-link" href="highlights.php">Highlights</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="faq.php">Contact</a>
