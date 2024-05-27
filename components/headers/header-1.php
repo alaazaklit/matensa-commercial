@@ -25,10 +25,11 @@ $pageName = pathinfo($pageName, PATHINFO_FILENAME);
 
             <div class="collapse navbar-collapse ml-auto" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active">
+                    <li class="nav-item <?php if($pageName=="index"){?>active<?php } ?>">
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
-                    <li class="nav-item dropdown">
+                    <li
+                        class="nav-item dropdown <?php if($pageName=="growbusiness" || $pageName=="agreementoverview" || $pageName=="transactionhistory" || $pageName=="businessintegration"){?>active<?php } ?>">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             Matensa for Business
@@ -42,13 +43,13 @@ $pageName = pathinfo($pageName, PATHINFO_FILENAME);
 
                         </div>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item <?php if($pageName=="aboutus"){?>active<?php } ?>">
                         <a class="nav-link" href="aboutus.php">About us</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item <?php if($pageName=="highlights"){?>active<?php } ?>">
                         <a class="nav-link" href="highlights.php">Highlights</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item <?php if($pageName=="faq"){?>active<?php } ?>">
                         <a class="nav-link" href="faq.php">Contact</a>
                     </li>
                     <li class="nav-item">

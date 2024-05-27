@@ -65,7 +65,8 @@ a,
 
 }
 
-.nav-link:hover:before {
+.nav-link:hover:before,
+.nav-item.active .nav-link:before {
     width: 60%;
 }
 
