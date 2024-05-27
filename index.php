@@ -28,10 +28,22 @@
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
+                           
                             <div class="slider-item-style-1">
-                                <div class="img"><img src="assets/images/home/wallet/2.png"></div>
+                                <div class="img"><img src="assets/images/content/Frame 1000002564.png"></div>
+                                <div class="slider-item-1-content">
+                                    <h5>Rewarding
+Financial Practices</h5>
+                                    <div class="slider-item-1-card">
+                                        <i><img src="assets/images/content/Group 4.png"></i>
+                                        <p>Congratulations you have just
+received a 20% cashback</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+                        
+                        
                         <div class="swiper-slide">
                             <div class="slider-item-style-1">
                                 <div class="img"><img src="assets/images/home/wallet/1.png"></div>
@@ -41,14 +53,22 @@
                                     <div class="slider-item-1-card">
                                         <i><img src="assets/images/home/wallet/icons/1.png"></i>
                                         <p><b>Gym subscription renewal</b> Reminder</p>
-                                        <span>100 $</span>
+                                        <span>50 $</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="slider-item-style-1">
-                                <div class="img"><img src="assets/images/home/wallet/3.png"></div>
+                        <div class="slider-item-style-1">
+                                <div class="img"><img src="assets/images/content/Frame 1000002565.png"></div>
+                                <div class="slider-item-1-content">
+                                    <h5>Agreement Management</h5>
+                                    <div class="slider-item-1-card">
+                                        <i><img   src="assets/images/content/Frame 1000002542"></i>
+                                        <p><b>Payment received</b> Accounts</p>
+                                        <span>100 $</span>
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -74,7 +94,13 @@
 
 
 <!-- ///////////////////Section Three///////////// -->
-<section class='home-section-3 mt-5 pt-5 '>
+<section class='home-section-3 mt-5 pt-5 ' style="position:relative">
+<img style="position:absolute;right:0" src="assets/images/content/Topography Line Pattern (2).png">
+<img style="position:absolute;left:0;top: 65rem;" src="assets/images/content/Topography Line Pattern (3).png">
+<img style="position:absolute;right:0rem;bottom: 45rem;" src="assets/images/content/Topography Line Pattern (4).png">
+<img style="position:absolute;left:0rem;bottom: 0rem;" src="assets/images/content/Topography Line Pattern (5).png">
+
+
     <div class="home-blk-3-1">
         <div class="text-center"><span class="shadow-style-1"></span></div>
 
@@ -108,8 +134,8 @@
     </div>
 
 
-    <div class="home-blk-3-2 mt-5">
-        <div class="container mod">
+    <div class="home-blk-3-2 " style="margin-top:15rem">
+        <div class="container mod" style="padding-bottom:10rem">
             <div class="row">
                 <div class="col-md-5">
                     <div class="gallery-blk-3">
@@ -147,7 +173,8 @@
                         <a class="tab-style-1" onclick="goToSlide('#slider-blk-3-1',3)">Top up/Cash out</a>
                     </div>
                 </div>
-                <div class="col-md-7 pt-5">
+             
+                <div class="col-md-7 pt-5 ">
                     <div class="home-blk-3-content">
                         <h2 class="h2-style-1 color-white">How To Benefit From
                             Matensa Features</h2>
@@ -162,8 +189,8 @@
                 </div>
             </div>
 
-            <div class="row mt-5  pt-5">
-
+            <div class="row mt-5  pt-5" style="margin-top:10rem !important">
+          
                 <div class="col-md-7 pt-5">
                     <div class="home-blk-3-content">
                         <h2 class="h2-style-1 color-white">Experience The Future
@@ -280,6 +307,7 @@
 
 <!-- ///////////////////Matensa Community///////////// -->
 <section class="matensa-community py-5 pt-5">
+
     <div class="container mod text-center">
         <div class="row">
             <div class="col-md-1"></div>

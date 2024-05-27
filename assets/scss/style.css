@@ -183,6 +183,11 @@ body {
   line-height: 5rem;
 }
 
+.footer-section p,
+.footer-section .desc {
+  font-size: 1.1rem !important;
+}
+
 .heading-3 {
   color: #D7008A !important;
 }

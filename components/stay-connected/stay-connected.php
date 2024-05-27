@@ -61,26 +61,53 @@
     </div>
 </section>
 <section class="footer-section pt-5 pb-5" >
-    <div class="container">
+    <div class="container" style="border-bottom:1px solid #8080803d;padding-bottom:1rem">
        <div class="row">
-       <div class="col-lg-2">
-
+       <div class="col-lg-4">
+       <a class="navbar-brand" href="index.php">
+                <img src="assets/images/content/Logo.png" alt="Logo" style="height: 40px;">
+            </a>
+      <div class="desc" style="margin-top:1rem"> We love working with ambitious people. Let's build something great together now. </div>
+      <div class="mt-4"><img style="margin-right:0.6rem" src="assets/images/content/Mobile app store badge.png"><img src="assets/images/content/Mobile app store badge (1).png"> </div>
     </div>
     <div class="col-lg-2">
+    <div class="desc">
+                <p ><b>Product</b></p>
+                <p>Features</p>
+                <p>Highlights</p>
 
+            </div>
 </div>
 <div class="col-lg-2">
-
+<div class="desc ">
+                <p ><b>Company</b></p>
+                <p>About</p>
+                <p>Careers</p>
+                <p>Contact</p>
+            </div>
 </div>
 <div class="col-lg-2">
-
+<div class="desc ">
+                <p ><b>Support</b></p>
+                <p>Help Center</p>
+                <p>Resport a bug</p>
+                <p>Chat Support</p>
+            </div>
 </div>
 <div class="col-lg-2">
-
-</div>
+<div class="desc">
+                <p ><b>Legal</b></p>
+                <p>Terms Of Service</p>
+                <p>Privacy Policy</p>
+                <p><img src="assets/images/content/QR Code.png"> </p>
+            </div>
+</div> 
        </div>
-       <div class="row">
-
-</div>
+    </div>
+    <div class="container mt-5"> 
+        <div class="row">
+            <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
+            <div class="col-lg-6" style="text-align:right">Social media icons</div>
+        </div>
     </div>
 </section>
