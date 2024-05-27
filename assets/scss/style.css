@@ -1940,7 +1940,7 @@ p {
 }
 
 .h1-style-1 {
-  font-size: 4rem;
+  font-size: 4.6rem;
   color: white;
   font-weight: 700;
   line-height: 1;
@@ -1949,6 +1949,7 @@ p {
 .h2-style-1 {
   font-size: 4.35rem;
   color: #141C24;
+  font-weight: 700;
 }
 
 .h3-style-1 {

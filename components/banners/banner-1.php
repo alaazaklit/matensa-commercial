@@ -5,13 +5,14 @@
     <div class="hero-content-row">
         <div class="container mod position-relative">
             <div class="hero-content">
-                <h1 class="h1-style-1">Connect, Pay, Empower</h1>
-                <p class="trans-1">Pay, get paid, and effortlessly grow your business with Matensa. Join our vibrant
+                <h1 class="h1-style-1 mb-3">Connect, Pay, Empower</h1>
+                <p class="trans-1 mb-3">Pay, get paid, and effortlessly grow your business with Matensa. Join our
+                    vibrant
                     community for
                     seamless
                     financial management.</p>
-                <span class="trans-2">
-                    <a class="button-1" href="#">Get the app</a></span>
+                <span class="d-inline-block trans-2">
+                    <a class="d-inline-block text-center button-1" href="#">Get the app</a></span>
             </div>
 
             <!-- //////////BANNER CLIENTS INFO///////// -->
