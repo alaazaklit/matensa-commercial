@@ -100,9 +100,11 @@
                             class="button-2">Submit</button></div>
                 </div>
             </div>
+            <div class="col-md-1"></div>
         </div>
     </div>
-    <?php include 'components/stay-connected/stay-connected.php'; ?>
+</div>
+<?php include 'components/stay-connected/stay-connected.php'; ?>
 <!-- ///////////////////Stay Connected///////////// -->
 <?php include 'components/footers/footer-1.php'; ?>
 <!-- Insights Start here -->

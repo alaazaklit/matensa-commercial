@@ -65,7 +65,8 @@ a,
 
 }
 
-.nav-link:hover:before {
+.nav-link:hover:before,
+.nav-item.active .nav-link:before {
     width: 60%;
 }
 
@@ -83,7 +84,7 @@ a,
 
 ////////////////
 header {
-    position: fixed;
+    position: absolute;
     top: 1.5rem;
     left: 0;
     width: 100%;

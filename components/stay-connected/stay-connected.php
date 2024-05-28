@@ -31,9 +31,10 @@
             <div class="col-md-3"></div>
             <div class="col-md-5">
                 <div class="newsletter-form mt-5">
-                  <input type="text" placeholder="Your e-mail address">
-                  <div class="mt-3">
-                  <button class="button-5">Subscribe</button></div>
+                    <input type="text" placeholder="Your e-mail address">
+                    <div class="mt-3">
+                        <button class="button-5">Subscribe</button>
+                    </div>
                 </div>
 
             </div>
@@ -52,59 +53,62 @@
                 <p>Chosen by leading industries and businesses</p>
             </div>
 
-            <div class="payment-gateway">
-                <?php for($i=1;$i<6;$i++){?>
+            <div class="payment-gateway align-items-center">
+                <?php for($i=1;$i<7;$i++){?>
                 <span><img src="assets/images/payment-gateway/<?php echo $i;?>.png"></span><?php }?>
             </div>
         </div>
 
     </div>
 </section>
-<section class="footer-section pt-5 pb-5" >
+<section class="footer-section pt-5 pb-5">
     <div class="container" style="border-bottom:1px solid #8080803d;padding-bottom:1rem">
-       <div class="row">
-       <div class="col-lg-4">
-       <a class="navbar-brand" href="index.php">
-                <img src="assets/images/content/Logo.png" alt="Logo" style="height: 40px;">
-            </a>
-      <div class="desc" style="margin-top:1rem"> We love working with ambitious people. Let's build something great together now. </div>
-      <div class="mt-4"><img style="margin-right:0.6rem" src="assets/images/content/Mobile app store badge.png"><img src="assets/images/content/Mobile app store badge (1).png"> </div>
-    </div>
-    <div class="col-lg-2">
-    <div class="desc">
-                <p ><b>Product</b></p>
-                <p>Features</p>
-                <p>Highlights</p>
+        <div class="row">
+            <div class="col-lg-4">
+                <a class="navbar-brand" href="index.php">
+                    <img src="assets/images/content/Logo.png" alt="Logo" style="height: 40px;">
+                </a>
+                <div class="desc" style="margin-top:1rem"> We love working with ambitious people. Let's build something
+                    great together now. </div>
+                <div class="mt-4"><img style="margin-right:0.6rem"
+                        src="assets/images/content/Mobile app store badge.png"><img
+                        src="assets/images/content/Mobile app store badge (1).png"> </div>
+            </div>
+            <div class="col-lg-2">
+                <div class="desc">
+                    <p><b>Product</b></p>
+                    <p>Features</p>
+                    <p>Highlights</p>
 
+                </div>
             </div>
-</div>
-<div class="col-lg-2">
-<div class="desc ">
-                <p ><b>Company</b></p>
-                <p>About</p>
-                <p>Careers</p>
-                <p>Contact</p>
+            <div class="col-lg-2">
+                <div class="desc ">
+                    <p><b>Company</b></p>
+                    <p>About</p>
+                    <p>Careers</p>
+                    <p>Contact</p>
+                </div>
             </div>
-</div>
-<div class="col-lg-2">
-<div class="desc ">
-                <p ><b>Support</b></p>
-                <p>Help Center</p>
-                <p>Resport a bug</p>
-                <p>Chat Support</p>
+            <div class="col-lg-2">
+                <div class="desc ">
+                    <p><b>Support</b></p>
+                    <p>Help Center</p>
+                    <p>Resport a bug</p>
+                    <p>Chat Support</p>
+                </div>
             </div>
-</div>
-<div class="col-lg-2">
-<div class="desc">
-                <p ><b>Legal</b></p>
-                <p>Terms Of Service</p>
-                <p>Privacy Policy</p>
-                <p><img src="assets/images/content/QR Code.png"> </p>
+            <div class="col-lg-2">
+                <div class="desc">
+                    <p><b>Legal</b></p>
+                    <p>Terms Of Service</p>
+                    <p>Privacy Policy</p>
+                    <p><img src="assets/images/content/QR Code.png"> </p>
+                </div>
             </div>
-</div> 
-       </div>
+        </div>
     </div>
-    <div class="container mt-5"> 
+    <div class="container mt-5">
         <div class="row">
             <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
             <div class="col-lg-6" style="text-align:right">
