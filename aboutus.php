@@ -1,7 +1,7 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
     <div >
-        <div class="welcome" style="background-image: url('assets/images/Rectangle\ 16938.png');
+        <div class="welcome" style="background-image: url('assets/images/Rectangle\ 16938.png'); padding-bottom:10rem;
         ">
             <div class="container pt-5 pb-5" style=" padding-top: 12rem !important;">
                 <div class="row">
@@ -10,7 +10,11 @@
                         <div class="heading-2 mt-2"> Welcome To Matensa: <br> A New Era Of Financial Empowerment</div>
                         <div class="mt-4"> <button class="button-1"> Try it now</button></div>
                     </div>
-                    <div class="col-lg-4 col-md-12"> <img width="120%" src="assets/images/content/Frame 1000002533 (1).png">
+                    <div class="col-lg-4 col-md-12"> <img style=" position: absolute;
+    z-index: -3;
+    height: 100%;
+    top: 11rem;left:57rem;
+    width: 100%;" src="assets/images/Rectangle 16948 (1).png"><img width="120%" src="assets/images/content/Frame 1000002533 (1).png">
                     </div>
                 </div>
             </div>
@@ -18,8 +22,8 @@
         <div class="journey mt-5 pb-5">
             <div class="container pt-5 pb-5">
                 <div class="row">
-                    <div class="col-lg-5 col-md-12">
-                        <div class="heading-2 mt-2">Our Journey <div class="heading-3"> Begins </div>
+                    <div class="col-lg-5 col-md-12 pt-5">
+                        <div class="heading-2 mt-2 pt-5">Our Journey <div class="heading-3"> Begins </div>
                         </div>
                         <div class="mt-4 text-1"> In the crucible of adversity, Matensa was born — not merely as a
                             platform,

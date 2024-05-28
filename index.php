@@ -73,8 +73,16 @@ received a 20% cashback</p>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="slider-item-style-1">
-                                <div class="img"><img src="assets/images/home/wallet/4.png"></div>
+                        <div class="slider-item-style-1">
+                                <div class="img"><img src="assets/images/content/Frame 1000002566.png"></div>
+                                <div class="slider-item-1-content">
+                                    <h5>Secure Payment Management</h5>
+                                    <div class="slider-item-1-card">
+                                        <i><img   src="assets/images/content/Featured Icons.png"></i>
+                                        <p><b>Paid successfully- View your invoice </b> Accounts</p>
+                                     
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <!-- Add more slides as needed -->

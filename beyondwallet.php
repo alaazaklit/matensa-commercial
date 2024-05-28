@@ -5,7 +5,7 @@
             <div class="container pt-5 pb-5" style="margin-top:5rem">
 
                 <div class="row mt-5 pt-5">
-                    <div class="col-lg-7 col-md-12 heading-6  pt-5">
+                    <div class="col-lg-7 col-md-12   pt-5">
                         <div class="heading-2 mt-2 ">Beyond An
                             <span class="heading-3">E-wallet </span>
                         </div>
@@ -30,7 +30,7 @@
                     <div class="col-lg-5 col-md-12">
                         <img style="border-radius: 16px;" width="100%" src="assets/images/content/Frame 1000002546.png">
                     </div>
-                    <div class="col-lg-7 col-md-12 pl-3 heading-6 pt-5">
+                    <div class="col-lg-7 col-md-12 pl-3  pt-5">
                         <div class="heading-2 mt-2 mb-4">Efficient
                             <span class="heading-3">Payment </span>Reminders
                         </div>
@@ -47,7 +47,7 @@
         <div class=" mt-3 pb-3">
             <div class="container pt-5 pb-5">
                 <div class="row mt-2 ">
-                    <div class="col-lg-7 col-md-12 heading-6  pt-2">
+                    <div class="col-lg-8 col-md-12  pt-2">
                         <div class="heading-2  ">Rewarding
                             <span class="heading-3">Financial </span>Practices
                         </div>
@@ -60,7 +60,7 @@
                             operational efficiency.</p>
 
                     </div>
-                    <div class="col-lg-5 col-md-12 pl-5">
+                    <div class="col-lg-4 col-md-12 pl-5">
                         <img style="border-radius: 16px;" width="80%"
                             src="assets/images/content/Investment-Data-2--Streamline-Milano.png">
                     </div>
@@ -73,7 +73,7 @@
                     <div class="col-lg-5 col-md-12">
                         <img style="border-radius: 16px;" width="100%" src="assets/images/content/Frame 1000002547.png">
                     </div>
-                    <div class="col-lg-7 col-md-12 pl-3 heading-6 pt-5">
+                    <div class="col-lg-7 col-md-12 pl-3  pt-5">
                         <div class="heading-2 mt-2 mb-4">Effortless
                             <span class="heading-3">Agreement </span>Management
                         </div>

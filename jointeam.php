@@ -5,7 +5,7 @@
         <div class="container pt-5 pb-5">
 
             <div class="row mt-5 pt-5">
-                <div class="col-lg-7 col-md-12 heading-6  pt-5">
+                <div class="col-lg-7 col-md-12  pt-5">
                     <div class="heading-2 mt-2 ">Everything you need to scale a <span class="underlinepink">global
                             team</span>
                     </div>

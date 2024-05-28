@@ -26,7 +26,13 @@
             </div>
             <div class="row text-5 mt-4">
                 <div class="col-lg-5">Show us your work<span class="warning">*</span></div>
-                <div class="col-lg-7"><input type="text" placeholder="Upload Your CV & Portfolio"></div>
+                <div class="col-lg-7"><div class="upload-container">
+    <label for="file-input">
+      <div class="upload-icon"><img src="assets/images/content/Featured Icons (1).png"></div>
+      <div class="upload-text"><b>Upload your CV & Portfolio</b> <br> 5MB max file size</div>
+    </label>
+    <input id="file-input" class="file-input" type="file">
+  </div></div>
             </div>
             <div class="row text-5 mt-4">
                 <div class="col-lg-5">LinkedIn profile</div>

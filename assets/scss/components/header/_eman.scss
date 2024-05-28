@@ -57,7 +57,9 @@ body {
     padding: 1rem;
     font-size: 1.2rem !important;
 }
-
+.block-2 .text-4{
+    font-size: 1rem !important;
+}
 .button-5 {
     width: 100%;
     height: unset !important;
@@ -65,9 +67,11 @@ body {
     // border: var(--spacing-2, 2px) solid var(--Text-text-primary, #141C24);
     background: #970061 !important;
     font-size: 1.123rem;
+    min-width: 10rem !important;
     padding: 0.7rem 1rem;
     font-weight: 500;
     color: white !important;
+    text-transform: unset !important;
 }
 
 .button-1 {
@@ -79,6 +83,8 @@ body {
     font-size: 1.123rem;
     padding: 0.7rem 1rem;
     width: 10.25rem;
+    text-transform: unset !important;
+    min-width: 10rem !important;
     font-weight: 500;
     color: black !important;
 }
@@ -458,11 +464,27 @@ body .securepayment .block-slider .block-bl {
     margin-right: 2rem;
     max-width: 19rem;
 }
-
+.salary input[type=text]{
+    border: 1px solid #8080808a !important;
+    height: 33px !important;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 1rem !important;
+}
+.newsletter-form input[type=text]{
+    height: 45px;
+    font-size: 1rem !important;
+}
+.Jobdetail ul{
+    list-style-type: unset !important;
+}
 .job-detail {
     display: flex;
+    margin-left: -15px;
 }
-
+.salary img{
+    width: 20%;
+}
 .job-detail img {
     width: 5%;
     height: 10%;
@@ -521,6 +543,8 @@ body .securepayment .block-slider .block-bl {
     font-weight: 600;
     font-size: 1rem !important;
     height: unset !important;
+    min-width: 10rem !important;
+    text-transform: unset !important;
 }
 
 .action-buttons button {
@@ -554,6 +578,8 @@ select {
     border-radius: 50px;
     border: unset !important;
     background-image: linear-gradient(to left, #D7008A 0%, #EB525D 51%, #FFA72E 100%);
+    text-transform: unset !important;
+    min-width: 10rem !important;
 }
 
 .button-3 {
@@ -562,10 +588,12 @@ select {
     background-color: #F9FAFB;
     border-radius: 8px;
     font-weight: 400;
+    min-width: 10rem !important;
     color: black;
     font-size: 1rem;
     height: unset;
     min-width: 5rem;
+    text-transform: unset !important;
     margin-top: 1rem;
 }
 
@@ -583,14 +611,16 @@ select {
 }
 
 .apply-now input[type=text] {
-    width: 60%;
+   
     font-size: 1rem;
     border: 1px solid #80808082;
     border-radius: 8px;
     height: 50px;
     padding: 1rem;
 }
-
+.apply-now select{
+    width: 100% !important;
+}
 .apply-now select {
     border-radius: 8px;
     height: 50px;
@@ -632,13 +662,23 @@ select {
 }
 
 .securepayment .block-slider {
-    grid-gap: 14rem;
+    grid-gap: 10rem;
+    width: 90%;
+    margin: auto;
 }
 
 .securepayment .block {
     max-width: 40%;
 }
-
+.row{
+    margin-left: -30px !important;
+    margin-right: -30px !important;
+}
+.socialmediaicons{
+    grid-gap: 1rem;
+    display: flex;
+    float: right;
+}
 .securepayment .block:nth-child(1) {
     background-color: #E5F4FF !important;
     text-align: left;
@@ -992,3 +1032,30 @@ select {
         font-size: 14px;
     }
 }
+
+
+
+
+.upload-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    background-color: #F9FAFB;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .upload-icon {
+    font-size: 48px;
+    color: #888888;
+  }
+  
+  .upload-text {
+    margin-top: 10px;
+    font-size: 16px;
+  }
+  
+  .file-input {
+    display: none;
+  }

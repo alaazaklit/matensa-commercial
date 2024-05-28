@@ -107,7 +107,13 @@
     <div class="container mt-5"> 
         <div class="row">
             <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
-            <div class="col-lg-6" style="text-align:right">Social media icons</div>
+            <div class="col-lg-6" style="text-align:right">
+            <div class="socialmediaicons"><img src="assets/images/Vector (1).svg">
+            <img src="assets/images/instagram.svg">
+            <img src="assets/images/linkedin.svg">
+            <img src="assets/images/Facebook.svg">
+        </div>
+        </div>
         </div>
     </div>
 </section>
