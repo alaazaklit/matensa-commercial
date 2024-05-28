@@ -45,7 +45,7 @@
     </div>
 </section>
 
-<section class="pagyment-gatway-section pt-5 pb-5" style="background-color:#F2F4F7;">
+<section class="pagyment-gatway-section pt-5 pb-5" >
     <div class="container">
         <div class="pagyment-gateway-section-head">
             <div class="desc text-center">
@@ -62,15 +62,15 @@
     </div>
 </section>
 <section class="footer-section pt-5 pb-5">
-    <div class="container" style="border-bottom:1px solid #8080803d;padding-bottom:1rem">
+    <div class="container" >
         <div class="row">
             <div class="col-lg-4">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/content/Logo.png" alt="Logo" style="height: 40px;">
+                    <img src="assets/images/content/Logo.png" alt="Logo" >
                 </a>
-                <div class="desc" style="margin-top:1rem"> We love working with ambitious people. Let's build something
+                <div class="desc mt-3" > We love working with ambitious people. Let's build something
                     great together now. </div>
-                <div class="mt-4"><img style="margin-right:0.6rem"
+                <div class="mt-4"><img class="marginright"
                         src="assets/images/content/Mobile app store badge.png"><img
                         src="assets/images/content/Mobile app store badge (1).png"> </div>
             </div>
@@ -111,7 +111,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
-            <div class="col-lg-6" style="text-align:right">
+            <div class="col-lg-6" class="text-right">
             <div class="socialmediaicons"><img src="assets/images/Vector (1).svg">
             <img src="assets/images/instagram.svg">
             <img src="assets/images/linkedin.svg">

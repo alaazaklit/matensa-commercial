@@ -1,6 +1,6 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-<div class="business" style="margin-top:5rem">
+<div class="business" >
     <div class="welcome text-center">
         <div class="container pt-5 pb-5">
             <div class="heading-1">Matensa for Business</div>

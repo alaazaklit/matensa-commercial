@@ -1,8 +1,8 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-    <div>
+    <div class="mt-5">
         <div class=" mt-3 pb-3" >
-            <div class="container pt-5 pb-5" style="margin-top:5rem">
+            <div class="container pt-5 pb-5" >
 
                 <div class="row mt-5 pt-5">
                     <div class="col-lg-7 col-md-12   pt-5">
@@ -18,7 +18,7 @@
                         <div><button class="button-1">Try it now</button></div>
                     </div>
                     <div class="col-lg-5 col-md-12 pl-5">
-                        <img style="border-radius: 16px;" width="80%" src="assets/images/content/Frame 1000002545.png">
+                        <img class="borderrad" width="80%" src="assets/images/content/Frame 1000002545.png">
                     </div>
                 </div>
 
@@ -28,7 +28,7 @@
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
-                        <img style="border-radius: 16px;" width="100%" src="assets/images/content/Frame 1000002546.png">
+                        <img class="borderrad" width="100%" src="assets/images/content/Frame 1000002546.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-3  pt-5">
                         <div class="heading-2 mt-2 mb-4">Efficient
@@ -61,7 +61,7 @@
 
                     </div>
                     <div class="col-lg-4 col-md-12 pl-5">
-                        <img style="border-radius: 16px;" width="80%"
+                        <img class="borderrad" width="80%"
                             src="assets/images/content/Investment-Data-2--Streamline-Milano.png">
                     </div>
                 </div>
@@ -71,7 +71,7 @@
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
-                        <img style="border-radius: 16px;" width="100%" src="assets/images/content/Frame 1000002547.png">
+                        <img class="borderrad" width="100%" src="assets/images/content/Frame 1000002547.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-3  pt-5">
                         <div class="heading-2 mt-2 mb-4">Effortless

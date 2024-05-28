@@ -1,7 +1,7 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
     <div class="business">
-        <div class="welcome text-center" style="margin-top:6rem !important">
+        <div class="welcome text-center" >
             <div class="container pt-5 pb-5">
                 <div class="heading-1">Transaction History</div>
                 <div class="heading-2 mt-2"> Access A Streamlined Overview Of All Your Matensa Transactions
@@ -18,7 +18,7 @@
         </div>
 
 
-        <div style="margin-top: -7rem;">
+        <div class="manage" >
             <div class="container pt-5 pb-5">
                 <div class="row manageagreements">
                     <div class="col-lg-6 col-md-12 heading-6  pt-5">
@@ -28,13 +28,12 @@
                         <p class="mt-4">Tailor agreements that resonate with your business operations, including
                             meticulously planned payment schedules.</p>
                         <button class="button-1 mb-5 ">Learn More</button>
-                        <img style="border-radius: 16px;    margin-left: 5rem;
-                        margin-top: 2rem;" width="90%" src="assets/images/content/Rectangle 17005 (2).png">
+                        <img class="mt-5 ml-5 borderrad" width="90%" src="assets/images/content/Rectangle 17005 (2).png">
 
                     </div>
                     <div class="col-lg-6 col-md-12 pl-5 mt-5">
 
-                        <img style="border-radius: 16px;    margin-top: 10rem;" width="90%"
+                        <img class="borderrad mt-5" width="90%"
                             src="assets/images/content/Mask group (10).png">
                     </div>
                 </div>
@@ -42,7 +41,7 @@
             </div>
         </div>
 
-        <div class="pb-5">
+        <div class="pb-5 ">
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
@@ -64,7 +63,7 @@
             </div>
         </div>
 
-        <div class="journey mt-5 pt-5" style="margin-top:8rem !important">
+        <div class="journey mt-5 pt-5" >
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
@@ -81,11 +80,9 @@
                         <button class="button-1 mb-5">Get The App</button>
                     </div>
                     <div class="col-lg-7 col-md-12  heading-6 pt-5">
-                        <img style="border-radius: 16px;width: 48%;" width="100%"
+                        <img class="image-15" width="100%"
                             src="assets/images/content/Rectangle 17061.png">
-                        <img class="mockupimage" style="border-radius: 16px;width:30%;position:absolute;    top: -9rem;
-                        right: -1rem;
-                    " width="100%" src="assets/images/content/Mockup-iPhone.png">
+                        <img class="mockupimage image-16" width="100%" src="assets/images/content/Mockup-iPhone.png">
                     </div>
                 </div>
             </div>

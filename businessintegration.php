@@ -1,6 +1,6 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-    <div class="business" style="margin-top:5rem">
+    <div class="business" >
         <div class="welcome text-center">
             <div class="container pt-5 pb-5">
                 <div class="heading-1">Seamless business integration</div>
@@ -41,8 +41,8 @@
                         <p>Experience the adaptability of managing your financial engagements with Matensa: at any moment, you're empowered to alter, discontinue, or put your agreements on hold, with the understanding that any revisions require unanimous agreement from all participating parties.</p>
 
                     </div>
-                    <div class="col-lg-3 col-md-12" style="position: relative;">
-                        <img style="border-radius: 16px;" width="100%"
+                    <div class="col-lg-3 col-md-12" class="relativeposition">
+                        <img class="borderrad" width="100%"
                             src="assets/images/content/Reset-Password-1--Streamline-Milano.png">
                     </div>
                 </div>
@@ -59,10 +59,10 @@
                     services shine in their respective spaces for a superior browsing experience.
                 </div>
                 <div class="mt-1"> <img width="100%" src="assets/images/content/Mask group (8).png"> </div>
-                <div class="row mt-2 steps" style="text-align: left;padding-left: 6rem;">
+                <div class="row mt-2 steps" >
                     <div class="col-lg-4">
                         <div class="numbering">1</div>
-                        <div class="heading-1" style="font-weight: 600;">Get Started
+                        <div class="heading-1" ><b>Get Started</b>
                         </div>
                         <div class="text-4 mt-3">Adjust, pause, or extend your agreements as circumstances change,
                             ensuring they always reflect current needs with mutual agreement.
@@ -70,14 +70,14 @@
                     </div>
                     <div class="col-lg-4">
                         <div class="numbering icon-yellow">2</div>
-                        <div class="heading-1" style="font-weight: 600;">Fill in the form</div>
+                        <div class="heading-1" ><b>Fill in the form</b></div>
                         <div class="text-4 mt-3">Adjust, pause, or extend your agreements as circumstances change,
                             ensuring they always reflect current needs with mutual agreement.
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="numbering icon-blue">3</div>
-                        <div class="heading-1" style="font-weight: 600;">Publish your profile</div>
+                        <div class="heading-1" ><b>Publish your profile</b></div>
                         <div class="text-4 mt-3">Adjust, pause, or extend your agreements as circumstances change,
                             ensuring they always reflect current needs with mutual agreement.
                         </div>
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <div class="welcome text-center ">
+        <div class="welcome text-center pb-5">
             <div class="container pt-5 pb-5">
                 <div class="heading-2">LEARN MORE ABOUT <br>
                     MATENSA BUSINESS PROFILE
@@ -108,7 +108,7 @@
 
 
 
-        <div class="journey mt-5 " style="margin-top:10rem !important">
+        <div class="journey mt-5 pt-5" >
             <div class="container pt-5 pb-5 ">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
@@ -121,13 +121,11 @@
                             porttitor rhoncus sed. Ullamcorper cursus ut ultrices enim arcu sed dictum eget pharetra.
                         </p>
                         <button class="button-1 mb-5">Get The App</button>
-                    </div>
+                    </div> 
                     <div class="col-lg-7 col-md-12  heading-6 pt-5">
-                        <img style="border-radius: 16px;width: 48%;" width="100%"
+                        <img  class="image-15"  width="100%"
                             src="assets/images/content/Rectangle 17061.png">
-                        <img class="mockupimage" style="border-radius: 16px;width:30%;position:absolute;    top: -9rem;
-                        right: -1rem;
-                    " width="100%" src="assets/images/content/Mockup-iPhone.png">
+                        <img class="mockupimage image-16"  width="100%" src="assets/images/content/Mockup-iPhone.png">
                     </div>
                 </div>
             </div>
