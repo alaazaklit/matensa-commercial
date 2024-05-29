@@ -296,10 +296,12 @@ Protecting your privacy is our number one priority. Hence, we want to insure all
                             Lebanon.</div>
                         <div class="white-text mb-2"><img src="assets/images/Email (1).svg" class="marginright">support@matensa.com</div>
                         <div class="white-text"><img src="assets/images/Phone.svg" class="marginright">+9617894636</div>
-                    <div class="socialmedia">  <div class="socialmediaicons"><img src="assets/images/Vector (1).svg">
-            <img src="assets/images/instagram.svg">
-            <img src="assets/images/linkedin.svg">
-            <img src="assets/images/Facebook.svg">
+                    <div class="socialmedia">  <div class="socialmediaicons">
+                        
+                    <a href="https://twitter.com/matensaapp?s=11&t=UIx1kLcYngQAx6Y_twFBtA"><img src="assets/images/Vector (1).svg"></a>
+            <a href="https://www.instagram.com/matensa.ltd?igsh=MTVmanhnN3BsbHZ0Yg=="><img src="assets/images/instagram.svg"></a>
+            <a href="https://www.linkedin.com/company/matensa-app/"><img src="assets/images/linkedin.svg"></a>
+            <a href="https://www.facebook.com/matensaapp?mibextid=LQQJ4d"><img src="assets/images/Facebook.svg"></a>
         </div></div>
                 </div>
 

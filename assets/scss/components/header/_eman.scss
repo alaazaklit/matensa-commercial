@@ -23,6 +23,9 @@ body {
     font-size: 1.1rem !important;
 }
 
+.footer-section a{
+    color: black;
+}
 .heading-3 {
     color: #D7008A !important;
 }
@@ -170,8 +173,14 @@ body {
     list-style-type: none;
     display: flex;
 }
+.slider-item-1-content h5{
+color: white;
+}
 
-.half-div {
+a.button-1{
+    text-align: center;
+}
+.half-div{
     width: 50%;
     margin: auto;
 }

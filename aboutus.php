@@ -8,7 +8,8 @@
                 <div class="col-lg-8 col-md-12 pt-5">
                     <div class="heading-1 pt-5"> About us</div>
                     <div class="heading-2 mt-2"> Welcome To Matensa: <br> A New Era Of Financial Empowerment</div>
-                    <div class="mt-4"> <button class="button-1"> Try it now</button></div>
+                    <div class="mt-4"> <a class="button-1"
+                            href="https://play.google.com/store/apps/details?id=com.matensa.app"> Try it now</a></div>
                 </div>
                 <div class="col-lg-4 col-md-12 pt-5"> <img class="image-10"
                         src="assets/images/Rectangle 16948 (1).png"><img width="120%" class="pt-5"
