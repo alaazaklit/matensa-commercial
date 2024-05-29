@@ -256,24 +256,26 @@
                     <div class="home-blk-3-content">
                         <h2 class="h2-style-1 color-white">M Connect: Seamless Bill Payments to Utilities and
                             Municipalities</h2>
-                        <div class="row">
-                            <div class="col-md-7">
-                                <div class="desc color-white">
-                                    <p>Set up your bill payments effortlessly by linking your account with utility
-                                        providers or
-                                        municipal services just once. After your account details are confirmed against
-                                        the
-                                        supplier's records...
-                                    </p>
-                                </div>
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <div class="desc color-white">
+                                        <p>Set up your bill payments effortlessly by linking your account with utility
+                                            providers or
+                                            municipal services just once. After your account details are confirmed
+                                            against
+                                            the
+                                            supplier's records...
+                                        </p>
+                                    </div>
 
-                                <a class="button-1" href="#">Read More</a>
-                            </div>
-                            <div class="col-md-5">
-                                <div class="img"><img src="assets/images/home/3/3/1.png"></div>
+                                    <a class="button-1" href="#">Read More</a>
+                                </div>
+                                <div class="col-md-5">
+                                    <div class="img"><img src="assets/images/home/3/3/1.png"></div>
+                                </div>
                             </div>
                         </div>
-
                     </div>
 
                 </div>

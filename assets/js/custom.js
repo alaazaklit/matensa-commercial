@@ -61,7 +61,41 @@ document.addEventListener('DOMContentLoaded', (event) => {
     });
 });
 
-
+document.addEventListener('DOMContentLoaded', (event) => {
+    const swiper = new Swiper('.swiper-container-3', {
+        slidesPerView: 1,
+        centeredSlides: false,
+        loop: false,
+        spaceBetween: 10,
+        initialSlide: 0,
+        effect: 'coverflow',
+        coverflowEffect: {
+            rotate: 0,
+            stretch: 0,
+            depth: 0,
+            modifier: 1,
+            slideShadows: false,
+        },
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next-swiper-testimonoals',
+            prevEl: '.swiper-button-prev-swiper-testimonoals',
+        },
+        breakpoints: {
+            768: {
+                slidesPerView: 4,
+                centeredSlides: false,
+            },
+            600: {
+                slidesPerView: 3,
+                centeredSlides: false,
+            }
+        }
+    });
+});
 document.addEventListener('DOMContentLoaded', (event) => {
     // Select all swiper containers
     const swiperContainers = document.querySelectorAll('.swiper-container-2');
