@@ -45,7 +45,7 @@
     </div>
 </section>
 
-<section class="pagyment-gatway-section pt-5 pb-5" >
+<section class="pagyment-gatway-section pt-5 pb-5">
     <div class="container">
         <div class="pagyment-gateway-section-head">
             <div class="desc text-center">
@@ -62,20 +62,20 @@
     </div>
 </section>
 <section class="footer-section pt-5 pb-5">
-    <div class="container" >
+    <div class="container">
         <div class="row">
             <div class="col-lg-4">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/content/Logo.png" alt="Logo" >
+                    <img src="assets/images/content/Logo.png" alt="Logo">
                 </a>
-                <div class="desc mt-3" > We love working with ambitious people. Let's build something
+                <div class="desc mt-3"> We love working with ambitious people. Let's build something
                     great together now. </div>
-                <div class="mt-4">
+                <div class="mt-4 play-store-row">
                     <a href="https://play.google.com/store/apps/details?id=com.matensa.app"><img class="marginright"
                         src="assets/images/content/Mobile app store badge.png"></a><a href="https://apps.apple.com/lb/app/matensa/id1617027453"><img
                         src="assets/images/content/Mobile app store badge (1).png"></a> </div>
             </div>
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-6">
                 <div class="desc">
                     <p><b>Product</b></p> 
                     <p><a>Features</a></p>
@@ -83,7 +83,7 @@
 
                 </div>
             </div>
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-6">
                 <div class="desc ">
                     <p><b>Company</b></p>
                     <p><a href="aboutus">About</a></p>
@@ -91,7 +91,7 @@
                     <p><a href="faq">Contact</a></p>
                 </div>
             </div>
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-6">
                 <div class="desc ">
                     <p><b>Support</b></p>
                     <p>Help Center</p>
@@ -99,7 +99,7 @@
                     <p>Chat Support</p>
                 </div>
             </div>
-            <div class="col-lg-2">
+            <div class="col-lg-2 col-6">
                 <div class="desc">
                     <p><b>Legal</b></p>
                     <p><a href="termsofservice">Terms Of Service</a></p>
@@ -109,7 +109,7 @@
             </div>
         </div>
     </div>
-    <div class="container mt-5">
+    <div class="copy-r container mt-5">
         <div class="row">
             <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
             <div class="col-lg-6" class="text-right">

@@ -84,9 +84,9 @@
                                 <div class="slider-item-1-content">
                                     <h5>Secure Payment Management</h5>
                                     <div class="slider-item-1-card">
-                                        <i><img   src="assets/images/content/Featured Icons.png"></i>
+                                        <i><img src="assets/images/content/Featured Icons.png"></i>
                                         <p><b>Paid successfully- View your invoice </b> Accounts</p>
-                                     
+
                                     </div>
                                 </div>
                             </div>
@@ -109,11 +109,8 @@
 
 
 <!-- ///////////////////Section Three///////////// -->
-<section class='home-section-3 mt-5 pt-5 relativeposition' >
-    <img class="image-home-1" src="assets/images/content/Topography Line Pattern (2).png">
-    <img class="image-home-2" src="assets/images/content/Topography Line Pattern (3).png">
-    <img class="image-home-3" src="assets/images/content/Topography Line Pattern (4).png">
-    <img class="image-home-4" src="assets/images/content/Topography Line Pattern (5).png">
+<section class='home-section-3 mt-5 pt-5 relativeposition'>
+
 
 
     <div class="home-blk-3-1">
@@ -149,7 +146,7 @@
     </div>
 
 
-    <div class="home-blk-3-2 pt-5 mt-5" >
+    <div class="home-blk-3-2 pt-5 mt-5">
         <div class="container mod pb-5 mt-5">
             <div class="row pb-5">
                 <div class="col-md-5">
@@ -204,7 +201,7 @@
                 </div>
             </div>
 
-            <div class="row mt-5  pt-5" >
+            <div class="row mt-5  pt-5">
 
                 <div class="col-md-7 pt-5 mt-5">
                     <div class="home-blk-3-content mt-5">
@@ -286,6 +283,10 @@
         </div>
     </div>
     <div class="text-center"><span class="shadow-style-1"></span></div>
+    <img class="image-home-1" src="assets/images/content/Topography Line Pattern (2).png">
+    <img class="image-home-2" src="assets/images/content/Topography Line Pattern (3).png">
+    <img class="image-home-3" src="assets/images/content/Topography Line Pattern (4).png">
+    <img class="image-home-4" src="assets/images/content/Topography Line Pattern (5).png">
 </section>
 
 <!-- ///////////////////Testimonials Section///////////// -->
@@ -317,6 +318,8 @@
             <div class="col-md-1"></div>
         </div>
     </div>
+
+
 </section>
 
 

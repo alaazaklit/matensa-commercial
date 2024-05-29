@@ -7,7 +7,7 @@ $pageName = pathinfo($pageName, PATHINFO_FILENAME);
 
 ?>
 
-<header class="<?php if($pageName=="index"){?>white-header<?php } ?>">
+<header class="header <?php if($pageName=="index"){?>white-header<?php } ?>">
     <div class="container mod">
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="index">
@@ -17,13 +17,13 @@ $pageName = pathinfo($pageName, PATHINFO_FILENAME);
                 <?php } ?>
 
             </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+            <a class="navbar-toggler" onclick="showMenu()" type="button" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-label="Toggle navigation">
+                <span class="menu-bar"><span></span><span></span><span></span></span>
+            </a>
 
-
-            <div class="collapse navbar-collapse ml-auto" id="navbarNav">
+            <span class="menu-mobile-shadow"></span>
+            <div class="collapse navbar-collapse show ml-auto" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item <?php if($pageName=="index"){?>active<?php } ?>">
                         <a class="nav-link" href="index">Home</a>
