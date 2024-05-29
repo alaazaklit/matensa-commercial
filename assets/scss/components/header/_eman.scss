@@ -315,7 +315,8 @@ body .securepayment .block-slider .block-bl {
     font-weight: 700;
     position: absolute;
     bottom: 7rem;
-    left: 2rem;
+    left: 0;
+    line-height: 1.2;
 }
 
 .image-8 {
@@ -326,7 +327,7 @@ body .securepayment .block-slider .block-bl {
 
 .text-2 {
     color: var(--Text-text-secondary, #344051);
-    font-size: 1.25rem;
+    font-size: 1rem;
     font-weight: 400;
 }
 
@@ -340,7 +341,8 @@ body .securepayment .block-slider .block-bl {
     display: flex;
     position: absolute;
     bottom: 2rem;
-    width: 22rem;
+    width: 90%;
+    left: 5%;
 }
 
 
@@ -352,18 +354,67 @@ body .securepayment .block-slider .block-bl {
     height: 2.2rem;
     text-align: center;
     padding-top: 0.3rem;
+    margin-right: 0.5rem;
 }
 
 .block {
     /* width: 34%; */
-    height: 34rem;
+    height: 29rem;
     position: relative;
     flex-shrink: 0;
     padding: 2rem 1rem;
-    border-radius: var(--spacing-32, 2rem);
+    border-radius: var(--spacing-32, 1rem);
     background: var(--light-pink, #FAD2E1);
+    background-position: center;
     flex: 33%;
     max-width: 31%;
+    overflow: hidden;
+}
+
+.block:hover .block-hover {
+    top: 0;
+    opacity: 1;
+}
+
+#aboutus-slider-1 .block {
+    width: 100%;
+    max-width: 100%;
+    flex: 100%;
+}
+
+#aboutus-slider-1 .swiper-slide {
+    color: #000000
+}
+
+.block-hover {
+    width: 100%;
+    max-width: 100%;
+    flex: 100%;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    z-index: 10;
+    opacity: 0;
+    transition-delay: 0s;
+    transition-duration: .4s;
+    transition-property: all;
+    transition-timing-function: ease;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-duration: .4s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-delay: 0s;
+    -moz-transition-duration: .4s;
+    -moz-transition-property: all;
+    -moz-transition-timing-function: ease;
+    -ms-transition-delay: 0s;
+    -ms-transition-duration: .4s;
+    -ms-transition-property: all;
+    -ms-transition-timing-function: ease;
+    -o-transition-delay: 0s;
+    -o-transition-duration: .4s;
+    -o-transition-property: all;
+    -o-transition-timing-function: ease
 }
 
 .whyMatensa .block:nth-child(2) {
@@ -480,10 +531,32 @@ body .securepayment .block-slider .block-bl {
     margin-top: 3rem;
 }
 
+#aboutus-slider-2 .swiper-button {
+    left: -3rem;
+}
+
+#aboutus-slider-2 .swiper-button svg {
+    width: 3rem;
+}
+
+#aboutus-slider-2 .swiper-button-next-swiper-testimonoals {
+    left: auto;
+    right: -3rem;
+}
+
 .info {
-    position: absolute;
-    bottom: -4rem;
+    position: relative;
+
     color: white;
+    margin-top: 0.5rem;
+}
+
+#aboutus-slider-2 .block {
+    width: 100%;
+    flex: 100%;
+    max-width: 100%;
+    padding-bottom: 0;
+    height: auto;
 }
 
 .info-name {
@@ -847,6 +920,11 @@ select {
 .row {
     margin-left: -30px !important;
     margin-right: -30px !important;
+}
+
+.row .row {
+    margin-left: -15px !important;
+    margin-right: -15px !important;
 }
 
 .socialmediaicons {
