@@ -318,11 +318,21 @@
 
             <div class="swiper-container-3" id="aboutus-slider-2">
                 <div class="swiper-wrapper">
+                    <?php for($i=0;$i<6;$i++){?>
                     <div class="swiper-slide">
                         <div class="team-item">
+
                             <div class="block">
                                 <img src="assets/images/content/man.png">
+                                <div class="team-content">
+                                    <div class="info">
+                                        <div class="info-name">Jane Doe</div>
+                                        <div class="team-position">Accounting</div>
+                                    </div>
 
+                                    <p class="team-brief">UI/UX designer passionate about intuitive digital experiences,
+                                        blending user needs with business goals for seamless interfaces.</p>
+                                </div>
                             </div>
                             <div class="info">
                                 <div class="info-name">Jane Doe</div>
@@ -330,86 +340,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php } ?>
 
 
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
                     <!-- Add more slides as needed -->
                 </div>
                 <!-- Add Pagination -->

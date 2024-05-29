@@ -1206,6 +1206,54 @@ select {
   max-width: 40%;
 }
 
+.team-content {
+  position: absolute;
+  opacity: 0;
+  left: 0;
+  padding: 1rem;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(167, 167, 167, 0.659) 65.9%, #000000 100%) #6C0045;
+  z-index: 10;
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 0.4s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 0.4s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 0.4s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 0.4s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.team-item:hover .team-content {
+  top: 0;
+  opacity: 1;
+}
+
+.team-brief {
+  position: absolute;
+  bottom: 1rem;
+  font-size: 1rem;
+  color: white;
+}
+
+.team-brief,
+.team-position {
+  opacity: 0.7;
+}
+
 .row {
   margin-left: -30px !important;
   margin-right: -30px !important;
@@ -1858,8 +1906,12 @@ select {
 }
 
 .swiper-pagination {
-  bottom: -6rem !important;
+  bottom: -3.5rem !important;
   top: auto !important;
+}
+
+.home-section-2 .swiper-pagination {
+  bottom: -6rem !important;
 }
 
 .swiper-pagination-bullet-active {

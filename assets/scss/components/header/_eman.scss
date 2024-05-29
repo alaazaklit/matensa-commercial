@@ -23,9 +23,10 @@ body {
     font-size: 1.1rem !important;
 }
 
-.footer-section a{
+.footer-section a {
     color: black;
 }
+
 .heading-3 {
     color: #D7008A !important;
 }
@@ -173,14 +174,16 @@ body {
     list-style-type: none;
     display: flex;
 }
-.slider-item-1-content h5{
-color: white;
+
+.slider-item-1-content h5 {
+    color: white;
 }
 
-a.button-1{
+a.button-1 {
     text-align: center;
 }
-.half-div{
+
+.half-div {
     width: 50%;
     margin: auto;
 }
@@ -924,6 +927,57 @@ select {
 
 .securepayment .block {
     max-width: 40%;
+}
+
+.team-content {
+    position: absolute;
+
+    opacity: 0;
+    left: 0;
+    padding: 1rem;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(167, 167, 167, 0.659) 65.9%, #000000 100%) #6C0045;
+    z-index: 10;
+
+    transition-delay: 0s;
+    transition-duration: .4s;
+    transition-property: all;
+    transition-timing-function: ease;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-duration: .4s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-delay: 0s;
+    -moz-transition-duration: .4s;
+    -moz-transition-property: all;
+    -moz-transition-timing-function: ease;
+    -ms-transition-delay: 0s;
+    -ms-transition-duration: .4s;
+    -ms-transition-property: all;
+    -ms-transition-timing-function: ease;
+    -o-transition-delay: 0s;
+    -o-transition-duration: .4s;
+    -o-transition-property: all;
+    -o-transition-timing-function: ease
+}
+
+
+.team-item:hover .team-content {
+    top: 0;
+    opacity: 1;
+}
+
+.team-brief {
+    position: absolute;
+    bottom: 1rem;
+    font-size: 1rem;
+    color: white;
+}
+
+.team-brief,
+.team-position {
+    opacity: 0.7;
 }
 
 .row {
