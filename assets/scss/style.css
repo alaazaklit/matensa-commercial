@@ -174,6 +174,126 @@ header {
   margin-left: auto !important;
 }
 
+.menu-bar span {
+  width: 100%;
+  height: 2.5px;
+  vertical-align: top;
+  background: #fff;
+  display: inline-block;
+  float: right;
+  margin-bottom: 6px;
+  border-radius: 25%;
+  overflow: hidden;
+}
+
+.menu-bar {
+  width: 4rem;
+  float: right;
+  top: 0;
+}
+
+.navbar-toggler {
+  border: none !important;
+}
+
+.menu-bar span:nth-child(2) {
+  width: 70%;
+}
+
+.menu-mobile-shadow {
+  position: fixed;
+  top: 0;
+  opacity: 0;
+  visibility: hidden;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.menu-bar,
+.menu-bar span,
+.menu-mobile-shadow,
+#navbarNav {
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 0.4s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 0.4s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 0.4s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 0.4s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.menu-active .wp-menu-main-menu {
+  left: 0;
+  height: 100vh;
+}
+
+.menu-bar span:nth-child(2) {
+  width: 70%;
+}
+
+.menu-bar span:nth-child(3) {
+  width: 50%;
+}
+
+.menu-active .menu-bar span:nth-child(1) {
+  transform: rotateZ(45deg);
+}
+
+.menu-active .menu-bar span:nth-child(1),
+.menu-bar span:nth-child(2) {
+  position: relative;
+  width: 70% !important;
+}
+
+.menu-active .menu-bar span:nth-child(2) {
+  transform: rotateZ(-45deg);
+  top: -8px;
+  width: 70% !important;
+}
+
+.menu-active .menu-bar span:nth-child(3) {
+  opacity: 0;
+  transition-delay: 0s;
+  transition-duration: 0.15s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 0.15s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 0.15s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 0.15s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 0.15s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.menu-active {
+  overflow: hidden;
+}
+
 @font-face {
   font-family: "CustomFont";
   src: url("/assets/fonts/Inter-Regular.ttf") format("truetype");
@@ -2374,6 +2494,27 @@ p {
     max-width: 100%;
     height: auto;
   }
+  .payment-gateway {
+    display: block;
+    width: 100%;
+  }
+  .payment-gateway span {
+    width: 47% !important;
+    display: inline-block;
+  }
+  .copy-r {
+    margin-top: 1rem !important;
+    padding-top: 0;
+  }
+  .play-store-row {
+    padding-bottom: 1.5rem;
+  }
+  .footer-section {
+    text-align: center;
+  }
+  .payment-gateway span img {
+    max-width: 100%;
+  }
   .gallery-blk-3 {
     margin-top: 3rem;
   }
@@ -2403,5 +2544,57 @@ p {
     height: auto;
     max-height: 55vh;
     width: 100%;
+  }
+  .rate-result {
+    margin-top: 1rem;
+  }
+  .white-header .nav-link {
+    color: #344051 !important;
+  }
+  .white-header .nav-link.btn-style-1 {
+    color: white !important;
+  }
+  .nav-link {
+    font-size: 5vw;
+    margin-bottom: 3vh;
+  }
+  .nav-item {
+    margin-left: 1.2rem;
+    margin-right: 1.2rem;
+  }
+  #navbarNav {
+    background: white;
+    height: 100vh;
+    top: 0;
+    position: fixed;
+    right: -100vw;
+    width: 80%;
+    padding-top: 14vh;
+    text-align: center;
+  }
+  .menu-active #navbarNav {
+    right: 0;
+  }
+  .menu-active .menu-bar span {
+    background: #344051;
+  }
+  .navbar-toggler,
+  .navbar-toggler:focus,
+  .navbar-toggler:hover {
+    outline: none !important;
+    border: none !important;
+    text-shadow: none !important;
+    background: none !important;
+    position: absolute;
+    right: 0;
+    z-index: 1000;
+    top: 2.5rem;
+  }
+  .menu-active .menu-mobile-shadow {
+    opacity: 1;
+    visibility: visible;
+  }
+  .menu-active {
+    overflow: hidden;
   }
 }/*# sourceMappingURL=style.css.map */

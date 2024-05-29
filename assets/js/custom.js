@@ -159,3 +159,13 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 });
 
+function showMenu() {
+    const header = document.querySelector('body');
+    if (header.classList.contains('menu-active')) {
+        //console.log('Header has the class "active".');
+        header.classList.remove('menu-active');
+    } else {
+        header.classList.add('menu-active');
+    }
+}
+

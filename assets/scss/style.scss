@@ -355,6 +355,34 @@ p {
         height: auto;
     }
 
+    .payment-gateway {
+        display: block;
+        width: 100%;
+    }
+
+    .payment-gateway span {
+
+        width: 47% !important;
+        display: inline-block;
+    }
+
+    .copy-r {
+        margin-top: 1rem !important;
+        padding-top: 0;
+    }
+
+    .play-store-row {
+        padding-bottom: 1.5rem;
+    }
+
+    .footer-section {
+        text-align: center;
+    }
+
+    .payment-gateway span img {
+        max-width: 100%;
+    }
+
     .gallery-blk-3 {
         margin-top: 3rem;
     }
@@ -393,6 +421,70 @@ p {
         height: auto;
         max-height: 55vh;
         width: 100%;
+    }
+
+    .rate-result {
+        margin-top: 1rem;
+    }
+
+    .white-header .nav-link {
+        color: #344051 !important;
+    }
+
+    .white-header .nav-link.btn-style-1 {
+        color: white !important;
+
+    }
+
+    .nav-link {
+        font-size: 5vw;
+        margin-bottom: 3vh;
+    }
+
+    .nav-item {
+        margin-left: 1.2rem;
+        margin-right: 1.2rem;
+    }
+
+    #navbarNav {
+        background: white;
+        height: 100vh;
+        top: 0;
+        position: fixed;
+        right: -100vw;
+        width: 80%;
+        padding-top: 14vh;
+        text-align: center;
+    }
+
+    .menu-active #navbarNav {
+        right: 0;
+    }
+
+    .menu-active .menu-bar span {
+        background: #344051
+    }
+
+    .navbar-toggler,
+    .navbar-toggler:focus,
+    .navbar-toggler:hover {
+        outline: none !important;
+        border: none !important;
+        text-shadow: none !important;
+        background: none !important;
+        position: absolute;
+        right: 0;
+        z-index: 1000;
+        top: 2.5rem;
+    }
+
+    .menu-active .menu-mobile-shadow {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .menu-active {
+        overflow: hidden;
     }
 }
 
