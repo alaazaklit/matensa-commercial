@@ -547,6 +547,10 @@ a.button-1 {
   background-color: #F0F4FF !important;
 }
 
+.blockyellow {
+  background-color: #FFF1E6 !important;
+}
+
 .tag-yellow {
   background-color: #FFEECC !important;
   color: #B37520 !important;
@@ -558,6 +562,15 @@ body .securepayment .block-slider .block-yellow {
 
 body .securepayment .block-slider .block-bl {
   background-color: #E5EEFF !important;
+}
+
+.whyMatensa .block .text-3 img {
+  width: 4rem;
+  margin-right: 0.5rem;
+}
+
+.whyMatensa .text-3 {
+  line-height: 3;
 }
 
 .form-group {
