@@ -70,24 +70,25 @@
                 </a>
                 <div class="desc mt-3" > We love working with ambitious people. Let's build something
                     great together now. </div>
-                <div class="mt-4"><img class="marginright"
-                        src="assets/images/content/Mobile app store badge.png"><img
-                        src="assets/images/content/Mobile app store badge (1).png"> </div>
+                <div class="mt-4">
+                    <a href="https://play.google.com/store/apps/details?id=com.matensa.app"><img class="marginright"
+                        src="assets/images/content/Mobile app store badge.png"></a><a href="https://apps.apple.com/lb/app/matensa/id1617027453"><img
+                        src="assets/images/content/Mobile app store badge (1).png"></a> </div>
             </div>
             <div class="col-lg-2">
                 <div class="desc">
-                    <p><b>Product</b></p>
-                    <p>Features</p>
-                    <p>Highlights</p>
+                    <p><b>Product</b></p> 
+                    <p><a>Features</a></p>
+                    <p><a href="highlights">Highlights</a></p>
 
                 </div>
             </div>
             <div class="col-lg-2">
                 <div class="desc ">
                     <p><b>Company</b></p>
-                    <p>About</p>
-                    <p>Careers</p>
-                    <p>Contact</p>
+                    <p><a href="aboutus">About</a></p>
+                    <p><a href="jointeam">Careers</a></p>
+                    <p><a href="faq">Contact</a></p>
                 </div>
             </div>
             <div class="col-lg-2">
@@ -101,8 +102,8 @@
             <div class="col-lg-2">
                 <div class="desc">
                     <p><b>Legal</b></p>
-                    <p>Terms Of Service</p>
-                    <p>Privacy Policy</p>
+                    <p><a href="termsofservice">Terms Of Service</a></p>
+                    <p><a href="privacypolicy">Privacy Policy</a></p>
                     <p><img src="assets/images/content/QR Code.png"> </p>
                 </div>
             </div>
@@ -112,10 +113,11 @@
         <div class="row">
             <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
             <div class="col-lg-6" class="text-right">
-            <div class="socialmediaicons"><img src="assets/images/Vector (1).svg">
-            <img src="assets/images/instagram.svg">
-            <img src="assets/images/linkedin.svg">
-            <img src="assets/images/Facebook.svg">
+            <div class="socialmediaicons">
+            <a href="https://twitter.com/matensaapp?s=11&t=UIx1kLcYngQAx6Y_twFBtA"><img src="assets/images/Vector (1).svg"></a>
+            <a href="https://www.instagram.com/matensa.ltd?igsh=MTVmanhnN3BsbHZ0Yg=="><img src="assets/images/instagram.svg"></a>
+            <a href="https://www.linkedin.com/company/matensa-app/"><img src="assets/images/linkedin.svg"></a>
+            <a href="https://www.facebook.com/matensaapp?mibextid=LQQJ4d"><img src="assets/images/Facebook.svg"></a>
         </div>
         </div>
         </div>

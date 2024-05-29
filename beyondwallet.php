@@ -15,7 +15,7 @@
                             financial habits. Track every detail with detailed transaction histories and receive instant
                             receipts for added peace of mind. Join the Matensa community today and unlock a new era of
                             financial freedom.</p>
-                        <div><button class="button-1">Try it now</button></div>
+                        <div><a class="button-1" href="https://play.google.com/store/apps/details?id=com.matensa.app">Try it now</a></div>
                     </div>
                     <div class="col-lg-5 col-md-12 pl-5">
                         <img class="borderrad" width="80%" src="assets/images/content/Frame 1000002545.png">

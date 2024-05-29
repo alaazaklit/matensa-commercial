@@ -198,6 +198,10 @@ body {
   font-size: 1.1rem !important;
 }
 
+.footer-section a {
+  color: black;
+}
+
 .heading-3 {
   color: #D7008A !important;
 }
@@ -341,6 +345,14 @@ body {
   margin-top: 3rem;
   list-style-type: none;
   display: flex;
+}
+
+.slider-item-1-content h5 {
+  color: white;
+}
+
+a.button-1 {
+  text-align: center;
 }
 
 .half-div {
@@ -828,10 +840,6 @@ select {
 
 .marginright {
   margin-right: 1rem;
-}
-
-.footer-section .container a img {
-  height: 40px !important;
 }
 
 .header-height {

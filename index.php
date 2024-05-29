@@ -28,9 +28,9 @@
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-
+                                <a href="beyondwallet">         
                             <div class="slider-item-style-1">
-                                <div class="img"><img src="assets/images/content/Frame 1000002564.png"></div>
+                                <div class="img" ><img src="assets/images/content/Frame 1000002564.png"></div>
                                 <div class="slider-item-1-content">
                                     <h5>Rewarding
                                         Financial Practices</h5>
@@ -41,10 +41,12 @@
                                     </div>
                                 </div>
                             </div>
+</a>
                         </div>
 
 
                         <div class="swiper-slide">
+                        <a href="beyondwallet"> 
                             <div class="slider-item-style-1">
                                 <div class="img"><img src="assets/images/home/wallet/1.png"></div>
                                 <div class="slider-item-1-content">
@@ -57,8 +59,10 @@
                                     </div>
                                 </div>
                             </div>
+</a>
                         </div>
                         <div class="swiper-slide">
+                        <a href="beyondwallet"> 
                             <div class="slider-item-style-1">
                                 <div class="img"><img src="assets/images/content/Frame 1000002565.png"></div>
                                 <div class="slider-item-1-content">
@@ -70,9 +74,11 @@
                                     </div>
                                 </div>
                             </div>
+</a>
                         </div>
 
                         <div class="swiper-slide">
+                        <a href="beyondwallet"> 
                         <div class="slider-item-style-1">
                                 <div class="img"><img src="assets/images/content/Frame 1000002566.png"></div>
                                 <div class="slider-item-1-content">
@@ -84,6 +90,7 @@
                                     </div>
                                 </div>
                             </div>
+</a>
                         </div>
                         <!-- Add more slides as needed -->
                     </div>
@@ -191,7 +198,7 @@
                                 where finances are a source of empowerment, a force for communal upliftment.</p>
                         </div>
 
-                        <a class="button-1" href="#">Try it out</a>
+                        <a class="button-1" href="https://play.google.com/store/apps/details?id=com.matensa.app">Try it out</a>
                     </div>
 
                 </div>
@@ -211,7 +218,7 @@
                             </p>
                         </div>
 
-                        <a class="button-1" href="#"><span>Try it out</span></a>
+                        <a class="button-1" href="payroll-detail"><span>Try it out</span></a>
                     </div>
 
                 </div>
@@ -297,7 +304,7 @@
                     banking and inspired by technological advancements, we offer a suite of solutions designed for the
                     contemporary needs of individuals and businesses alike. </div>
 
-                <a class="button-1 mt-4 d-inline-block text-center" href="#">Read More</a>
+                <a class="button-1 mt-4 d-inline-block text-center" href="aboutus">Read More</a>
             </div>
         </div>
         <div class="row">
