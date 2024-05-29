@@ -1,7 +1,7 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
     <div>
-        <div class="welcome text-center" style="margin-top:8rem">
+        <div class="welcome text-center mt-5 pt-5" >
             <div class="container pt-5 pb-5">
                 <div class="heading-2 mt-2"> Experience The Future of<br>
                     <span class="heading-3">Payroll </span> with Matensa
@@ -23,7 +23,7 @@
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
-                        <img style="border-radius: 16px;" width="100%" src="assets/images/content/Frame 1000002549.png">
+                        <img class="borderrad" width="100%" src="assets/images/content/Frame 1000002549.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-3 heading-6 pt-5">
                         <p>Our commitment to innovation means businesses can effortlessly transition to a digital
@@ -44,7 +44,7 @@
                 </div>
                 <div class="row mt-5 pt-5">
                     <div class="col-lg-6 col-md-12 heading-6  pt-5">
-                        <div class="info-name" style="font-size: 1.75rem;">Instant Payday with Matensa</div>
+                        <div class="info-name highlight-content">Instant Payday with Matensa</div>
                         <p class="mt-4">Experience the speed of getting paid instantly with Matensa's Direct Deposit.
                             Unlike traditional banks that may delay your paycheck by up to two business days for
                             processing, Matensa ensures your earnings are available in your account the moment they're
@@ -52,7 +52,7 @@
                             should you wait to use it?</p>
                     </div>
                     <div class="col-lg-6 col-md-12 pl-5">
-                        <img style="border-radius: 16px;" width="90%" src="assets/images/content/Frame 1000002550.png">
+                        <img class="borderrad" width="90%" src="assets/images/content/Frame 1000002550.png">
                     </div>
                 </div>
 
@@ -62,10 +62,10 @@
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
-                        <img style="border-radius: 16px;" width="100%" src="assets/images/content/Frame 1000002551.png">
+                        <img class="borderrad" width="100%" src="assets/images/content/Frame 1000002551.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-3 heading-6 pt-5">
-                        <div class="info-name" style="font-size: 1.75rem;">Employees: Do More With Your Money</div>
+                        <div class="info-name highlight-content" >Employees: Do More With Your Money</div>
                         <p class="mt-4">With Matensa's Direct Deposit, dive into the convenience of using your earnings
                             more
                             efficiently—be it settling up with friends quickly, shopping, or paying bills. As Matensa

@@ -1,8 +1,8 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
     <div class="Highlightspage text-center">
-        <div class="container pt-5 pb-5" style="margin-top:5rem">
-            <div class="heading-2">Highlights</div>
+        <div class="container pt-5 pb-5 mt-5" >
+            <div class="heading-2 mt-5">Highlights</div>
             <ul class="menu-tab">
                 <li class="menu-item menu-item-active">All topics</li>
                 <li class="menu-item">News <div class="menu-number">3</div>

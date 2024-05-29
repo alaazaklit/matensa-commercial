@@ -1,20 +1,16 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
     <div >
-        <div class="welcome" style="background-image: url('assets/images/Rectangle\ 16938.png'); padding-bottom:10rem;
+        <div class="welcome pt-5" style="background-image: url('assets/images/Rectangle\ 16938.png'); padding-bottom:10rem;
         ">
-            <div class="container pt-5 pb-5" style=" padding-top: 12rem !important;">
-                <div class="row">
-                    <div class="col-lg-8 col-md-12">
-                        <div class="heading-1"> About us</div>
+            <div class="container pt-5 pb-5" >
+                <div class="row pt-5">
+                    <div class="col-lg-8 col-md-12 pt-5">
+                        <div class="heading-1 pt-5"> About us</div>
                         <div class="heading-2 mt-2"> Welcome To Matensa: <br> A New Era Of Financial Empowerment</div>
                         <div class="mt-4"> <button class="button-1"> Try it now</button></div>
                     </div>
-                    <div class="col-lg-4 col-md-12"> <img style=" position: absolute;
-    z-index: -3;
-    height: 100%;
-    top: 11rem;left:57rem;
-    width: 100%;" src="assets/images/Rectangle 16948 (1).png"><img width="120%" src="assets/images/content/Frame 1000002533 (1).png">
+                    <div class="col-lg-4 col-md-12 pt-5"> <img class="image-10"  src="assets/images/Rectangle 16948 (1).png"><img width="120%" class="pt-5" src="assets/images/content/Frame 1000002533 (1).png">
                     </div>
                 </div>
             </div>
@@ -35,7 +31,7 @@
                             that empowers individuals to manage their finances with confidence and growth. </div>
                     </div>
                     <div class="col-lg-7 col-md-12 pl-5 text-center">
-                        <img style="width: 100%;" src="assets/images/content/Frame 1000002552.png">
+                        <img class="width-100" src="assets/images/content/Frame 1000002552.png">
                         <img class="image-7" src="assets/images/Topography Line Pattern.png">
                     </div>
                 </div>
@@ -197,9 +193,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-7  col-md-12"><img class="pl-5" style="margin-top: 8rem;width: 60%;"
+                    <div class="col-lg-7  col-md-12"><img  class="image-12 pl-5"
                             src="assets/images/content/Midnight GreenMockup.png">
-                        <img style="position: absolute;right:-6rem"
+                        <img  class="image-11"
                             src="assets/images/content/Midnight GreenMockup (1).png">
                     </div>
                 </div>

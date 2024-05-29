@@ -12,8 +12,8 @@ $pageName = pathinfo($pageName, PATHINFO_FILENAME);
         <nav class="navbar navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="index">
                 <?php if($pageName=="index"){?><img src="assets/images/white-logo.svg" alt="Logo"
-                    style="height: 40px;"><?php }else{?>
-                <img src="assets/images/logo.svg" alt="Logo" style="height: 40px;">
+                    class="header-height"><?php }else{?>
+                <img src="assets/images/logo.svg" alt="Logo" class="header-height">
                 <?php } ?>
 
             </a>

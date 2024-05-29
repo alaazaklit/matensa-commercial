@@ -1,8 +1,8 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-    <div class="apply-now">
-        <div class="container pt-5 pb-5" style="padding-top:11rem !important">
-            <div class="heading-4" style="font-weight: 700;"> Submit your Application</div>
+    <div class="apply-now mt-5 pt-5">
+        <div class="container pt-5 pb-5" >
+            <div class="heading-4 info-name mt-5" > Submit your Application</div>
             <div class="job-det mt-1">Required fields are indicated with <span class="warning">*</span></div>
             <div class="row text-5 mt-4">
                 <div class="col-lg-5">Job Requisition Title</div>
@@ -39,7 +39,7 @@
                 <div class="col-lg-7"><input type="text" placeholder="Insert Link"></div>
             </div>
             <div class="row text-5 mt-5 pt-3">
-                <div class="col-lg-5 text-5" style="font-size: 1.3rem;">General Information</div>
+                <div class="col-lg-5 text-5  info-name" ><b>General Information<b></div>
                 <div class="col-lg-7"></div>
             </div>
             <div class="row text-5 mt-4">
@@ -96,8 +96,8 @@
             <div class="row text-5 mt-4">
                 <div class="col-lg-5"></div>
                 <div class="col-lg-7">
-                    <div class="action-buttons" ><button style="margin-right:1rem" class="button-4 mr-2">Back</button><button
-                            class="button-2">Submit</button></div>
+                    <div class="action-buttons" ><button  class="button-4 mr-2">Back</button><button
+                            class="button-2 ml-2">Submit</button></div>
                 </div>
             </div>
             <div class="col-md-1"></div>

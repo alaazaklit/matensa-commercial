@@ -14,7 +14,7 @@
 
                 </div>
                 <div class="col-lg-5 col-md-12 pl-5">
-                    <img style="border-radius: 16px;" width="80%" src="assets/images/content/Column.png">
+                    <img class="borderrad" width="80%" src="assets/images/content/Column.png">
                 </div>
             </div>
 
@@ -84,12 +84,12 @@
                         <br> 1. Upload your CV <br>You should correctly upload your CV and ensure that all the information is filled in accurately.<br>
                     2. Scheduling Interview <br>You should collaborate with the HR manager when arranging an interview and ensure that you're well-prepared for it. This demonstrates professionalism and respect for the hiring process. </div>
                 </div>
-                <div class="col-lg-6 col-md-12 pl-5 text-center">
+                <div class="col-lg-6 col-md-12 pl-5 text-center join-team">
 
-                    <img style="width: 100%;" src="assets/images/content/Frame 1000002553.png">
-                    <img class="image-9" style="right: 17rem;bottom: -1rem;left: unset;width: 30%;"
+                    <img class="width-100" src="assets/images/content/Frame 1000002553.png">
+                    <img class="image-9" 
                         src="assets/images/Vector (4).png">
-                    <img class="image-7" style="bottom: unset;top: 0;" src="assets/images/Topography Line Pattern.png">
+                    <img class="image-7"  src="assets/images/Topography Line Pattern.png">
                 </div>
             </div>
 

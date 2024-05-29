@@ -1,6 +1,6 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-    <div class="business" style="margin-top:5rem">
+    <div class="business" >
         <div class="welcome text-center">
             <div class="container pt-5 pb-5">
                 <div class="heading-1">Agreements Overview</div>
@@ -16,7 +16,7 @@
                 <div class="row">
                     <div class="col-lg-4"> <img src="assets/images/content/Mockup-iPhone (1).png">
                     </div>
-                    <div class="col-lg-8"> <img style="width: 100%;" src="assets/images/content/Mask group (6).png">
+                    <div class="col-lg-8"> <img class="width-100" src="assets/images/content/Mask group (6).png">
                     </div>
                 </div>
             </div>
@@ -35,19 +35,19 @@
                         fames mi id tincidunt.</div>
                 </div>
                 <div class="row mt-5 pt-2 ">
-                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17059 (1).png">
+                    <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17059 (1).png">
                         <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans</div>
                     </div>
-                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17060 (1).png">
+                    <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17060 (1).png">
                         <div class="mt-3">Contracts with set repayment schedules</div>
                     </div>
-                    <div class="col-lg-4"><img style="width:100%" src="assets/images/content/Rectangle 17061 (1).png">
+                    <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17061 (1).png">
                         <div class="mt-3">One-time invoices</div>
                     </div>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-lg-3 col-md-12" style="position: relative;">
-                        <img style="border-radius: 16px;margin-top: 7rem;" width="100%"
+                    <div class="col-lg-3 col-md-12 relativeposition" >
+                        <img class="image-13" width="100%"
                             src="assets/images/content/Partnership-2--Streamline-Milano.png">
                     </div>
                     <div class="col-lg-9 col-md-12 pl-5 heading-6 pt-3">
@@ -63,14 +63,14 @@
                 </div>
                 <div class="row mt-5">
 
-                    <div class="col-lg-8"> <img style="width: 100%;" src="assets/images/content/Mask group (9).png">
+                    <div class="col-lg-8"> <img class="width-100" src="assets/images/content/Mask group (9).png">
                     </div>
                     <div class="col-lg-4"> <img src="assets/images/content/Mockup-iPhone (2).png">
                     </div>
                 </div>
 
                 <div class="row mt-5 pt-5">
-                    <div class="col-lg-5 col-md-12" style="position: relative;">
+                    <div class="col-lg-5 col-md-12 relativeposition" >
                         <div class="heading-2 mb-3">Agreement Flexibility & Transparency
                         </div>
                     </div>
@@ -83,8 +83,8 @@
                     </div>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-lg-5 col-md-12" style="position: relative;">
-                        <img style="border-radius: 16px;" width="100%"
+                    <div class="col-lg-5 col-md-12 relativeposition">
+                        <img class="image-14" width="100%"
                             src="assets/images/content/Rectangle 17063.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
@@ -105,8 +105,8 @@
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
-                        <div class="heading-8 ml-2">SIMPLIFY & ADAPT YOUR</div>
-                        <div class="heading-9" style="font-size: 12rem;">AGREEMENTS</div>
+                        <div class="heading-8 ml-3">SIMPLIFY & ADAPT YOUR</div>
+                        <div class="heading-9 text-10">AGREEMENTS</div>
                     </div>
                 </div>
             </div>
@@ -183,15 +183,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5  col-md-12"><img class="pl-5" style="width:100%"
+                    <div class="col-lg-5  col-md-12"><img class="pl-5 width-100" 
                             src="assets/images/content/Rectangle 17064.png">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="journey ">
-            <div class="container pt-5 pb-5" style="margin-top:9rem !important">
-                <div class="row">
+        <div class="journey mt-5 pt-5">
+            <div class="container pt-5 pb-5 mt-5" >
+                <div class="row ">
                     <div class="col-lg-5 col-md-12">
 
                         <div class="heading-2 mt-5 mb-3">Get
@@ -206,10 +206,9 @@
                         <button class="button-1 mb-5">Get The App</button>
                     </div>
                     <div class="col-lg-7 col-md-12  heading-6 pt-5">
-                        <img style="border-radius: 16px;width: 48%;" width="100%"
+                        <img class="image-15" width="100%"
                             src="assets/images/content/Rectangle 17061.png">
-                        <img class="mockupimage" style="border-radius: 16px;width:30%;position:absolute;    top: -9rem;
-                        right: -1rem;
+                        <img  class="image-16 mockupimage
                     " width="100%" src="assets/images/content/Mockup-iPhone.png">
                     </div>
                 </div>

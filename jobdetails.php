@@ -1,11 +1,11 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
     <div>
-        <div class="container pt-5 pb-5" style="margin-top:8rem !important">
-            <div class="job-detail ">
-                <img src="assets/images/content/ma tensa 1.png" style="margin-right:1rem !important">
-                <div class="ml-3" style="position: relative;">
-                    <div class="info-name">Senior UX Designer</div>
+        <div class="container pt-5 pb-5 mt-5" >
+            <div class="job-detail mt-5">
+                <img src="assets/images/content/ma tensa 1.png" >
+                <div class="ml-3 relativeposition" >
+                    <div class="info-name ">Senior UX Designer</div>
                     <div>at Matensa</div>
                     <div class="tag-1 mr-2">Full-time</div>
                 </div>
@@ -55,7 +55,7 @@
                                 <div class="date-1">$1000,000 - $1200,000</div>
                                 <div class="text-4">Monthly salary</div>
                             </div>
-                            <div class="col-lg-5" style=" border-left: 2px solid #D5D5D5;">
+                            <div class="col-lg-5">
                                 <div><img src="assets/images/content/Location Point (1).svg"></div>
                                 <div class="text-5 mt-2">Job Location</div>
                                 <div class="text-4">Beirut, Lebanon</div>
@@ -66,7 +66,7 @@
                         <div class="details">
                             <div class="text-5">Job Overview</div>
                             <div class="row mt-3">
-                                <div class="col ml-5-lg-4">
+                                <div class="col-lg-4 ml-5">
                                     <div class="job-icon"><img src="assets/images/content/Calendar.svg"></div>
                                     <div class="job-det mt-1">Job Posted:</div>
                                     <div class="job-date">14 Jun, 2021</div>
@@ -105,11 +105,8 @@
             <img src="assets/images/linkedin.svg">
             <img src="assets/images/Facebook.svg">
         </div></div>
-                            <div class="mt-3" style="position: relative;">
-                                <input type="text" placeholder="www.website.com" name="search"><i style="    position: absolute;
-                                
-                                left: 11.3rem;
-                                top: 0.6rem;" class="fal fa-info-circle"></i>
+                            <div class="mt-3 relativeposition">
+                                <input type="text" placeholder="www.website.com" name="search">
                                 <button type="submit" class="button-3"><i class="fal fa-copy mr-2"></i>Copy</button>
                             </div>
                         </div>
