@@ -31,8 +31,8 @@ function triggerAnimation() {
 }
 document.addEventListener('DOMContentLoaded', (event) => {
     const swiper = new Swiper('.swiper-container', {
-        slidesPerView: 3,
-        centeredSlides: true,
+        slidesPerView: 1,
+        centeredSlides: false,
         loop: false,
         spaceBetween: 0,
         initialSlide: 1,
@@ -52,6 +52,12 @@ document.addEventListener('DOMContentLoaded', (event) => {
             nextEl: '.swiper-button-next',
             prevEl: '.swiper-button-prev',
         },
+        breakpoints: {
+            768: {
+                slidesPerView: 3,
+                centeredSlides: true,
+            },
+        }
     });
 });
 
@@ -89,6 +95,13 @@ document.addEventListener('DOMContentLoaded', (event) => {
                 nextEl: `.swiper-button-next-${container.id}`,
                 prevEl: `.swiper-button-prev-${container.id}`,
             },
+            breakpoints: {
+                // when window width is <= 768px
+                768: {
+                    slidesPerView: 1,
+                    centeredSlides: false,
+                },
+            }
         });
 
         // Optionally, you can also dynamically add unique classes for pagination and navigation elements
