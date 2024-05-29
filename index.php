@@ -102,12 +102,11 @@
 
 
 <!-- ///////////////////Section Three///////////// -->
-<section class='home-section-3 mt-5 pt-5 ' style="position:relative">
-    <img style="position:absolute;right:0" src="assets/images/content/Topography Line Pattern (2).png">
-    <img style="position:absolute;left:0;top: 65rem;" src="assets/images/content/Topography Line Pattern (3).png">
-    <img style="position:absolute;right:0rem;bottom: 45rem;"
-        src="assets/images/content/Topography Line Pattern (4).png">
-    <img style="position:absolute;left:0rem;bottom: 0rem;" src="assets/images/content/Topography Line Pattern (5).png">
+<section class='home-section-3 mt-5 pt-5 relativeposition' >
+    <img class="image-home-1" src="assets/images/content/Topography Line Pattern (2).png">
+    <img class="image-home-2" src="assets/images/content/Topography Line Pattern (3).png">
+    <img class="image-home-3" src="assets/images/content/Topography Line Pattern (4).png">
+    <img class="image-home-4" src="assets/images/content/Topography Line Pattern (5).png">
 
 
     <div class="home-blk-3-1">
@@ -143,9 +142,9 @@
     </div>
 
 
-    <div class="home-blk-3-2 " style="margin-top:15rem">
-        <div class="container mod" style="padding-bottom:10rem">
-            <div class="row">
+    <div class="home-blk-3-2 pt-5 mt-5" >
+        <div class="container mod pb-5 mt-5">
+            <div class="row pb-5">
                 <div class="col-md-5">
                     <div class="gallery-blk-3">
                         <div class="swiper-container-2" id="slider-blk-3-1" data-tabs="#tabs-slider-blk-3-1">
@@ -198,10 +197,10 @@
                 </div>
             </div>
 
-            <div class="row mt-5  pt-5" style="margin-top:10rem !important">
+            <div class="row mt-5  pt-5" >
 
-                <div class="col-md-7 pt-5">
-                    <div class="home-blk-3-content">
+                <div class="col-md-7 pt-5 mt-5">
+                    <div class="home-blk-3-content mt-5">
                         <h2 class="h2-style-1 color-white">Experience The Future
                             Of Payroll With Matensa</h2>
                         <div class="desc color-white">

@@ -1,6 +1,6 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-<div class="business" >
+<div class="business growbusiness" >
     <div class="welcome text-center">
         <div class="container pt-5 pb-5">
             <div class="heading-1">Matensa for Business</div>
@@ -19,12 +19,12 @@
         <img class="image-8" src="assets/images/Topography Line Pattern (1).png">
     </div>
 
-    <div class="mt-3 main-div" style="width: 70%; margin: auto;">
+    <div class="mt-3 main-div" >
         <div class="container pt-5 pb-5">
             <div class="row">
-                <div class="col-lg-5 col-md-12" style="position: relative;">
+                <div class="col-lg-5 col-md-12" class="relativeposition">
                     <img class="image-9" src="assets/images/Vector (4).png">
-                    <img style="border-radius: 16px;" width="100%" src="assets/images/content/Rectangle 17065 (1).png">
+                    <img class="borderrad" width="100%" src="assets/images/content/Rectangle 17065 (1).png">
                 </div>
                 <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
                     <div class="heading-2 mt-5 mb-3"> Introduce New <br>
@@ -34,7 +34,7 @@
                         customers, using nothing more than a mobile device.</p><br>
                     <div class="payment-gateway align-items-center">
                         <?php for($i=1;$i<7;$i++){?>
-                        <span style="margin-right:0.5rem"><img style="width:100%;"
+                        <span ><img class="width-100"
                                 src="assets/images/payment-gateway/<?php echo $i;?>.png"></span><?php }?>
                     </div>
                 </div>
@@ -52,13 +52,12 @@
                     <p class="mt-4">Tailor agreements that resonate with your business operations, including
                         meticulously planned payment schedules.</p>
                     <button class="button-1 mb-5 ">Learn More</button>
-                    <img style="border-radius: 16px;    margin-left: 5rem;
-                        margin-top: 2rem;" width="90%" src="assets/images/content/Rectangle 17005 (1).png">
+                    <img class="borderrad" width="90%" src="assets/images/content/Rectangle 17005 (1).png">
 
                 </div>
                 <div class="col-lg-6 col-md-12 pl-5 mt-5">
 
-                    <img style="border-radius: 16px;    margin-top: 10rem;" width="90%"
+                    <img class="borderrad" width="90%"
                         src="assets/images/content/Mask group (4).png">
                 </div>
             </div>
@@ -76,7 +75,7 @@
                         and invoices to payments and balance adjustments.</p>
 
                     <button class="button-1 mb-5">Learn More</button>
-                    <img style="width: 100%;" src="assets/images/content/Rectangle 17059.png">
+                    <img class="width-100" src="assets/images/content/Rectangle 17059.png">
 
                 </div>
                 <div class="col-lg-6 col-md-12">
@@ -87,7 +86,7 @@
                         catering to businesses of all sizes</p>
 
                     <button class="button-1 mb-5">Learn More</button>
-                    <img style="width:100%" src="assets/images/content/Rectangle 17060.png">
+                    <img class="width-100" src="assets/images/content/Rectangle 17060.png">
 
                 </div>
             </div>
@@ -116,7 +115,7 @@
         </div>
     </div>
 
-    <div class="journey mt-5" style="margin-top:8rem !important">
+    <div class="journey mt-5 pt-5">
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-lg-5 col-md-12">
@@ -131,11 +130,9 @@
                     <button class="button-1 mb-5">Get The App</button>
                 </div>
                 <div class="col-lg-7 col-md-12  heading-6 pt-5">
-                    <img style="border-radius: 16px;width: 48%;" width="100%"
+                    <img class="image-15" width="100%"
                         src="assets/images/content/Rectangle 17061.png">
-                    <img class="mockupimage" style="border-radius: 16px;width:30%;position:absolute;    top: -9rem;
-                        right: -1rem; 
-                    " width="100%" src="assets/images/content/Mockup-iPhone.png">
+                    <img class="mockupimage image-16"  width="100%" src="assets/images/content/Mockup-iPhone.png">
                 </div>
             </div>
         </div>

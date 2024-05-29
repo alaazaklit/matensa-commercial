@@ -1,7 +1,7 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-<div class="container text-center pt-5 pb-5" style="margin-top:5rem">
-    <div class="main-div" style="width: 100%; margin: auto;">
+<div class="container text-center pt-5 pb-5 mt-5" >
+    <div class="main-div mt-5" >
         <div class="row">
             <div class="col-md-4"></div>
             <div class="col-md-4">
@@ -10,8 +10,8 @@
                     <div class="col-md-1"></div>
                     <div class="col-md-10">
 
-                        <div class="heading-1" style="font-weight: 600;">All you need to know
-                            about Matensa</div>
+                        <div class="heading-1" ><b>All you need to know
+                            about Matensa</b></div>
                     </div>
                 </div>
 
@@ -21,7 +21,7 @@
         <div class="row">
             <div class="col-md-3"></div>
             <div class="col-md-6">
-                <div class="text-2 mt-2 mb-3" style="font-size: 1rem;">We tried to answer most common questions, if you
+                <div class="text-2 mt-2 mb-3" >We tried to answer most common questions, if you
                     have
                     any
                     additional, please get in
@@ -32,9 +32,8 @@
         </div>
         <div class="row">
             <div class="col-md-2"></div>
-            <div class="col-md-8"> <input class="mt-5" style="width: 100%;border: 1px solid #80808073;    padding: 1rem;
-    border-radius: 8px;font-size: 1.3rem;" type="text" placeholder="Search" name="search">
-<div class="ng-star-inserted mt-5">
+            <div class="col-md-8"> <input class="mt-5 faqsearch"  type="text" placeholder="Search" name="search">
+<div class="ng-star-inserted mt-5"> 
 
 <div class="helpsection-questions-block">
 
@@ -48,7 +47,7 @@
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer" aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">Any business or individual who wants to manage their cash flow.
 
@@ -70,7 +69,7 @@ Matensa is super simple to use. Anyone can use it but legally you need above 18.
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">A- We are investing heavily in technology, have made every effort, involved software and IT infrastructure engineers to make sure Matensa is as secure as any International federal agency like the FBI or a bank.
 
@@ -98,7 +97,7 @@ Your security is our number one priority, this is one of our ongoing projects.
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   It is our social responsibility to make sure every user is protected hence we’d like to verify all users in terms of their identity, address, phone numbers and used devices.
 
@@ -124,7 +123,7 @@ You can verify your identity at any money transfer agency we network with. Just 
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   Matensa allows you to manage and pay your bills simply and easily.
 
@@ -154,7 +153,7 @@ Matensa will also reward you for using our platform and committing to all agreem
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   Matensa allows your business to manage and track all your bills, invoices and payments. You can simply send agreements to all your customers with payment terms and Matensa will follow up, send reminders and help you collect it.
 
@@ -182,7 +181,7 @@ Matensa helps you attract the right customer.
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   We aim is to expand worldwide and operate in all currencies. At the moment we operate under USD and LBP.
 
@@ -206,7 +205,7 @@ Matensa allows you to use dual currencies when creating an agreement. Separate p
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   Matensa charges a small fee per transaction but will always make sure our service outweighs the fee you pay and will eventually Save you Time and Money.
 
@@ -226,7 +225,7 @@ Matensa allows you to use dual currencies when creating an agreement. Separate p
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   A-  No bank accounts are needed. You can simply use money transfer agencies we network with and with time you can limit your usage to one visit per month.
 
@@ -250,7 +249,7 @@ Matensa allows you to utilise your bank balance if you have a bank account.
 
     </div>
 
-    <div class="helpsection-questions-answer" style="text-align: left;" aria-labelledby="headingTwo"
+    <div class="helpsection-questions-answer"  aria-labelledby="headingTwo"
 
         data-parent="#accordion" id="navbarSupportedContent">   A-  You’d only want to work with a trustworthy person, so as everyone else. At Matensa we aim to create a network where you know it’s safe and secure and every person or business you network with is being researched and verified.
 
@@ -279,24 +278,24 @@ Protecting your privacy is our number one priority. Hence, we want to insure all
         </div>
 
         <div class="warning-block">
-            <div class="heading-4 mb-2" style="font-size: 1.1rem ;">Still have a questions?</div>
+            <div class="heading-4 mb-2" >Still have a questions?</div>
             <div class="job-date">We're sorry we couldn't provide you with the information you were looking for.
                 Please contact us
                 and we'll be happy to help.</div>
-                <button class="button-2 mt-3"><img src="assets/images/Email.svg" style="margin-right:0.5rem">Contact us</button>
+                <button class="button-2 mt-3"><img src="assets/images/Email.svg" class="marginright">Contact us</button>
         </div>
     </div>
     <div class="map">
         <div class="row">
-            <div class="col-lg-5" style="padding-right: 0 !important;">
+            <div class="col-lg-5 pr-0" >
                 <div class="contact-info">
                 <div class="heading-1">Contact Information</div>
                         <div class="white-text mb-5">We would like to see you in our offices :)</div>
-                        <div class="white-text mb-2"><img src="assets/images/Location Point.svg" style="margin-right:0.5rem">123 Aberchmoun, Mount
+                        <div class="white-text mb-2"><img src="assets/images/Location Point.svg" class="marginright">123 Aberchmoun, Mount
                             Lebanon
                             Lebanon.</div>
-                        <div class="white-text mb-2"><img src="assets/images/Email (1).svg" style="margin-right:0.5rem">support@matensa.com</div>
-                        <div class="white-text"><img src="assets/images/Phone.svg" style="margin-right:0.5rem">+9617894636</div>
+                        <div class="white-text mb-2"><img src="assets/images/Email (1).svg" class="marginright">support@matensa.com</div>
+                        <div class="white-text"><img src="assets/images/Phone.svg" class="marginright">+9617894636</div>
                     <div class="socialmedia">  <div class="socialmediaicons"><img src="assets/images/Vector (1).svg">
             <img src="assets/images/instagram.svg">
             <img src="assets/images/linkedin.svg">
@@ -305,15 +304,13 @@ Protecting your privacy is our number one priority. Hence, we want to insure all
                 </div>
 
             </div>
-            <div class="col-lg-7" style="padding-left: 0 !important;"><img style="    width: 100%;
-                    border-top-right-radius: 8px;
-                    border-bottom-right-radius: 8px;" src="assets/images/content/Screen Shot 2024-04-25 at 2.50 1.png">
+            <div class="col-lg-7 mapleft" ><img  src="assets/images/content/Screen Shot 2024-04-25 at 2.50 1.png">
             </div>
         </div>
     </div>
-    <div style="width: 50%; margin: auto;" class="mt-5 main-div">
-        <div class="heading-1" style="font-weight: 600;">How can we help you</div>
-        <div class="text-2 mt-2 mb-3" style="font-size: 1rem;">We tried to answer most common
+    <div  class="mt-5 main-div half-div">
+        <div class="heading-1" ><b>How can we help you</b></div>
+        <div class="text-2 mt-2 mb-3" >We tried to answer most common
             questions, if you have
             any
             additional, please get in
@@ -328,7 +325,7 @@ Protecting your privacy is our number one priority. Hence, we want to insure all
             <span>IIf you aren’t sure or do not have a Matensa account, please enter the email address you are best
                 reached.</span>
         </div>
-        <div class="mb-3" style="text-align:left"><input type="checkbox" class="mr-2" style="margin-right:0.5rem">I no
+        <div class="mb-3 text-left" ><input type="checkbox" class="mr-2 marginright" >I no
             longer have access to this email <span>(Optional) </span></div>
         <div class="form-group">
             <div class="label">Phone Number <span>(Optional)</span></div> <input type="text">
@@ -349,7 +346,7 @@ Protecting your privacy is our number one priority. Hence, we want to insure all
             <span>You may upload multiple attachments totaling up tp 10MB.</span>
         </div>
 
-        <button style="margin-top: 1rem;width: 100%;" class="button-2">Submit</button>
+        <button  class="button-2 mt-4 width-100">Submit</button>
     </div>
 </div>
 <?php include 'components/stay-connected/stay-connected.php'; ?>

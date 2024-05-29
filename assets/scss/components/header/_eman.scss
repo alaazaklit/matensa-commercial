@@ -98,6 +98,7 @@ body {
     color: #344051;
     margin-top: 1rem;
     font-weight: 400;
+    text-align: left;
 }
 
 .helpsection-questions-header {
@@ -167,7 +168,25 @@ body {
     list-style-type: none;
     display: flex;
 }
-
+.half-div{
+    width: 50%;
+    margin: auto;
+}
+.mapleft{
+    padding-left: 0 !important;
+}
+.faqsearch{
+    width: 100%;border: 1px solid #80808073 !important;    padding: 1rem;
+    border-radius: 8px !important;font-size: 1.1rem !important;height: 50px !important;
+}
+.pr-0{
+    padding-right: 0 !important;
+}
+.mapleft img{
+    width: 100%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
 .heading-7 {
     font-size: 1rem;
     line-height: 28px;
@@ -484,6 +503,7 @@ margin-left: -15px;
     display: flex;
     margin-left: -15px;
 }
+
 .salary img{
     width: 20%;
 }
@@ -491,6 +511,31 @@ margin-left: -15px;
     width: 5%;
     height: 10%;
     margin-top: 0.5rem;
+    margin-right: 1rem;
+}
+.growbusiness .main-div{
+    width: 70%; margin: auto;
+}
+.image-home-1{
+    position:absolute;right:0
+}
+.image-home-2{
+    position:absolute;left:0;top: 65rem;
+}
+.image-home-3{
+    position:absolute;right:0rem;bottom: 45rem;
+}
+.image-home-4{
+    position:absolute;left:0rem;bottom: 0rem;
+}
+.growbusiness .payment-gateway{
+    width: unset !important;
+}
+.growbusiness .payment-gateway span{
+    margin-right: 0.5rem ;
+}
+.salary .col-lg-5{
+    border-left: 2px solid #D5D5D5;
 }
 
 .job-detail .tag-1 {
@@ -577,6 +622,9 @@ select {
     margin-right: 1rem;
 }
 .footer-section .container a img{
+    height: 40px !important;
+}
+.header-height{
     height: 40px !important;
 }
 .Error {
