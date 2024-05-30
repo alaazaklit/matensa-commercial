@@ -120,7 +120,7 @@
                             vulputate risus. Eu nunc nulla eleifend egestas sit imperdiet amet. Eget accumsan nulla
                             porttitor rhoncus sed. Ullamcorper cursus ut ultrices enim arcu sed dictum eget pharetra.
                         </p>
-                        <button class="button-1 mb-5">Get The App</button>
+                        <a class="button-1 mb-5" href="https://dashboard.matensa.com/">Get The App</a>
                     </div> 
                     <div class="col-lg-7 col-md-12  heading-6 pt-5">
                         <img  class="image-15"  width="100%"

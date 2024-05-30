@@ -76,17 +76,12 @@
 
 
                     <div class="swiper-slide">
-                        <div class="block" style="background-image: url('assets/images/content/unsplash_8YG31Xn4dSw.png');
+                        <div class="block" style="background-image: url('assets/images/content/unsplash_lyiKExA4zQA.png');
                     ">
-                            <div class="block-hover block">
-                                <div class="heading-4 mb-3"> Simply Matensa It!</div>
-                                <div class="text-2 ">Redefining the way you send money and manage payments—safe, simple,
-                                    and
-                                    social.
-                                    Discover the
-                                    Matensa advantage and embrace seamless financial connections.</div>
+                            <div class="block-hover block block-blue">
+                                <div class="text-2 ">Matensa goes beyond transactions to foster real connections. Manage your money with ease and share life's moments on your terms.A perfect blend of finance and community.</div>
                             </div>
-                            <div class="heading-5 mb-3"> Safe Money Management</div>
+                            <div class="heading-5 mb-3"> Bringing People Together</div>
                             <div class="text-3">
                                 <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"
                                         viewBox="0 0 30 30" fill="none">
@@ -94,22 +89,17 @@
                                             d="M12.2163 13.8445C11.9234 13.5516 11.4485 13.5516 11.1556 13.8445C10.8627 14.1373 10.8627 14.6122 11.1556 14.9051L12.2163 13.8445ZM14.1859 16.8748L13.6556 17.4051C13.9485 17.698 14.4234 17.698 14.7163 17.4051L14.1859 16.8748ZM19.9053 12.2161C20.1982 11.9232 20.1982 11.4483 19.9053 11.1554C19.6124 10.8625 19.1376 10.8625 18.8447 11.1554L19.9053 12.2161ZM14.6566 3.8479L14.8626 4.56904L14.6566 3.8479ZM15.3434 3.8479L15.5494 3.12676V3.12676L15.3434 3.8479ZM15.7265 25.7308L15.2906 25.1205H15.2906L15.7265 25.7308ZM14.2735 25.7308L13.8375 26.3411L14.2735 25.7308ZM6.25 13.5671H5.5H6.25ZM11.4845 23.7387L11.9205 23.1284L11.4845 23.7387ZM18.5155 23.7387L18.9514 24.349L18.5155 23.7387ZM22.8434 5.99076L22.6374 6.7119L22.8434 5.99076ZM7.1566 5.99076L6.95056 5.26961L7.1566 5.99076ZM23 7.19266V13.5671H24.5V7.19266H23ZM7 13.5671V7.19266L5.5 7.19266V13.5671H7ZM18.0795 23.1284L15.2906 25.1205L16.1625 26.3411L18.9514 24.349L18.0795 23.1284ZM14.7094 25.1205L11.9205 23.1284L11.0486 24.349L13.8375 26.3411L14.7094 25.1205ZM7.36264 6.7119L14.8626 4.56904L14.4506 3.12676L6.95056 5.26961L7.36264 6.7119ZM15.1374 4.56904L22.6374 6.7119L23.0494 5.26961L15.5494 3.12676L15.1374 4.56904ZM11.1556 14.9051L13.6556 17.4051L14.7163 16.3445L12.2163 13.8445L11.1556 14.9051ZM14.7163 17.4051L19.9053 12.2161L18.8447 11.1554L13.6556 16.3445L14.7163 17.4051ZM14.8626 4.56904C14.9524 4.54339 15.0476 4.54339 15.1374 4.56904L15.5494 3.12676C15.1903 3.02415 14.8097 3.02415 14.4506 3.12676L14.8626 4.56904ZM15.2906 25.1205C15.1168 25.2447 14.8832 25.2447 14.7094 25.1205L13.8375 26.3411C14.5329 26.8378 15.4671 26.8378 16.1625 26.3411L15.2906 25.1205ZM5.5 13.5671C5.5 17.8462 7.56655 21.8619 11.0486 24.349L11.9205 23.1284C8.8326 20.9228 7 17.3617 7 13.5671H5.5ZM23 13.5671C23 17.3617 21.1674 20.9228 18.0795 23.1284L18.9514 24.349C22.4335 21.8619 24.5 17.8462 24.5 13.5671H23ZM24.5 7.19266C24.5 6.2997 23.908 5.51493 23.0494 5.26961L22.6374 6.7119C22.852 6.77323 23 6.96942 23 7.19266H24.5ZM7 7.19266C7 6.96942 7.14799 6.77323 7.36264 6.7119L6.95056 5.26961C6.09195 5.51493 5.5 6.2997 5.5 7.19266L7 7.19266Z"
                                             fill="white" />
                                     </svg></div>
-                                <div class="ml-3">You can trust that your finances are in capable hands.</div>
+                                <div class="ml-3">Your transaction is sent successfully.</div>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="block"
-                            style="background-image: url('assets/images/content/unsplash_8YG31Xn4dSw.png'); ">
-                            <div class="block-hover block">
-                                <div class="heading-4 mb-3"> Simply Matensa It!</div>
-                                <div class="text-2 ">Redefining the way you send money and manage payments—safe, simple,
-                                    and
-                                    social.
-                                    Discover the
-                                    Matensa advantage and embrace seamless financial connections.</div>
+                            style="background-image: url('assets/images/content/Rectangle 16954.png'); ">
+                            <div class="block-hover block blockyellow">
+                                <div class="text-2 ">Matensa transcends mere peer-to-peer payments, serving as your comprehensive mobile finance hub.Matensa empowers you to focus on life's moments while maintaining full control over your finances.</div>
                             </div>
-                            <div class="heading-5 mb-3"> Safe Money Management</div>
+                            <div class="heading-5 mb-3">Empowering Financial Freedom</div>
                             <div class="text-3">
                                 <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"
                                         viewBox="0 0 30 30" fill="none">
@@ -117,58 +107,12 @@
                                             d="M12.2163 13.8445C11.9234 13.5516 11.4485 13.5516 11.1556 13.8445C10.8627 14.1373 10.8627 14.6122 11.1556 14.9051L12.2163 13.8445ZM14.1859 16.8748L13.6556 17.4051C13.9485 17.698 14.4234 17.698 14.7163 17.4051L14.1859 16.8748ZM19.9053 12.2161C20.1982 11.9232 20.1982 11.4483 19.9053 11.1554C19.6124 10.8625 19.1376 10.8625 18.8447 11.1554L19.9053 12.2161ZM14.6566 3.8479L14.8626 4.56904L14.6566 3.8479ZM15.3434 3.8479L15.5494 3.12676V3.12676L15.3434 3.8479ZM15.7265 25.7308L15.2906 25.1205H15.2906L15.7265 25.7308ZM14.2735 25.7308L13.8375 26.3411L14.2735 25.7308ZM6.25 13.5671H5.5H6.25ZM11.4845 23.7387L11.9205 23.1284L11.4845 23.7387ZM18.5155 23.7387L18.9514 24.349L18.5155 23.7387ZM22.8434 5.99076L22.6374 6.7119L22.8434 5.99076ZM7.1566 5.99076L6.95056 5.26961L7.1566 5.99076ZM23 7.19266V13.5671H24.5V7.19266H23ZM7 13.5671V7.19266L5.5 7.19266V13.5671H7ZM18.0795 23.1284L15.2906 25.1205L16.1625 26.3411L18.9514 24.349L18.0795 23.1284ZM14.7094 25.1205L11.9205 23.1284L11.0486 24.349L13.8375 26.3411L14.7094 25.1205ZM7.36264 6.7119L14.8626 4.56904L14.4506 3.12676L6.95056 5.26961L7.36264 6.7119ZM15.1374 4.56904L22.6374 6.7119L23.0494 5.26961L15.5494 3.12676L15.1374 4.56904ZM11.1556 14.9051L13.6556 17.4051L14.7163 16.3445L12.2163 13.8445L11.1556 14.9051ZM14.7163 17.4051L19.9053 12.2161L18.8447 11.1554L13.6556 16.3445L14.7163 17.4051ZM14.8626 4.56904C14.9524 4.54339 15.0476 4.54339 15.1374 4.56904L15.5494 3.12676C15.1903 3.02415 14.8097 3.02415 14.4506 3.12676L14.8626 4.56904ZM15.2906 25.1205C15.1168 25.2447 14.8832 25.2447 14.7094 25.1205L13.8375 26.3411C14.5329 26.8378 15.4671 26.8378 16.1625 26.3411L15.2906 25.1205ZM5.5 13.5671C5.5 17.8462 7.56655 21.8619 11.0486 24.349L11.9205 23.1284C8.8326 20.9228 7 17.3617 7 13.5671H5.5ZM23 13.5671C23 17.3617 21.1674 20.9228 18.0795 23.1284L18.9514 24.349C22.4335 21.8619 24.5 17.8462 24.5 13.5671H23ZM24.5 7.19266C24.5 6.2997 23.908 5.51493 23.0494 5.26961L22.6374 6.7119C22.852 6.77323 23 6.96942 23 7.19266H24.5ZM7 7.19266C7 6.96942 7.14799 6.77323 7.36264 6.7119L6.95056 5.26961C6.09195 5.51493 5.5 6.2997 5.5 7.19266L7 7.19266Z"
                                             fill="white" />
                                     </svg></div>
-                                <div class="ml-3">You can trust that your finances are in capable hands.</div>
+                                <div class="ml-3">Your reports are ready to view.</div>
                             </div>
                         </div>
                     </div>
 
-                    <div class="swiper-slide">
-                        <div class="block" style="background-image: url('assets/images/content/unsplash_8YG31Xn4dSw.png');
-                    ">
-                            <div class="block-hover block">
-                                <div class="heading-4 mb-3"> Simply Matensa It!</div>
-                                <div class="text-2 ">Redefining the way you send money and manage payments—safe, simple,
-                                    and
-                                    social.
-                                    Discover the
-                                    Matensa advantage and embrace seamless financial connections.</div>
-                            </div>
-                            <div class="heading-5 mb-3"> Safe Money Management</div>
-                            <div class="text-3">
-                                <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"
-                                        viewBox="0 0 30 30" fill="none">
-                                        <path
-                                            d="M12.2163 13.8445C11.9234 13.5516 11.4485 13.5516 11.1556 13.8445C10.8627 14.1373 10.8627 14.6122 11.1556 14.9051L12.2163 13.8445ZM14.1859 16.8748L13.6556 17.4051C13.9485 17.698 14.4234 17.698 14.7163 17.4051L14.1859 16.8748ZM19.9053 12.2161C20.1982 11.9232 20.1982 11.4483 19.9053 11.1554C19.6124 10.8625 19.1376 10.8625 18.8447 11.1554L19.9053 12.2161ZM14.6566 3.8479L14.8626 4.56904L14.6566 3.8479ZM15.3434 3.8479L15.5494 3.12676V3.12676L15.3434 3.8479ZM15.7265 25.7308L15.2906 25.1205H15.2906L15.7265 25.7308ZM14.2735 25.7308L13.8375 26.3411L14.2735 25.7308ZM6.25 13.5671H5.5H6.25ZM11.4845 23.7387L11.9205 23.1284L11.4845 23.7387ZM18.5155 23.7387L18.9514 24.349L18.5155 23.7387ZM22.8434 5.99076L22.6374 6.7119L22.8434 5.99076ZM7.1566 5.99076L6.95056 5.26961L7.1566 5.99076ZM23 7.19266V13.5671H24.5V7.19266H23ZM7 13.5671V7.19266L5.5 7.19266V13.5671H7ZM18.0795 23.1284L15.2906 25.1205L16.1625 26.3411L18.9514 24.349L18.0795 23.1284ZM14.7094 25.1205L11.9205 23.1284L11.0486 24.349L13.8375 26.3411L14.7094 25.1205ZM7.36264 6.7119L14.8626 4.56904L14.4506 3.12676L6.95056 5.26961L7.36264 6.7119ZM15.1374 4.56904L22.6374 6.7119L23.0494 5.26961L15.5494 3.12676L15.1374 4.56904ZM11.1556 14.9051L13.6556 17.4051L14.7163 16.3445L12.2163 13.8445L11.1556 14.9051ZM14.7163 17.4051L19.9053 12.2161L18.8447 11.1554L13.6556 16.3445L14.7163 17.4051ZM14.8626 4.56904C14.9524 4.54339 15.0476 4.54339 15.1374 4.56904L15.5494 3.12676C15.1903 3.02415 14.8097 3.02415 14.4506 3.12676L14.8626 4.56904ZM15.2906 25.1205C15.1168 25.2447 14.8832 25.2447 14.7094 25.1205L13.8375 26.3411C14.5329 26.8378 15.4671 26.8378 16.1625 26.3411L15.2906 25.1205ZM5.5 13.5671C5.5 17.8462 7.56655 21.8619 11.0486 24.349L11.9205 23.1284C8.8326 20.9228 7 17.3617 7 13.5671H5.5ZM23 13.5671C23 17.3617 21.1674 20.9228 18.0795 23.1284L18.9514 24.349C22.4335 21.8619 24.5 17.8462 24.5 13.5671H23ZM24.5 7.19266C24.5 6.2997 23.908 5.51493 23.0494 5.26961L22.6374 6.7119C22.852 6.77323 23 6.96942 23 7.19266H24.5ZM7 7.19266C7 6.96942 7.14799 6.77323 7.36264 6.7119L6.95056 5.26961C6.09195 5.51493 5.5 6.2997 5.5 7.19266L7 7.19266Z"
-                                            fill="white" />
-                                    </svg></div>
-                                <div class="ml-3">You can trust that your finances are in capable hands.</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="block"
-                            style="background-image: url('assets/images/content/unsplash_8YG31Xn4dSw.png'); ">
-                            <div class="block-hover block">
-                                <div class="heading-4 mb-3"> Simply Matensa It!</div>
-                                <div class="text-2 ">Redefining the way you send money and manage payments—safe, simple,
-                                    and
-                                    social.
-                                    Discover the
-                                    Matensa advantage and embrace seamless financial connections.</div>
-                            </div>
-                            <div class="heading-5 mb-3"> Safe Money Management</div>
-                            <div class="text-3">
-                                <div class="icon"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"
-                                        viewBox="0 0 30 30" fill="none">
-                                        <path
-                                            d="M12.2163 13.8445C11.9234 13.5516 11.4485 13.5516 11.1556 13.8445C10.8627 14.1373 10.8627 14.6122 11.1556 14.9051L12.2163 13.8445ZM14.1859 16.8748L13.6556 17.4051C13.9485 17.698 14.4234 17.698 14.7163 17.4051L14.1859 16.8748ZM19.9053 12.2161C20.1982 11.9232 20.1982 11.4483 19.9053 11.1554C19.6124 10.8625 19.1376 10.8625 18.8447 11.1554L19.9053 12.2161ZM14.6566 3.8479L14.8626 4.56904L14.6566 3.8479ZM15.3434 3.8479L15.5494 3.12676V3.12676L15.3434 3.8479ZM15.7265 25.7308L15.2906 25.1205H15.2906L15.7265 25.7308ZM14.2735 25.7308L13.8375 26.3411L14.2735 25.7308ZM6.25 13.5671H5.5H6.25ZM11.4845 23.7387L11.9205 23.1284L11.4845 23.7387ZM18.5155 23.7387L18.9514 24.349L18.5155 23.7387ZM22.8434 5.99076L22.6374 6.7119L22.8434 5.99076ZM7.1566 5.99076L6.95056 5.26961L7.1566 5.99076ZM23 7.19266V13.5671H24.5V7.19266H23ZM7 13.5671V7.19266L5.5 7.19266V13.5671H7ZM18.0795 23.1284L15.2906 25.1205L16.1625 26.3411L18.9514 24.349L18.0795 23.1284ZM14.7094 25.1205L11.9205 23.1284L11.0486 24.349L13.8375 26.3411L14.7094 25.1205ZM7.36264 6.7119L14.8626 4.56904L14.4506 3.12676L6.95056 5.26961L7.36264 6.7119ZM15.1374 4.56904L22.6374 6.7119L23.0494 5.26961L15.5494 3.12676L15.1374 4.56904ZM11.1556 14.9051L13.6556 17.4051L14.7163 16.3445L12.2163 13.8445L11.1556 14.9051ZM14.7163 17.4051L19.9053 12.2161L18.8447 11.1554L13.6556 16.3445L14.7163 17.4051ZM14.8626 4.56904C14.9524 4.54339 15.0476 4.54339 15.1374 4.56904L15.5494 3.12676C15.1903 3.02415 14.8097 3.02415 14.4506 3.12676L14.8626 4.56904ZM15.2906 25.1205C15.1168 25.2447 14.8832 25.2447 14.7094 25.1205L13.8375 26.3411C14.5329 26.8378 15.4671 26.8378 16.1625 26.3411L15.2906 25.1205ZM5.5 13.5671C5.5 17.8462 7.56655 21.8619 11.0486 24.349L11.9205 23.1284C8.8326 20.9228 7 17.3617 7 13.5671H5.5ZM23 13.5671C23 17.3617 21.1674 20.9228 18.0795 23.1284L18.9514 24.349C22.4335 21.8619 24.5 17.8462 24.5 13.5671H23ZM24.5 7.19266C24.5 6.2997 23.908 5.51493 23.0494 5.26961L22.6374 6.7119C22.852 6.77323 23 6.96942 23 7.19266H24.5ZM7 7.19266C7 6.96942 7.14799 6.77323 7.36264 6.7119L6.95056 5.26961C6.09195 5.51493 5.5 6.2997 5.5 7.19266L7 7.19266Z"
-                                            fill="white" />
-                                    </svg></div>
-                                <div class="ml-3">You can trust that your finances are in capable hands.</div>
-                            </div>
-                        </div>
-                    </div>
+                  
                     <!-- Add more slides as needed -->
                 </div>
                 <!-- Add Pagination -->
@@ -322,7 +266,56 @@
                         <div class="team-item">
                             <div class="block">
                                 <img src="assets/images/content/man.png">
+                                <div class="team-content">
+                                    <div class="info">
+                                        <div class="info-name">Jane Doe</div>
+                                        <div class="team-position">Founder & CEO</div>
+                                    </div>
 
+                                    <p class="team-brief">UI/UX designer passionate about intuitive digital experiences,
+                                        blending user needs with business goals for seamless interfaces.</p>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <div class="info-name">Jane Doe</div>
+                                <div>Founder & CEO</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-item">
+                            <div class="block">
+                                <img src="assets/images/content/unsplash_A3MleA0jtoE.png">
+                                <div class="team-content">
+                                    <div class="info">
+                                        <div class="info-name">Jane Doe</div>
+                                        <div class="team-position">Programmer</div>
+                                    </div>
+
+                                    <p class="team-brief">UI/UX designer passionate about intuitive digital experiences,
+                                        blending user needs with business goals for seamless interfaces.</p>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <div class="info-name">Jane Doe</div>
+                                <div>Programmer</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="team-item">
+                            <div class="block">
+                                <img src="assets/images/content/Business woman standing with arms crossed.png">
+                                <div class="team-content">
+                                    <div class="info">
+                                        <div class="info-name">Jane Doe</div>
+                                        <div class="team-position">Accounting</div>
+                                    </div>
+
+                                    <p class="team-brief">UI/UX designer passionate about intuitive digital experiences,
+                                        blending user needs with business goals for seamless interfaces.</p>
+                                </div>
                             </div>
                             <div class="info">
                                 <div class="info-name">Jane Doe</div>
@@ -333,8 +326,16 @@
                     <div class="swiper-slide">
                         <div class="team-item">
                             <div class="block">
-                                <img src="assets/images/content/man.png">
+                                <img src="assets/images/content/Business woman standing with arms crossed.png">
+                                <div class="team-content">
+                                    <div class="info">
+                                        <div class="info-name">Jane Doe</div>
+                                        <div class="team-position">Accounting</div>
+                                    </div>
 
+                                    <p class="team-brief">UI/UX designer passionate about intuitive digital experiences,
+                                        blending user needs with business goals for seamless interfaces.</p>
+                                </div>
                             </div>
                             <div class="info">
                                 <div class="info-name">Jane Doe</div>
@@ -343,73 +344,6 @@
                         </div>
                     </div>
 
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="swiper-slide">
-                        <div class="team-item">
-                            <div class="block">
-                                <img src="assets/images/content/man.png">
-
-                            </div>
-
-                            <div class="info">
-                                <div class="info-name">Jane Doe</div>
-                                <div>Accounting</div>
-                            </div>
-                        </div>
-                    </div>
                     <!-- Add more slides as needed -->
                 </div>
                 <!-- Add Pagination -->

@@ -27,8 +27,12 @@
 }
 
 .swiper-pagination {
-    bottom: -6rem !important;
+    bottom: -3.5rem !important;
     top: auto !important
+}
+
+.home-section-2 .swiper-pagination {
+    bottom: -6rem !important;
 }
 
 .swiper-pagination-bullet-active {

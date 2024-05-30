@@ -23,9 +23,10 @@ body {
     font-size: 1.1rem !important;
 }
 
-.footer-section a{
+.footer-section a {
     color: black;
 }
+
 .heading-3 {
     color: #D7008A !important;
 }
@@ -67,6 +68,7 @@ body {
 
 .button-5 {
     width: 100%;
+    border: unset !important;
     height: unset !important;
     border-radius: 3.5rem;
     // border: var(--spacing-2, 2px) solid var(--Text-text-primary, #141C24);
@@ -173,14 +175,16 @@ body {
     list-style-type: none;
     display: flex;
 }
-.slider-item-1-content h5{
-color: white;
+
+.slider-item-1-content h5 {
+    color: white;
 }
 
-a.button-1{
+a.button-1 {
     text-align: center;
 }
-.half-div{
+
+.half-div {
     width: 50%;
     margin: auto;
 }
@@ -265,7 +269,24 @@ a.button-1{
 body .securepayment .block-slider .block-yellow {
     background-color: #FFF9EB !important;
 }
+#aboutus-slider-1 .swiper-slide{
+    width: 350px !important
+}
 
+.slider-item-style-1  .img{
+    background-color: #4c8fcc;
+    border-radius: 35px;
+}
+.team-item{
+    width: 270px;
+    text-align: center;
+}
+.team-item .info{
+    text-align: left !important;
+}
+#aboutus-slider-1 .swiper-slide .heading-5{
+    left:unset  !important;
+}
 body .securepayment .block-slider .block-bl {
     background-color: #E5EEFF !important;
 }
@@ -602,6 +623,7 @@ body .securepayment .block-slider .block-bl {
 
 .newsletter-form input[type=text] {
     height: 45px;
+    width: 100%;
     font-size: 1rem !important;
 }
 
@@ -757,9 +779,7 @@ select {
     margin-right: 1rem;
 }
 
-.footer-section .container a img {
-    height: 40px !important;
-}
+
 
 .header-height {
     height: 40px !important;
@@ -933,6 +953,57 @@ select {
 
 .securepayment .block {
     max-width: 40%;
+}
+
+.team-content {
+    position: absolute;
+
+    opacity: 0;
+    left: 0;
+    padding: 1rem;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(167, 167, 167, 0.659) 65.9%, #000000 100%) #6C0045;
+    z-index: 10;
+
+    transition-delay: 0s;
+    transition-duration: .4s;
+    transition-property: all;
+    transition-timing-function: ease;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-duration: .4s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-delay: 0s;
+    -moz-transition-duration: .4s;
+    -moz-transition-property: all;
+    -moz-transition-timing-function: ease;
+    -ms-transition-delay: 0s;
+    -ms-transition-duration: .4s;
+    -ms-transition-property: all;
+    -ms-transition-timing-function: ease;
+    -o-transition-delay: 0s;
+    -o-transition-duration: .4s;
+    -o-transition-property: all;
+    -o-transition-timing-function: ease
+}
+
+
+.team-item:hover .team-content {
+    top: 0;
+    opacity: 1;
+}
+
+.team-brief {
+    position: absolute;
+    bottom: 1rem;
+    font-size: 1rem;
+    color: white;
+}
+
+.team-brief,
+.team-position {
+    opacity: 0.7;
 }
 
 .row {
