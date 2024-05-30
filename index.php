@@ -45,7 +45,7 @@
                         </div>
 
 
-                        <div class="swiper-slide">
+                        <div class="swiper-slide main-slide">
                         <a href="beyondwallet"> 
                             <div class="slider-item-style-1">
                                 <div class="img"><img src="assets/images/home/wallet/1.png"></div>

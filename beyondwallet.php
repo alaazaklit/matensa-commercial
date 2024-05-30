@@ -17,7 +17,7 @@
                             financial freedom.</p>
                         <div><a class="button-1" href="https://play.google.com/store/apps/details?id=com.matensa.app">Try it now</a></div>
                     </div>
-                    <div class="col-lg-5 col-md-12 pl-5">
+                    <div class="col-lg-5 col-md-12 pl-5 firstimage">
                         <img class="borderrad" width="80%" src="assets/images/content/Frame 1000002545.png">
                     </div>
                 </div>

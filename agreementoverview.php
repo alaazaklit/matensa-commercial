@@ -36,13 +36,13 @@
                 </div>
                 <div class="row mt-5 pt-2 ">
                     <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17059 (1).png">
-                        <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans</div>
+                        <div class="mt-3 methods">Fixed subscriptions or flexible pay-as-you-go plans</div>
                     </div>
                     <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17060 (1).png">
-                        <div class="mt-3">Contracts with set repayment schedules</div>
+                        <div class="mt-3 methods">Contracts with set repayment schedules</div>
                     </div>
                     <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17061 (1).png">
-                        <div class="mt-3">One-time invoices</div>
+                        <div class="mt-3 methods">One-time invoices</div>
                     </div>
                 </div>
                 <div class="row mt-5">
@@ -101,7 +101,7 @@
         </div>
 
 
-        <div class="pb-5">
+        <div class="pb-5 BigText">
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">

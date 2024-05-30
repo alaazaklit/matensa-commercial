@@ -3,7 +3,7 @@
 <div class="mt-5 pt-5">
     <div class="container pt-5 pb-5 mt-5" >
         <div class="text-center">
-            <img  src="assets/images/content/Mask group (2).png">
+            <img class="width-100"  src="assets/images/content/Mask group (2).png">
         </div>
         <div class="row">
             <div class="col-md-1"></div>
