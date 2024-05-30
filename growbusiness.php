@@ -13,7 +13,7 @@
                 Matensa community. Cultivate customer loyalty and expand your reach, setting your business apart in
                 a crowded marketplace.</div>
 
-            <button class="button-1 mb-5">Get Matensa</button>
+            <a class="button-1 mb-5" href="https://play.google.com/store/apps/details?id=com.matensa.app">Get Matensa</a>
             <div> <img width="100%" src="assets/images/content/Frame 1000002554.png"> </div>
         </div>
         <img class="image-8" src="assets/images/Topography Line Pattern (1).png">
@@ -26,7 +26,7 @@
                     <img class="image-9" src="assets/images/Vector (4).png">
                     <img class="borderrad" width="100%" src="assets/images/content/Rectangle 17065 (1).png">
                 </div>
-                <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
+                <div class="col-lg-7 col-md-12 pl-3 pt-3">
                     <div class="heading-2 mt-5 mb-3"> Introduce New <br>
                         <span class="heading-3">Payment </span> Options
                     </div>
@@ -43,7 +43,7 @@
         </div>
     </div>
     <div>
-        <div class="container pt-5 pb-5">
+        <div class="container pt-5 pb-5 mt-5">
             <div class="row manageagreements">
                 <div class="col-lg-6 col-md-12 heading-6  pt-5">
                     <div class="heading-2 mt-5 mb-3"> Manage Your <br>
@@ -64,7 +64,7 @@
 
         </div>
     </div>
-    <div class="pb-5">
+    <div class="pb-5 empower">
         <div class="container pt-5 pb-5">
             <div class="row">
                 <div class="col-lg-6 col-md-12">

@@ -4,7 +4,7 @@
         <div class="welcome text-center">
             <div class="container pt-5 pb-5">
                 <div class="heading-1">Agreements Overview</div>
-                <div class="heading-2 mt-2"> Create Secure Agreements Effortlessly
+                <div class="heading-2 mt-2"> Create Secure <br> Agreements Effortlessly
 
                 </div>
                 <div class="heading-6 mt-3 mb-5">Tailor agreements that resonate with your business operations,
@@ -25,11 +25,11 @@
         <div class="mt-2">
             <div class="container pt-5 pb-5">
                 <div class="row">
-                    <div class="col-lg-7">
-                        <div class="heading-2">New & Faster
+                    <div class="col-lg-6">
+                        <div class="heading-2">New & Faster<br>
                             Payment Methods</div>
                     </div>
-                    <div class="col-lg-5 heading-6">Lorem ipsum dolor sit amet consectetur. Felis tincidunt donec cras
+                    <div class="col-lg-6 heading-6">Lorem ipsum dolor sit amet consectetur. Felis tincidunt donec cras
                         pharetra
                         aliquet. Fringilla sed vel sem tincidunt nunc felis. Dictum dolor diam sapien est dignissim
                         fames mi id tincidunt.</div>
@@ -46,12 +46,12 @@
                     </div>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-lg-3 col-md-12 relativeposition" >
+                    <div class="col-lg-3 col-md-12  relativeposition" >
                         <img class="image-13" width="100%"
                             src="assets/images/content/Partnership-2--Streamline-Milano.png">
                     </div>
-                    <div class="col-lg-9 col-md-12 pl-5 heading-6 pt-3">
-                        <div class="heading-2 mt-5 mb-3">Dual-Currency Agreements & Streamlined Transaction
+                    <div class="col-lg-9 col-md-12 pl-5  pt-3">
+                        <div class="heading-2 mt-5 mb-3">Dual-Currency Agreements <br> & Streamlined Transaction
                             Management
                         </div>
                         <p>Craft your agreements with dual-currency convenience in Lebanese pounds or USD, and
@@ -70,11 +70,11 @@
                 </div>
 
                 <div class="row mt-5 pt-5">
-                    <div class="col-lg-5 col-md-12 relativeposition" >
+                    <div class="col-lg-7 col-md-12 relativeposition" >
                         <div class="heading-2 mb-3">Agreement Flexibility & Transparency
                         </div>
                     </div>
-                    <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
+                    <div class="col-lg-5 col-md-12 pl-5 heading-6 pt-3">
 
                         <p>Experience the adaptability of managing your financial engagements with Matensa: at any
                             moment, you're empowered to alter, discontinue, or put your agreements on hold, with the

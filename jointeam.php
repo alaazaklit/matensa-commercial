@@ -1,10 +1,10 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
 <div>
-    <div class=" pb-3">
+    <div class="pb-3">
         <div class="container pt-5 pb-5">
 
-            <div class="row mt-5 pt-5">
+            <div class="row mt-5 pt-5  join-team ">
                 <div class="col-lg-7 col-md-12  pt-5">
                     <div class="heading-2 mt-2 ">Everything you need to scale a <span class="underlinepink">global
                             team</span>

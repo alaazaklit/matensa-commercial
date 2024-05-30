@@ -33,6 +33,8 @@
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8"> <input class="mt-5 faqsearch"  type="text" placeholder="Search" name="search">
+            
+            
 <div class="ng-star-inserted mt-5"> 
 
 <div class="helpsection-questions-block">

@@ -2,6 +2,7 @@
 <?php include 'components/headers/header-1.php'; ?>
     <div class="apply-now mt-5 pt-5">
         <div class="container pt-5 pb-5" >
+            <div class="applydiv">
             <div class="heading-4 info-name mt-5" > Submit your Application</div>
             <div class="job-det mt-1">Required fields are indicated with <span class="warning">*</span></div>
             <div class="row text-5 mt-4">
@@ -89,8 +90,8 @@
             <div class="row text-5 mt-4">
                 <div class="col-lg-5"></div>
                 <div class="col-lg-7 job-date">
-                    <div><input type="checkbox" class="mr-2">I accept the legal <span class="termsCond">Terms and
-                            conditions</span></div>
+                    <div><label><input type="checkbox" class="mr-2">I accept the legal <span class="termsCond">Terms and
+                            conditions</span></label></div>
                 </div>
             </div>
             <div class="row text-5 mt-4">
@@ -102,6 +103,7 @@
             </div>
             <div class="col-md-1"></div>
         </div>
+</div>
     </div>
 </div>
 <?php include 'components/stay-connected/stay-connected.php'; ?>

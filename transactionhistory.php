@@ -4,7 +4,7 @@
         <div class="welcome text-center" >
             <div class="container pt-5 pb-5">
                 <div class="heading-1">Transaction History</div>
-                <div class="heading-2 mt-2"> Access A Streamlined Overview Of All Your Matensa Transactions
+                <div class="heading-2 mt-2"> Access A Streamlined Overview Of <br> All Your Matensa Transactions
 
                 </div>
                 <div class="heading-6 mt-3 mb-5">From agreements and invoices to payments and balance adjustments. Key

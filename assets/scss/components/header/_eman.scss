@@ -490,7 +490,14 @@ body .securepayment .block-slider .block-bl {
     font-size: 1.5rem;
     font-weight: 700;
 }
-
+.info-name.highlight-content{
+    font-size: 1.6rem !important;
+    color: black;
+}
+.whyMatensa .block .text-3 div{
+    align-self: center;
+    margin-left: 0.5rem;
+}
 .highlight-text {
     font-weight: 500;
     font-size: 1.3rem;
@@ -593,11 +600,14 @@ body .securepayment .block-slider .block-bl {
 #aboutus-slider-2 .block {
     width: 100%;
     flex: 100%;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(167, 167, 167, 0.659) 65.9%, #000000 100%) #6C0045;
     max-width: 100%;
     padding-bottom: 0;
     height: auto;
 }
-
+.join-team .heading-2{
+    font-weight: 600 !important;
+}
 .info-name {
     font-size: 1.125rem;
     font-weight: 700;
@@ -849,35 +859,54 @@ select {
     text-transform: unset !important;
     min-width: 10rem !important;
 }
-
+.methods{
+    font-size: 1.3rem;
+}
 .button-3 {
-    padding: 0.45rem;
     border: 1px solid #CED2DA;
     background-color: #F9FAFB;
     border-radius: 8px;
     font-weight: 400;
-    min-width: 10rem !important;
     color: black;
     font-size: 1rem;
-    height: unset;
+    height: 33px;
     min-width: 5rem;
     text-transform: unset !important;
     margin-top: 1rem;
 }
-
+.socialicons a{
+    margin-right: 1rem;
+}
+.highdets{
+    font-size: 2rem !important;
+    color: black;
+}
 .salary .date-1 {
     font-size: 1.2rem !important;
 }
-
-.salary i {
-    font-size: 1.3rem;
+input[type=checkbox]{
+    margin-right: 1rem;
+    width: 1rem;
+    height: 1rem;
 }
 
 .text-5 {
     font-weight: 500;
     font-size: 1.1rem;
 }
-
+.empower .heading-2{
+font-size: 4rem !important;
+}
+.empower .width-100{
+    width: 75% !important;
+}
+.applydiv{
+    width: 70%;
+    margin: auto;
+}
+.applydiv .heading-4{
+font-size: 1.6rem !important;
+}
 .apply-now input[type=text] {
 
     font-size: 1rem;
@@ -885,6 +914,7 @@ select {
     border-radius: 8px;
     height: 50px;
     padding: 1rem;
+    width: 100%;
 }
 
 .apply-now select {
@@ -999,6 +1029,7 @@ select {
     bottom: 1rem;
     font-size: 1rem;
     color: white;
+    text-align: left;
 }
 
 .team-brief,
@@ -1025,13 +1056,11 @@ select {
 .securepayment .block:nth-child(1) {
     background-color: #E5F4FF !important;
     text-align: left;
-    padding: 4rem 1rem !important;
 }
 
 .securepayment .block:nth-child(2) {
     background-color: #ECF9F2 !important;
     text-align: left;
-    padding: 4rem 1rem !important;
 
 }
 
@@ -1485,7 +1514,10 @@ select {
         display: none;
     }
 }
-
+.securepayment .block .heading-6{
+    padding-bottom: 1rem !important;
+    font-size: 1.4rem !important;
+}
 
 .image-10 {
     position: absolute;
