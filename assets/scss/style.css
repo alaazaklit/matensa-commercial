@@ -2196,6 +2196,52 @@ select {
   -o-transition-timing-function: ease;
 }
 
+.slider-item-blk-3 svg {
+  max-width: 100%;
+}
+
+.slider-item-blk-3 svg g,
+.home-blk-3-content svg g {
+  opacity: 0;
+}
+
+.trans.ActiveItem .swiper-slide-active .slider-item-blk-3 svg g,
+.home-blk-3-content .img.trans.ActiveItem svg g {
+  opacity: 1;
+}
+
+.home-blk-3-content svg .g-1 {
+  transition-delay: 0.4s;
+}
+
+.home-blk-3-content svg .g-2 {
+  transition-delay: 0.8s;
+}
+
+.home-blk-3-content svg .g-3 {
+  transition-delay: 1.2s;
+}
+
+.slider-item-blk-3 svg g:nth-child(3) {
+  transition-delay: 0.4s;
+}
+
+.slider-item-blk-3 svg g:nth-child(4) {
+  transition-delay: 0.8s;
+}
+
+.slider-item-blk-3 svg g:nth-child(5) {
+  transition-delay: 1.2s;
+}
+
+.slider-item-blk-3 svg g:nth-child(6) {
+  transition-delay: 1.6s;
+}
+
+.slider-item-blk-3 svg g:nth-child(7) {
+  transition-delay: 2s;
+}
+
 .matensa-community .img svg g:nth-child(1) {
   transition-delay: 0.13s;
 }

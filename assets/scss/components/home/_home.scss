@@ -317,6 +317,43 @@
     -o-transition-timing-function: ease;
 }
 
+.slider-item-blk-3 svg {
+    max-width: 100%;
+}
+
+.slider-item-blk-3 svg g,
+.home-blk-3-content svg g {
+    opacity: 0;
+}
+
+.trans.ActiveItem .swiper-slide-active .slider-item-blk-3 svg g,
+.home-blk-3-content .img.trans.ActiveItem svg g {
+    opacity: 1;
+}
+
+// Transaction Delay
+$number-of-classes: 3;
+$base-delay: 0.4s;
+
+// Loop to generate classes with incremental delays
+@for $i from 1 through $number-of-classes {
+    .home-blk-3-content svg .g-#{$i} {
+        transition-delay: $i * $base-delay;
+    }
+}
+
+// Transaction Delay
+$number-of-classes: 7;
+$base-delay: 0.4s;
+
+// Loop to generate classes with incremental delays
+@for $i from 3 through $number-of-classes {
+    .slider-item-blk-3 svg g:nth-child(#{$i}) {
+        transition-delay: ($i - 2) * $base-delay;
+    }
+}
+
+
 // Define the number of classes and the base delay
 $number-of-classes: 24;
 $base-delay: 0.13s;

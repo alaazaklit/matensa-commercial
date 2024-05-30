@@ -150,12 +150,14 @@
         <div class="container mod pb-5 mt-5">
             <div class="row pb-5">
                 <div class="col-md-5">
-                    <div class="gallery-blk-3">
+                    <div class="gallery-blk-3 trans">
                         <div class="swiper-container-2" id="slider-blk-3-1" data-tabs="#tabs-slider-blk-3-1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="slider-item-blk-3">
-                                        <div class="img"><img src="assets/images/home/3/1/1.png"></div>
+                                        <div class="img">
+                                            <?php include 'components/home/transaction-img.php'; ?>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -251,15 +253,15 @@
                 </div>
             </div>
 
-            <div class="row mt-5 trans position-relative z-index-1 pt-5">
+            <div class="row mt-5  position-relative z-index-1 pt-5">
 
                 <div class="col-md-12 pt-5">
                     <div class="home-blk-3-content">
-                        <h2 class="h2-style-1 color-white">M Connect: Seamless Bill Payments to Utilities and
+                        <h2 class="h2-style-1 color-white trans">M Connect: Seamless Bill Payments to Utilities and
                             Municipalities</h2>
-                        <div class="col-md-12">
+                        <div class="col-md-12 ">
                             <div class="row">
-                                <div class="col-md-7">
+                                <div class="col-md-7 trans">
                                     <div class="desc color-white">
                                         <p>Set up your bill payments effortlessly by linking your account with utility
                                             providers or
@@ -272,8 +274,10 @@
 
                                     <a class="button-1" href="#">Read More</a>
                                 </div>
-                                <div class="col-md-5">
-                                    <div class="img"><img src="assets/images/home/3/3/1.png"></div>
+                                <div class="col-md-5 ">
+                                    <div class="img trans">
+                                        <?php include 'components/home/mconnect-img.php'; ?>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -293,7 +297,9 @@
 </section>
 
 <!-- ///////////////////Testimonials Section///////////// -->
-<?php include 'components/testimonials/testimonial.php'; ?>
+<div class="trans w-100">
+    <?php include 'components/testimonials/testimonial.php'; ?>
+</div>
 
 <!-- ///////////////////About Section///////////// -->
 <section class="aboutus-section pt-5 pb-5">
@@ -311,11 +317,12 @@
                 <a class="button-1 mt-4 d-inline-block text-center" href="aboutus">Read More</a>
             </div>
         </div>
-        <div class="row trans">
+        <div class="row ">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <div class="aboutus-section-img-1 mt-5 pt-5"><img src="assets/images/home/aboutus/1.png"></div>
-                <div class="aboutus-section-img-1"><img src="assets/images/home/aboutus/2.png"></div>
+                <div class="aboutus-section-img-1 trans trans-3 mt-5 pt-5"><img src="assets/images/home/aboutus/1.png">
+                </div>
+                <div class="aboutus-section-img-1 trans trans-2"><img src="assets/images/home/aboutus/2.png"></div>
             </div>
 
             <div class="col-md-1"></div>
