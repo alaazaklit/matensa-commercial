@@ -166,6 +166,12 @@
     opacity: 0;
 }
 
+.trans.ActiveItem {
+    opacity: 1;
+}
+
+
+
 
 
 .banner-img-1 {
@@ -286,6 +292,85 @@
 
 .removeItems .ban-client-style-1 {
     transform: scale(0);
+}
+
+.matensa-community .img svg g {
+    transition-delay: 0s;
+    transition-duration: 0.4s;
+    transition-property: all;
+    transition-timing-function: ease;
+    -webkit-transition-delay: 0s;
+    -webkit-transition-duration: 0.4s;
+    -webkit-transition-property: all;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-delay: 0s;
+    -moz-transition-duration: 0.4s;
+    -moz-transition-property: all;
+    -moz-transition-timing-function: ease;
+    -ms-transition-delay: 0s;
+    -ms-transition-duration: 0.4s;
+    -ms-transition-property: all;
+    -ms-transition-timing-function: ease;
+    -o-transition-delay: 0s;
+    -o-transition-duration: 0.4s;
+    -o-transition-property: all;
+    -o-transition-timing-function: ease;
+}
+
+.slider-item-blk-3 svg {
+    max-width: 100%;
+}
+
+.slider-item-blk-3 svg g,
+.home-blk-3-content svg g {
+    opacity: 0;
+}
+
+.trans.ActiveItem .swiper-slide-active .slider-item-blk-3 svg g,
+.home-blk-3-content .img.trans.ActiveItem svg g {
+    opacity: 1;
+}
+
+// Transaction Delay
+$number-of-classes: 3;
+$base-delay: 0.4s;
+
+// Loop to generate classes with incremental delays
+@for $i from 1 through $number-of-classes {
+    .home-blk-3-content svg .g-#{$i} {
+        transition-delay: $i * $base-delay;
+    }
+}
+
+// Transaction Delay
+$number-of-classes: 7;
+$base-delay: 0.4s;
+
+// Loop to generate classes with incremental delays
+@for $i from 3 through $number-of-classes {
+    .slider-item-blk-3 svg g:nth-child(#{$i}) {
+        transition-delay: ($i - 2) * $base-delay;
+    }
+}
+
+
+// Define the number of classes and the base delay
+$number-of-classes: 24;
+$base-delay: 0.13s;
+
+// Loop to generate classes with incremental delays
+@for $i from 1 through $number-of-classes {
+    .matensa-community .img svg g:nth-child(#{$i}) {
+        transition-delay: $i * $base-delay;
+    }
+}
+
+.matensa-community .img svg g {
+    opacity: 0;
+}
+
+.matensa-community .trans.ActiveItem.img svg g {
+    opacity: 1;
 }
 
 

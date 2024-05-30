@@ -4,7 +4,7 @@
 
 
 <!-- ///////////////////Beyond An E-wallet///////////// -->
-<section class="home-section-2 pt-5 pb-5">
+<section class="home-section-2 trans pt-5 pb-5">
     <div class="container mod">
         <h2 class="heading-2 pb-4 text-center">Beyond An <span class="heading-3">E-wallet</span></h2>
         <div class="row">
@@ -28,20 +28,20 @@
                 <div class="swiper-container">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                                <a href="beyondwallet">         
-                            <div class="slider-item-style-1">
-                                <div class="img" ><img src="assets/images/content/Frame 1000002564.png"></div>
-                                <div class="slider-item-1-content">
-                                    <h5>Rewarding
-                                        Financial Practices</h5>
-                                    <div class="slider-item-1-card">
-                                        <i><img src="assets/images/content/Group 4.png"></i>
-                                        <p>Congratulations you have just
-                                            received a 20% cashback</p>
+                            <a href="beyondwallet">
+                                <div class="slider-item-style-1">
+                                    <div class="img"><img src="assets/images/content/Frame 1000002564.png"></div>
+                                    <div class="slider-item-1-content">
+                                        <h5>Rewarding
+                                            Financial Practices</h5>
+                                        <div class="slider-item-1-card">
+                                            <i><img src="assets/images/content/Group 4.png"></i>
+                                            <p>Congratulations you have just
+                                                received a 20% cashback</p>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-</a>
+                            </a>
                         </div>
 
 
@@ -58,39 +58,38 @@
                                         <span>50 $</span>
                                     </div>
                                 </div>
-                            </div>
-</a>
+                            </a>
                         </div>
                         <div class="swiper-slide">
-                        <a href="beyondwallet"> 
-                            <div class="slider-item-style-1">
-                                <div class="img"><img src="assets/images/content/Frame 1000002565.png"></div>
-                                <div class="slider-item-1-content">
-                                    <h5>Agreement Management</h5>
-                                    <div class="slider-item-1-card">
-                                        <i><img src="assets/images/content/Frame 1000002542"></i>
-                                        <p><b>Payment received</b> Accounts</p>
-                                        <span>100 $</span>
+                            <a href="beyondwallet">
+                                <div class="slider-item-style-1">
+                                    <div class="img"><img src="assets/images/content/Frame 1000002565.png"></div>
+                                    <div class="slider-item-1-content">
+                                        <h5>Agreement Management</h5>
+                                        <div class="slider-item-1-card">
+                                            <i><img src="assets/images/content/Frame 1000002542"></i>
+                                            <p><b>Payment received</b> Accounts</p>
+                                            <span>100 $</span>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-</a>
+                            </a>
                         </div>
 
                         <div class="swiper-slide">
-                        <a href="beyondwallet"> 
-                        <div class="slider-item-style-1">
-                                <div class="img"><img src="assets/images/content/Frame 1000002566.png"></div>
-                                <div class="slider-item-1-content">
-                                    <h5>Secure Payment Management</h5>
-                                    <div class="slider-item-1-card">
-                                        <i><img src="assets/images/content/Featured Icons.png"></i>
-                                        <p><b>Paid successfully- View your invoice </b> Accounts</p>
+                            <a href="beyondwallet">
+                                <div class="slider-item-style-1">
+                                    <div class="img"><img src="assets/images/content/Frame 1000002566.png"></div>
+                                    <div class="slider-item-1-content">
+                                        <h5>Secure Payment Management</h5>
+                                        <div class="slider-item-1-card">
+                                            <i><img src="assets/images/content/Featured Icons.png"></i>
+                                            <p><b>Paid successfully- View your invoice </b> Accounts</p>
 
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-</a>
+                            </a>
                         </div>
                         <!-- Add more slides as needed -->
                     </div>
@@ -119,7 +118,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-1"></div>
-                <div class="col-md-10">
+                <div class="col-md-10 trans">
                     <h2 class="heading-2 text-center color-white">Examine The Ways In Which <br>We Might Improve Your
                         Life
                     </h2>
@@ -127,7 +126,7 @@
                 <div class="col-md-1"></div>
             </div>
 
-            <div class="home-blk-3-video mt-5">
+            <div class="home-blk-3-video mt-5 trans">
                 <div class="video position-relative">
                     <a class="video-player-1"><svg width="118" height="118" viewBox="0 0 118 118" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -150,12 +149,14 @@
         <div class="container mod pb-5 mt-5">
             <div class="row pb-5">
                 <div class="col-md-5">
-                    <div class="gallery-blk-3">
+                    <div class="gallery-blk-3 trans">
                         <div class="swiper-container-2" id="slider-blk-3-1" data-tabs="#tabs-slider-blk-3-1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="slider-item-blk-3">
-                                        <div class="img"><img src="assets/images/home/3/1/1.png"></div>
+                                        <div class="img">
+                                            <?php include 'components/home/transaction-img.php'; ?>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -187,7 +188,7 @@
                 </div>
 
                 <div class="col-md-7 pt-5 ">
-                    <div class="home-blk-3-content">
+                    <div class="home-blk-3-content trans">
                         <h2 class="h2-style-1 color-white">How To Benefit From
                             Matensa Features</h2>
                         <div class="desc color-white">
@@ -195,13 +196,14 @@
                                 where finances are a source of empowerment, a force for communal upliftment.</p>
                         </div>
 
-                        <a class="button-1" href="https://play.google.com/store/apps/details?id=com.matensa.app">Try it out</a>
+                        <a class="button-1" href="https://play.google.com/store/apps/details?id=com.matensa.app">Try it
+                            out</a>
                     </div>
 
                 </div>
             </div>
 
-            <div class="row mt-5  pt-5">
+            <div class="row mt-5  trans pt-5">
 
                 <div class="col-md-7 pt-5 mt-5">
                     <div class="home-blk-3-content mt-5">
@@ -250,15 +252,15 @@
                 </div>
             </div>
 
-            <div class="row mt-5 position-relative z-index-1 pt-5">
+            <div class="row mt-5  position-relative z-index-1 pt-5">
 
                 <div class="col-md-12 pt-5">
                     <div class="home-blk-3-content">
-                        <h2 class="h2-style-1 color-white">M Connect: Seamless Bill Payments to Utilities and
+                        <h2 class="h2-style-1 color-white trans">M Connect: Seamless Bill Payments to Utilities and
                             Municipalities</h2>
-                        <div class="col-md-12">
+                        <div class="col-md-12 ">
                             <div class="row">
-                                <div class="col-md-7">
+                                <div class="col-md-7 trans">
                                     <div class="desc color-white">
                                         <p>Set up your bill payments effortlessly by linking your account with utility
                                             providers or
@@ -271,8 +273,10 @@
 
                                     <a class="button-1" href="#">Read More</a>
                                 </div>
-                                <div class="col-md-5">
-                                    <div class="img"><img src="assets/images/home/3/3/1.png"></div>
+                                <div class="col-md-5 ">
+                                    <div class="img trans">
+                                        <?php include 'components/home/mconnect-img.php'; ?>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -292,13 +296,15 @@
 </section>
 
 <!-- ///////////////////Testimonials Section///////////// -->
-<?php include 'components/testimonials/testimonial.php'; ?>
+<div class="trans w-100">
+    <?php include 'components/testimonials/testimonial.php'; ?>
+</div>
 
 <!-- ///////////////////About Section///////////// -->
 <section class="aboutus-section pt-5 pb-5">
     <div class="container">
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-md-8 trans">
                 <h2 class="h2-style-1">A Little <span class="font-border">About Us</span></h2>
                 <div class="desc">Matensa embodies the future of financial interaction, intertwining financial
                     management with
@@ -310,11 +316,12 @@
                 <a class="button-1 mt-4 d-inline-block text-center" href="aboutus">Read More</a>
             </div>
         </div>
-        <div class="row">
+        <div class="row ">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <div class="aboutus-section-img-1 mt-5 pt-5"><img src="assets/images/home/aboutus/1.png"></div>
-                <div class="aboutus-section-img-1"><img src="assets/images/home/aboutus/2.png"></div>
+                <div class="aboutus-section-img-1 trans trans-3 mt-5 pt-5"><img src="assets/images/home/aboutus/1.png">
+                </div>
+                <div class="aboutus-section-img-1 trans trans-2"><img src="assets/images/home/aboutus/2.png"></div>
             </div>
 
             <div class="col-md-1"></div>
@@ -331,19 +338,20 @@
     <div class="container mod text-center">
         <div class="row">
             <div class="col-md-1"></div>
-            <div class="col-md-10">
-                <div class="img mb-3">
+            <div class="col-md-10 ">
+                <div class="img trans mb-3">
                     <?php include 'components/home/community.php'; ?>
                 </div>
-                <h2 class="h2-style-1 color-white">Matensa Community</h2>
-                <div class="desc color-white">Invite friends, upload payment plans, or connect with existing customers
+                <h2 class="h2-style-1 color-white trans">Matensa Community</h2>
+                <div class="desc color-white trans">Invite friends, upload payment plans, or connect with existing
+                    customers
                     to join
                     Matensa.
                     Easily connect via your contact list on phone or web portal, fostering a secure network within
                     Matensa's
                     financial ecosystem.</div>
 
-                <a class="button-1 d-inline-block mt-3" href="#">Learn more</a>
+                <a class="button-1 d-inline-block mt-3 trans" href="#">Learn more</a>
             </div>
         </div>
     </div>

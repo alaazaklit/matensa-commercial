@@ -9,6 +9,32 @@ window.addEventListener('load', function () {
     }, 1000);
 });
 
+
+document.addEventListener("DOMContentLoaded", function () {
+    const targets = document.querySelectorAll('.trans');
+
+    const observerOptions = {
+        root: null, // Use the viewport as the container
+        rootMargin: '0px',
+        threshold: 0.1 // Trigger when 10% of the target is visible
+    };
+
+    const observerCallback = (entries, observer) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('ActiveItem');
+                observer.unobserve(entry.target); // Optional: Remove observer after class is added
+            }
+        });
+    };
+
+    const observer = new IntersectionObserver(observerCallback, observerOptions);
+
+    targets.forEach(target => {
+        observer.observe(target);
+    });
+});
+
 function triggerAnimation() {
     const clientsList = document.querySelector('.ban-clients.active');
     clientsList.classList.add('removeItems');

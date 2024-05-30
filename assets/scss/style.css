@@ -2143,6 +2143,10 @@ select {
   opacity: 0;
 }
 
+.trans.ActiveItem {
+  opacity: 1;
+}
+
 .banner-img-1 {
   overflow: hidden;
 }
@@ -2245,6 +2249,179 @@ select {
 
 .removeItems .ban-client-style-1 {
   transform: scale(0);
+}
+
+.matensa-community .img svg g {
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 0.4s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 0.4s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 0.4s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 0.4s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.slider-item-blk-3 svg {
+  max-width: 100%;
+}
+
+.slider-item-blk-3 svg g,
+.home-blk-3-content svg g {
+  opacity: 0;
+}
+
+.trans.ActiveItem .swiper-slide-active .slider-item-blk-3 svg g,
+.home-blk-3-content .img.trans.ActiveItem svg g {
+  opacity: 1;
+}
+
+.home-blk-3-content svg .g-1 {
+  transition-delay: 0.4s;
+}
+
+.home-blk-3-content svg .g-2 {
+  transition-delay: 0.8s;
+}
+
+.home-blk-3-content svg .g-3 {
+  transition-delay: 1.2s;
+}
+
+.slider-item-blk-3 svg g:nth-child(3) {
+  transition-delay: 0.4s;
+}
+
+.slider-item-blk-3 svg g:nth-child(4) {
+  transition-delay: 0.8s;
+}
+
+.slider-item-blk-3 svg g:nth-child(5) {
+  transition-delay: 1.2s;
+}
+
+.slider-item-blk-3 svg g:nth-child(6) {
+  transition-delay: 1.6s;
+}
+
+.slider-item-blk-3 svg g:nth-child(7) {
+  transition-delay: 2s;
+}
+
+.matensa-community .img svg g:nth-child(1) {
+  transition-delay: 0.13s;
+}
+
+.matensa-community .img svg g:nth-child(2) {
+  transition-delay: 0.26s;
+}
+
+.matensa-community .img svg g:nth-child(3) {
+  transition-delay: 0.39s;
+}
+
+.matensa-community .img svg g:nth-child(4) {
+  transition-delay: 0.52s;
+}
+
+.matensa-community .img svg g:nth-child(5) {
+  transition-delay: 0.65s;
+}
+
+.matensa-community .img svg g:nth-child(6) {
+  transition-delay: 0.78s;
+}
+
+.matensa-community .img svg g:nth-child(7) {
+  transition-delay: 0.91s;
+}
+
+.matensa-community .img svg g:nth-child(8) {
+  transition-delay: 1.04s;
+}
+
+.matensa-community .img svg g:nth-child(9) {
+  transition-delay: 1.17s;
+}
+
+.matensa-community .img svg g:nth-child(10) {
+  transition-delay: 1.3s;
+}
+
+.matensa-community .img svg g:nth-child(11) {
+  transition-delay: 1.43s;
+}
+
+.matensa-community .img svg g:nth-child(12) {
+  transition-delay: 1.56s;
+}
+
+.matensa-community .img svg g:nth-child(13) {
+  transition-delay: 1.69s;
+}
+
+.matensa-community .img svg g:nth-child(14) {
+  transition-delay: 1.82s;
+}
+
+.matensa-community .img svg g:nth-child(15) {
+  transition-delay: 1.95s;
+}
+
+.matensa-community .img svg g:nth-child(16) {
+  transition-delay: 2.08s;
+}
+
+.matensa-community .img svg g:nth-child(17) {
+  transition-delay: 2.21s;
+}
+
+.matensa-community .img svg g:nth-child(18) {
+  transition-delay: 2.34s;
+}
+
+.matensa-community .img svg g:nth-child(19) {
+  transition-delay: 2.47s;
+}
+
+.matensa-community .img svg g:nth-child(20) {
+  transition-delay: 2.6s;
+}
+
+.matensa-community .img svg g:nth-child(21) {
+  transition-delay: 2.73s;
+}
+
+.matensa-community .img svg g:nth-child(22) {
+  transition-delay: 2.86s;
+}
+
+.matensa-community .img svg g:nth-child(23) {
+  transition-delay: 2.99s;
+}
+
+.matensa-community .img svg g:nth-child(24) {
+  transition-delay: 3.12s;
+}
+
+.matensa-community .img svg g {
+  opacity: 0;
+}
+
+.matensa-community .trans.ActiveItem.img svg g {
+  opacity: 1;
 }
 
 .trans-1 {
