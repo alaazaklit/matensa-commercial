@@ -6,6 +6,7 @@
 <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 <!-- <script src="assets/intl-tel-input-master/build/js/intlTelInput-jquery.min.js" type="text/javascript"></script> -->
+<script src="assets/js/anim.js " type="text/javascript " charset="utf-8 "></script>
 <script src="assets/js/custom.js " type="text/javascript " charset="utf-8 "></script>
 
 </body>

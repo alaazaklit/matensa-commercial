@@ -1,112 +1,114 @@
 <?php include 'html-start.php'; ?>
-<?php include 'components/headers/header-1.php'; ?>
-<?php include 'components/banners/banner-1.php'; ?>
-
-
-<!-- ///////////////////Beyond An E-wallet///////////// -->
-<section class="home-section-2 trans pt-5 pb-5">
-    <div class="container mod">
-        <h2 class="heading-2 pb-4 text-center">Beyond An <span class="heading-3">E-wallet</span></h2>
-        <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-8  text-center">
-                <div class="desc">
-                    <p>
-                        Experience the ultimate in financial empowerment. Seamlessly pay bills, receive reminders, and
-                        effortlessly manage transactions with ease. Dive into our marketplace to purchase mobile
-                        recharges, gift
-                        cards, and more, all while earning rewards for your savvy financial habits.
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-2"></div>
-        </div>
-
-
-        <div class="row pt-3 mt-5">
-            <div class="col-md-12">
-                <div class="swiper-container">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <a href="beyondwallet">
-                                <div class="slider-item-style-1">
-                                    <div class="img"><img src="assets/images/content/Frame 1000002564.png"></div>
-                                    <div class="slider-item-1-content">
-                                        <h5>Rewarding
-                                            Financial Practices</h5>
-                                        <div class="slider-item-1-card">
-                                            <i><img src="assets/images/content/Group 4.png"></i>
-                                            <p>Congratulations you have just
-                                                received a 20% cashback</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-
-                        <div class="swiper-slide">
-                            <a href="beyondwallet">
-                                <div class="slider-item-style-1">
-                                    <div class="img"><img src="assets/images/home/wallet/1.png"></div>
-                                    <div class="slider-item-1-content">
-                                        <h5>Efficient Payment
-                                            Reminder</h5>
-                                        <div class="slider-item-1-card">
-                                            <i><img src="assets/images/home/wallet/icons/1.png"></i>
-                                            <p><b>Gym subscription renewal</b> Reminder</p>
-                                            <span>50 $</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="swiper-slide">
-                            <a href="beyondwallet">
-                                <div class="slider-item-style-1">
-                                    <div class="img"><img src="assets/images/content/Frame 1000002565.png"></div>
-                                    <div class="slider-item-1-content">
-                                        <h5>Agreement Management</h5>
-                                        <div class="slider-item-1-card">
-                                            <i><img src="assets/images/content/Frame 1000002542"></i>
-                                            <p><b>Payment received</b> Accounts</p>
-                                            <span>100 $</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <a href="beyondwallet">
-                                <div class="slider-item-style-1">
-                                    <div class="img"><img src="assets/images/content/Frame 1000002566.png"></div>
-                                    <div class="slider-item-1-content">
-                                        <h5>Secure Payment Management</h5>
-                                        <div class="slider-item-1-card">
-                                            <i><img src="assets/images/content/Featured Icons.png"></i>
-                                            <p><b>Paid successfully- View your invoice </b> Accounts</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <!-- Add more slides as needed -->
+<div class="main-section">
+    <?php include 'components/headers/header-1.php'; ?>
+    <?php include 'components/banners/banner-1.php'; ?>
+    <!-- ///////////////////Beyond An E-wallet///////////// -->
+    <section class="home-section-2 trans pt-5 pb-5">
+        <div class="container mod">
+            <h2 class="heading-2 pb-4 text-center">Beyond An <span class="heading-3">E-wallet</span></h2>
+            <div class="row home-section-2-description">
+                <div class="col-md-2"></div>
+                <div class="col-md-8  text-center">
+                    <div class="desc">
+                        <p>
+                            Experience the ultimate in financial empowerment. Seamlessly pay bills, receive reminders,
+                            and
+                            effortlessly manage transactions with ease. Dive into our marketplace to purchase mobile
+                            recharges, gift
+                            cards, and more, all while earning rewards for your savvy financial habits.
+                        </p>
                     </div>
-                    <!-- Add Pagination -->
-                    <div class="swiper-pagination"></div>
-                    <!-- Add Navigation -->
-                    <!-- <div class="swiper-button-next"></div>
+                </div>
+                <div class="col-md-2"></div>
+            </div>
+
+
+            <div class="row pt-3 mt-5">
+                <div class="col-md-12">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="beyondwallet">
+                                    <div class="slider-item-style-1">
+                                        <div class="img"><img src="assets/images/content/Frame 1000002564.png"></div>
+                                        <div class="slider-item-1-content">
+                                            <h5>Rewarding
+                                                Financial Practices</h5>
+                                            <div class="slider-item-1-card">
+                                                <i><img src="assets/images/content/Group 4.png"></i>
+                                                <p>Congratulations you have just
+                                                    received a 20% cashback</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+
+                            <div class="swiper-slide">
+                                <a href="beyondwallet">
+                                    <div class="slider-item-style-1">
+                                        <div class="img"><img class="destination"
+                                                src="assets/images/home/banner/ban-img-1.png">
+                                        </div>
+                                        <div class="slider-item-1-content">
+                                            <h5>Efficient Payment
+                                                Reminder</h5>
+                                            <div class="slider-item-1-card">
+                                                <i><img src="assets/images/home/wallet/icons/1.png"></i>
+                                                <p><b>Gym subscription renewal</b> Reminder</p>
+                                                <span>50 $</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="beyondwallet">
+                                    <div class="slider-item-style-1">
+                                        <div class="img"><img src="assets/images/content/Frame 1000002565.png"></div>
+                                        <div class="slider-item-1-content">
+                                            <h5>Agreement Management</h5>
+                                            <div class="slider-item-1-card">
+                                                <i><img src="assets/images/content/Frame 1000002542"></i>
+                                                <p><b>Payment received</b> Accounts</p>
+                                                <span>100 $</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <a href="beyondwallet">
+                                    <div class="slider-item-style-1">
+                                        <div class="img"><img src="assets/images/content/Frame 1000002566.png"></div>
+                                        <div class="slider-item-1-content">
+                                            <h5>Secure Payment Management</h5>
+                                            <div class="slider-item-1-card">
+                                                <i><img src="assets/images/content/Featured Icons.png"></i>
+                                                <p><b>Paid successfully- View your invoice </b> Accounts</p>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- Add more slides as needed -->
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                        <!-- Add Navigation -->
+                        <!-- <div class="swiper-button-next"></div>
                     <div class="swiper-button-prev"></div> -->
-                    <!-- Add Scrollbar -->
-                    <!-- <div class="swiper-scrollbar"></div> -->
+                        <!-- Add Scrollbar -->
+                        <!-- <div class="swiper-scrollbar"></div> -->
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-</section>
-
+    </section>
+</div>
 
 <!-- ///////////////////Section Three///////////// -->
 <section class='home-section-3 mt-5 pt-5 relativeposition'>

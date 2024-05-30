@@ -12,7 +12,8 @@
                     seamless
                     financial management.</p>
                 <span class="d-inline-block trans-2">
-                    <a class="d-inline-block text-center button-1" href="https://dashboard.matensa.com/">Get the app</a></span>
+                    <a class="d-inline-block text-center button-1" href="https://dashboard.matensa.com/">Get the
+                        app</a></span>
             </div>
 
             <!-- //////////BANNER CLIENTS INFO///////// -->
@@ -194,6 +195,7 @@
 
     <div class="banner-img-1">
         <span class="bg-img-1 trans-3"><span></span></span>
-        <img class="banImg1 trans-4" src="assets/images/home/banner/ban-img-1.png">
+        <span class="start">
+            <img class="banImg1 trans-4" src="assets/images/home/banner/ban-img-1.png"></span>
     </div>
 </div>

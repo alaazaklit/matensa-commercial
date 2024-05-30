@@ -2069,10 +2069,6 @@ select {
   opacity: 1;
 }
 
-.banner-img-1 {
-  overflow: hidden;
-}
-
 .ban-client-img img,
 .ban-client-info {
   transform: scale(0);
@@ -2470,6 +2466,140 @@ select {
   margin-bottom: 0;
 }
 
+.main-section {
+  position: relative;
+}
+
+.hero-content-row {
+  display: none;
+}
+
+.banner-img-1 .start {
+  transition-delay: 0s;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 1s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 1s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 1s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.banner-img-1 .start {
+  display: inline-block;
+}
+
+.home-section-3 {
+  margin-top: 300px !important;
+}
+
+body.home-animation {
+  overflow: hidden;
+}
+
+.home-section-2 {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.home-section-2 .destination {
+  opacity: 0;
+  visibility: hidden;
+}
+.home-section-2 .heading-2,
+.home-section-2 .home-section-2-description,
+.home-section-2 .slider-item-style-1,
+.home-section-2 .slider-item-1-content {
+  opacity: 0;
+  visibility: hidden;
+  transition-delay: 0s;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 1s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 1s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 1s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+.home-section-2 .slider-item-style-1 .img {
+  background: none;
+}
+.home-section-2 .swiper-slide-active .slider-item-style-1 {
+  opacity: 1;
+  visibility: visible;
+}
+
+.bg-img-1 {
+  transition-delay: 0s;
+  transition-duration: 1s;
+  transition-property: all;
+  transition-timing-function: ease;
+  -webkit-transition-delay: 0s;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-property: all;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-delay: 0s;
+  -moz-transition-duration: 1s;
+  -moz-transition-property: all;
+  -moz-transition-timing-function: ease;
+  -ms-transition-delay: 0s;
+  -ms-transition-duration: 1s;
+  -ms-transition-property: all;
+  -ms-transition-timing-function: ease;
+  -o-transition-delay: 0s;
+  -o-transition-duration: 1s;
+  -o-transition-property: all;
+  -o-transition-timing-function: ease;
+}
+
+.home-animation .heading-2,
+.home-animation .home-section-2-description,
+.home-animation .slider-item-style-1,
+.home-animation .slider-item-1-content {
+  opacity: 1;
+  visibility: visible;
+}
+.home-animation .bg-img-1 {
+  width: 400vw;
+  left: -200vw;
+  bottom: -200vh;
+  height: 400vh;
+  background: white !important;
+}
+.home-animation .bg-img-1 span {
+  height: 100%;
+  width: 100%;
+  border-radius: 0;
+  background: rgb(255, 255, 255);
+  border: 0px solid #ffffff;
+}
+
 .footer {
   width: 100%;
   background: #E0EBC9;
@@ -2551,13 +2681,11 @@ select {
 html,
 body {
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
-  width: 100%;
-  margin: 0 auto;
   font-family: "Barlow", sans-serif;
-  overflow-x: hidden;
 }
 
 .container.mod {
@@ -2568,10 +2696,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-}
-
-::-webkit-scrollbar {
-  width: 0px;
 }
 
 ::-webkit-scrollbar-track {
@@ -2746,7 +2870,6 @@ p {
   html,
   body {
     font-size: 12px;
-    overflow-x: hidden;
   }
   .home-blk-3-2,
   .home-blk-3-1 {
