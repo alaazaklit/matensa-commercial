@@ -36,7 +36,7 @@
                                             Financial Practices</h5>
                                         <div class="slider-item-1-card">
                                             <i><img src="assets/images/content/Group 4.png"></i>
-                                            <p>Congratulations you have just
+                                            <p class="slider-text">Congratulations you have just
                                                 received a 20% cashback</p>
                                         </div>
                                     </div>
@@ -127,7 +127,7 @@
                 <div class="col-md-1"></div>
             </div>
 
-            <div class="home-blk-3-video mt-5 trans">
+            <div class="home-blk-3-video mt-5 trans text-center">
                 <div class="video position-relative">
                     <a class="video-player-1"><svg width="118" height="118" viewBox="0 0 118 118" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -136,7 +136,7 @@
                                 fill="white" />
                         </svg>
                     </a>
-                    <img src="assets/images/home/3/video.png" class="w-100">
+                    <img src="assets/images/home/3/video.png" class="width-80">
                 </div>
             </div>
 
@@ -207,10 +207,10 @@
             <div class="row mt-5  trans pt-5">
 
                 <div class="col-md-7 pt-5 mt-5">
-                    <div class="home-blk-3-content mt-5">
+                    <div class="home-blk-3-content">
                         <h2 class="h2-style-1 color-white">Experience The Future
                             Of Payroll With Matensa</h2>
-                        <div class="desc color-white">
+                        <div class="desc color-white mb-5">
                             <p>Matensa's integrated platform revolutionizes wage management, offering a secure and
                                 straightforward solution that transcends the challenges associated with traditional
                                 payment methods. Our system is designed to simplify the payroll process, allowing for
@@ -218,18 +218,18 @@
                             </p>
                         </div>
 
-                        <a class="button-1" href="payroll-detail"><span>Discover</span></a>
+                        <a class="button-1 " href="payroll-detail"><span>Discover</span></a>
                     </div>
 
                 </div>
 
-                <div class="col-md-5">
-                    <div class="gallery-blk-3">
+                <div class="col-md-5 mt-5">
+                    <div class="gallery-blk-3 pt-5">
                         <div class="swiper-container-2" id="slider-blk-3-2" data-tabs="#tabs-slider-blk-3-2">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
                                     <div class="slider-item-blk-3">
-                                        <div class="img"><img src="assets/images/home/3/2/1.png"></div>
+                                        <div class="img"><img  src="assets/images/home/3/2/1.png"></div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -257,12 +257,12 @@
 
                 <div class="col-md-12 pt-5">
                     <div class="home-blk-3-content">
-                        <h2 class="h2-style-1 color-white trans">M Connect: Seamless Bill Payments to Utilities and
+                        <h2 class="h2-style-1 color-white trans">M Connect: Seamless Bill Payments <br> to Utilities and
                             Municipalities</h2>
                         <div class="col-md-12 ">
                             <div class="row">
                                 <div class="col-md-7 trans">
-                                    <div class="desc color-white">
+                                    <div class="desc color-white mb-5">
                                         <p>Set up your bill payments effortlessly by linking your account with utility
                                             providers or
                                             municipal services just once. After your account details are confirmed
@@ -272,7 +272,7 @@
                                         </p>
                                     </div>
 
-                                    <a class="button-1" href="#">Read More</a>
+                                    <a class="button-1 " href="#">Read More</a>
                                 </div>
                                 <div class="col-md-5 ">
                                     <div class="img trans">

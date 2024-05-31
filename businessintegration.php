@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <div class="welcome text-center pb-5">
+        <div class="welcome text-center pb-5 mb-5">
             <div class="container pt-5 pb-5">
                 <div class="heading-2">LEARN MORE ABOUT <br>
                     MATENSA BUSINESS PROFILE
@@ -100,7 +100,7 @@
                                 fill="white" />
                         </svg>
                     </a>
-                    <img src="assets/images/home/3/video.png" class="w-100">
+                    <img src="assets/images/home/3/video.png" class="w-100 mb-5">
                 </div>
             </div> </div>
             </div>
@@ -108,7 +108,7 @@
 
 
 
-        <div class="journey mt-5 pt-5" >
+        <div class="journey  pb-5" >
             <div class="container pt-5 pb-5 ">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
@@ -116,7 +116,7 @@
                         <div class="heading-2 mt-5 mb-3">Get
                             <span class="heading-3">Matensa </span> For Your Business
                         </div>
-                        <p class="text-1">Lorem ipsum dolor sit amet consectetur. Aliquam tempor nulla lorem donec metus
+                        <p class="text-1 mb-5">Lorem ipsum dolor sit amet consectetur. Aliquam tempor nulla lorem donec metus
                             vulputate risus. Eu nunc nulla eleifend egestas sit imperdiet amet. Eget accumsan nulla
                             porttitor rhoncus sed. Ullamcorper cursus ut ultrices enim arcu sed dictum eget pharetra.
                         </p>

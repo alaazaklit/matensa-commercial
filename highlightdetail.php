@@ -1,6 +1,6 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
-<div class="mt-5 pt-5 ">
+<div class="mt-5 pt-5 highlightdetails">
     <div class="container pt-5 pb-5 mt-5" >
         <div class="text-center">
             <img class="width-100"  src="assets/images/content/Mask group (2).png">
@@ -56,7 +56,7 @@
                 <a href="https://www.facebook.com/matensaapp?mibextid=LQQJ4d"><img src="assets/images/Facebook.svg"></a>
             </div></div>
                 <div class="heading-1 pl-0 mt-5">More articles</div>
-                <div class="highlight-list"> 
+                <div class="highlight-list morearticles"> 
                     <div class="highlight-item">
                         <div class="highlight-image"><img src="assets/images/content/Rectangle 17011.png"></div>
                         <div class="highlight-block">

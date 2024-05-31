@@ -7,8 +7,8 @@
             <div class="row pt-5">
                 <div class="col-lg-8 col-md-12 pt-5">
                     <div class="heading-1 pt-5"> About us</div>
-                    <div class="heading-2 mt-2"> Welcome To Matensa: <br> A New Era Of Financial Empowerment</div>
-                    <div class="mt-4"> <a class="button-1"
+                    <div class="heading-2 mt-2 mb-5"> Welcome To Matensa: <br> A New Era Of Financial Empowerment</div>
+                    <div class="mt-4 "> <a class="button-1"
                             href="https://play.google.com/store/apps/details?id=com.matensa.app"> Try it now</a></div>
                 </div>
                 <div class="col-lg-4 col-md-12 pt-5"> <img class="image-10"

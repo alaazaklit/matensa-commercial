@@ -9,7 +9,7 @@
                         <div class="heading-2 mt-2 ">Beyond An
                             <span class="heading-3">E-wallet </span>
                         </div>
-                        <p class="mt-4">Experience the ultimate in financial empowerment. Seamlessly pay bills, receive
+                        <p class="mt-4 mb-5">Experience the ultimate in financial empowerment. Seamlessly pay bills, receive
                             reminders, and effortlessly manage transactions with ease. Dive into our marketplace to
                             purchase mobile recharges, gift cards, and more, all while earning rewards for your savvy
                             financial habits. Track every detail with detailed transaction histories and receive instant
@@ -47,7 +47,7 @@
         <div class=" mt-3 pb-3">
             <div class="container pt-5 pb-5">
                 <div class="row mt-2 ">
-                    <div class="col-lg-8 col-md-12  pt-2">
+                    <div class="col-lg-7 col-md-12  pt-2">
                         <div class="heading-2  ">Rewarding
                             <span class="heading-3">Financial </span>Practices
                         </div>
@@ -60,7 +60,7 @@
                             operational efficiency.</p>
 
                     </div>
-                    <div class="col-lg-4 col-md-12 pl-5">
+                    <div class="col-lg-5 col-md-12 pl-5">
                         <img class="borderrad" width="80%"
                             src="assets/images/content/Investment-Data-2--Streamline-Milano.png">
                     </div>
@@ -86,14 +86,14 @@
                 </div>
             </div>
         </div>
-        <div class="securepayment mt-3 pb-5">
+        <div class="securepayment  pb-5">
             <div class="container text-center pt-5 pb-5">
 
 
                 <div class="heading-2  mb-4">Secure
                     <span class="heading-3">Payment </span>Management
                 </div>
-                <p class="heading-6 ">Matensa elevates financial management by blending seamless payment tracking
+                <p class="heading-6 text-half">Matensa elevates financial management by blending seamless payment tracking
                     and
                     execution with the
                     ease of digital wallet transfers. Automatic generation of detailed, itemized payments from
@@ -101,10 +101,10 @@
                     This meticulous approach ensures unmatched clarity and transparency, streamlining your financial
                     dealings into a cohesive, user-friendly experience.</p>
 
-                <div class="block-slider mb-5 pt-5">
+                <div class="block-slider block-slider1 mb-5 pt-5">
                     <div class="block">
                         <img src="assets/images/content/Accountant--Streamline-Milano.png">
-                        <div class="heading-4">Efficient Financial Oversight</div>
+                        <div class="heading-4 pt-4">Efficient Financial Oversight</div>
                         <div class="heading-6">Matensa's platform provides a comprehensive and secure approach to
                             payment management,
                             giving users complete oversight of their financial transactions. With the ability to
@@ -113,20 +113,20 @@
                     </div>
                     <div class="block">
                         <img src="assets/images/content/secured--interface-secured.png">
-                        <div class="heading-4">Digital Transfer Security</div>
+                        <div class="heading-4 pt-4">Digital Transfer Security</div>
                         <div class="heading-6">Our platform enhances security and compliance through wallet-to-wallet digital transfers, featuring robust protections against unauthorized deposits. Users receive instant confirmation receipts for cash transactions, ensuring a secure and transparent financial environment.</div>
                     </div>
                 </div>
-                <div class="block-slider">
+                <div class="block-slider block-slider1 ">
                     <div class="block block-yellow">
                         <img src="assets/images/content/Stack-Of-Money-2--Streamline-Milano.png">
-                        <div class="heading-4">Cash Flow Clarity</div>
-                        <div class="heading-6">Access a comprehensive view of your upcoming financial activities, including both incoming and outgoing payments. This feature provides a deeper insight into your cash flow, spotlighting payable and receivable amounts to facilitate more effective financial planning and management, all in a user-friendly interface.</div>
+                        <div class="heading-4 pt-4 pb-4">Cash Flow Clarity</div>
+                        <div class="heading-6 pt-3">Access a comprehensive view of your upcoming financial activities, including both incoming and outgoing payments. This feature provides a deeper insight into your cash flow, spotlighting payable and receivable amounts to facilitate more effective financial planning and management, all in a user-friendly interface.</div>
                     </div>
                     <div class="block block-bl">
                         <img src="assets/images/content/E-Wallet-2--Streamline-Milano.png">
-                        <div class="heading-4">Simplified Wallet Transfers</div>
-                        <div class="heading-6">Matensa makes transferring funds between wallets straightforward and efficient. From the Dashboard, the "Transfer" option lets users choose a recipient, currency, and amount, facilitating easy money transfers to friends or family and reducing reliance on physical cash.</div>
+                        <div class="heading-4 pt-4 pb-4">Simplified Wallet Transfers</div>
+                        <div class="heading-6 pt-3">Matensa makes transferring funds between wallets straightforward and efficient. From the Dashboard, the "Transfer" option lets users choose a recipient, currency, and amount, facilitating easy money transfers to friends or family and reducing reliance on physical cash.</div>
                     </div>
                 </div>
 

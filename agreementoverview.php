@@ -70,11 +70,11 @@
                 </div>
 
                 <div class="row mt-5 pt-5">
-                    <div class="col-lg-7 col-md-12 relativeposition" >
-                        <div class="heading-2 mb-3">Agreement Flexibility & Transparency
+                    <div class="col-lg-6 col-md-12 relativeposition" >
+                        <div class="heading-2 mb-3">Agreement Flexibility <br> & Transparency
                         </div>
                     </div>
-                    <div class="col-lg-5 col-md-12 pl-5 heading-6 pt-3">
+                    <div class="col-lg-6 col-md-12 pl-5 heading-6 pt-3">
 
                         <p>Experience the adaptability of managing your financial engagements with Matensa: at any
                             moment, you're empowered to alter, discontinue, or put your agreements on hold, with the
@@ -88,7 +88,7 @@
                             src="assets/images/content/Rectangle 17063.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
-                        <div class="heading-2 mt-2 mb-3">Secure Agreement
+                        <div class="heading-2 mt-5 pt-5 mb-3 ">Secure Agreement
                             Documents Sharing
                         </div>
                         <p>Initiate agreements with the added confidence of securely attaching and sharing essential
@@ -111,10 +111,10 @@
                 </div>
             </div>
         </div>
-        <div class="KeyBenefits">
-            <div class="container pt-5 pb-5">
+        <div class="KeyBenefits mb-5 pb-5">
+            <div class="container pt-5 pb-5 mb-5">
                 <div class="row">
-                    <div class="col-lg-7 col-md-12 ">
+                    <div class="col-lg-6 col-md-12 ">
                         <div class="text-4 ">Matensa transforms how you engage with customers and partners, offering
                             unparalleled adaptability across B2C, B2B, and C2C interactions. Our platform molds to your
                             business's pace, promoting both flexibility and expansion.
@@ -183,21 +183,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5  col-md-12"><img class="pl-5 width-100" 
+                    <div class="col-lg-6  col-md-12"><img class="pl-5 width-80" 
                             src="assets/images/content/Rectangle 17064.png">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="journey mt-5 pt-5">
-            <div class="container pt-5 pb-5 mt-5" >
-                <div class="row ">
+        <div class="journey mt-5 pt-5 pb-5">
+            <div class="container pb-5 " >
+                <div class="row pb-5">
                     <div class="col-lg-5 col-md-12">
 
                         <div class="heading-2 mt-5 mb-3">Get
                             <span class="heading-3">Matensa </span> For Your Business
                         </div>
-                        <p class="text-1">Lorem ipsum dolor sit amet consectetur. Aliquam tempor nulla lorem donec
+                        <p class="text-1 mb-5">Lorem ipsum dolor sit amet consectetur. Aliquam tempor nulla lorem donec
                             metus
                             vulputate risus. Eu nunc nulla eleifend egestas sit imperdiet amet. Eget accumsan nulla
                             porttitor rhoncus sed. Ullamcorper cursus ut ultrices enim arcu sed dictum eget

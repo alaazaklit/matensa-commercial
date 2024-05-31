@@ -12,12 +12,16 @@ body {
 }
 
 .heading-2 {
-    font-size: 4.5rem;
+    font-size: 3.75rem;
     font-weight: 700;
     color: black;
     line-height: 5rem;
 }
-
+.slider-text{
+    font-weight: 500 !important;
+    font-size: 0.87rem !important;
+    color: black;
+}
 .footer-section p,
 .footer-section .desc {
     font-size: 1.1rem !important;
@@ -100,10 +104,11 @@ body {
     color: #E4E7EC;
     opacity: 90%;
 }
-
+.accordion-button:not(.collapsed){
+    box-shadow: unset !important;
+}
 .helpsection-questions-answer {
     color: #344051;
-    margin-top: 1rem;
     font-weight: 400;
     text-align: left;
 }
@@ -250,10 +255,11 @@ a.button-1 {
     border: 1px solid #8080807d !important;
     border-radius: 8px;
     height: unset !important;
-
-
+    padding: 0.5rem;
 }
-
+.nav-link{
+    font-weight: 500;
+}
 .block-blue {
     background-color: #F0F4FF !important;
 }
@@ -735,6 +741,10 @@ body .securepayment .block-slider .block-bl {
     font-size: 0.8rem;
 }
 
+.salary .job-date{
+    font-weight: 500;
+    color:#344051;
+}
 .job-det {
     font-size: 0.6rem;
     color: #637083;
@@ -779,8 +789,10 @@ select {
 .pagyment-gatway-section {
     background-color: #F2F4F7;
 }
-
-.footer-section .container {
+.pagyment-gatway-section p{
+    font-size: 1.12rem !important;
+}
+.footer-section .container:nth-child(1) {
     border-bottom: 1px solid #8080803d;
     padding-bottom: 1rem
 }
@@ -788,9 +800,22 @@ select {
 .marginright {
     margin-right: 1rem;
 }
-
-
-
+.copy-r{
+    color:#141C24 ;
+    font-weight: 500;
+}
+.text-half{
+    margin: auto;
+    width: 70%;
+}
+.footer-section p{
+    color: black !important;
+}
+.footer-section .desc a{
+    font-weight: 500 !important;
+    color: #344051 !important;
+    font-size: 1rem !important;
+}
 .header-height {
     height: 40px !important;
 }
@@ -895,7 +920,7 @@ input[type=checkbox]{
     font-size: 1.1rem;
 }
 .empower .heading-2{
-font-size: 4rem !important;
+font-size: 3.7rem !important;
 }
 .empower .width-100{
     width: 75% !important;
@@ -904,8 +929,19 @@ font-size: 4rem !important;
     width: 70%;
     margin: auto;
 }
+.apply-now .text-5.info-name{
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+}
+.business .heading-2{
+    line-height: 72px !important;
+}
+.applydiv .job-det{
+font-size: 0.8rem !important;
+}
 .applydiv .heading-4{
-font-size: 1.6rem !important;
+font-size: 2.2rem !important;
+font-weight: 600 !important;
 }
 .apply-now input[type=text] {
 
@@ -924,7 +960,12 @@ font-size: 1.6rem !important;
 .width-100 {
     width: 100% !important;
 }
-
+.width-80{
+    width: 80% !important;
+}
+.h2-style-1 {
+    font-size: 3.7rem !important;
+}
 .image-11 {
     position: absolute;
     right: -6rem !important
@@ -982,9 +1023,12 @@ font-size: 1.6rem !important;
 }
 
 .securepayment .block {
-    max-width: 40%;
+    max-width: 50%;
 }
-
+.block-slider1{
+    grid-gap: 5rem !important;
+    width: 70% !important;
+}
 .team-content {
     position: absolute;
 
@@ -1027,11 +1071,29 @@ font-size: 1.6rem !important;
 .team-brief {
     position: absolute;
     bottom: 1rem;
-    font-size: 1rem;
+    font-size: 0.75rem;
     color: white;
     text-align: left;
 }
-
+.team-position{
+    color: #CACACA !important;
+    font-size: 0.8rem !important;
+}
+.highlights .block-2 .heading-4{
+    font-size: 1.1rem !important;
+    margin-bottom: 0.5rem;
+}
+.join-team .heading-2{
+    font-size: 3rem !important;
+    line-height: 60px ;
+}
+.salary .job-det{
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+.join-team p.mt-4{
+   font-size:  1.125rem !important ;
+}
 .team-brief,
 .team-position {
     opacity: 0.7;
@@ -1067,10 +1129,22 @@ font-size: 1.6rem !important;
 .securepayment .heading-4 {
     width: 60%;
     margin-bottom: 2rem;
-    font-size: 1.75rem !important;
-    font-weight: 700 !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
 }
+.row.stay-connectedrow {
+width: 90%;
+margin: auto !important;
 
+}
+.swiper-container-3 .swiper-slide .text-2{
+font-size: 1.2rem !important;
+}
+.securepayment .block-slider1 .block .heading-6{
+font-size: 1.25rem !important;
+font-weight: 400;
+line-height: 28px;
+}
 .securepayment .heading-6 {
     padding: unset !important;
 }
@@ -1209,20 +1283,56 @@ font-size: 1.6rem !important;
 }
 
 .text-10 {
-    font-size: 12rem !important;
+    font-size: 11rem !important;
 }
-
+.warning-block .heading-4{
+    font-size: 1.25rem !important;
+}
+.half-div .heading-1,.head-0{
+    font-weight: 600 !important;
+}
+.accordion-button:not(.collapsed){
+    background-color: unset !important;
+}
+.accordion-item:first-of-type{
+    border-left: unset;
+    border-top: unset ;
+    border-right: unset;
+    border-top-left-radius: unset !important;
+    border-top-right-radius: unset !important;
+    border-bottom-left-radius: unset !important;
+    border-bottom-right-radius: unset !important;
+}
+.half-div .form-group{
+    text-align: left !important;
+}
+.terms .heading-1{
+    font-weight: 600;
+}
+.highlightdetails .heading-1{
+    font-size: 1.5rem !important;
+    font-weight: 500;
+}
+.morearticles .highlight-content, .morearticles .highlight-text{
+   font-size: 1rem !important;
+}
 .image-14 {
     border-radius: 16px;
 }
-
+.KeyBenefits .block-2 .text-4{
+    font-size: 1.12rem !important;
+}
+.KeyBenefits .text-4{
+    font-size: 1.5rem !important;
+    color: #344051 !important;
+}
 .image-13 {
     border-radius: 16px;
     margin-top: 7rem;
 }
 
 .heading-9 {
-    font-size: 15rem;
+    font-size: 14.5rem;
     font-weight: 700;
     text-transform: uppercase;
     line-height: 132px;
@@ -1550,4 +1660,8 @@ font-size: 1.6rem !important;
 
 .file-input {
     display: none;
+}
+.slider-item-1-card span{
+    margin-left: auto !important;
+    font-size: 1.5rem !important;
 }
