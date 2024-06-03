@@ -16,13 +16,12 @@ $prefix: "cdl";
 html,
 body {
     font-size: 16px;
+    overflow-x: hidden;
 }
 
 body {
-    width: 100%;
-    margin: 0 auto;
+
     font-family: $font;
-    overflow-x: hidden;
 }
 
 .container.mod {
@@ -35,9 +34,9 @@ body {
     box-sizing: border-box;
 }
 
-::-webkit-scrollbar {
-    width: 0px;
-}
+// ::-webkit-scrollbar {
+//     width: 0px;
+// }
 
 ::-webkit-scrollbar-track {
     background: transparent;
@@ -160,7 +159,6 @@ p {
 }
 
 
-
 .btn-style-1 {
     background: linear-gradient(79.77deg, #FFA72E 0%, #DF33A1 100%);
     border-radius: 3rem;
@@ -239,7 +237,7 @@ p {
     html,
     body {
         font-size: 12px;
-        overflow-x: hidden;
+
     }
 
     .home-blk-3-2,

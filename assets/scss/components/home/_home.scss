@@ -1,5 +1,13 @@
 .swiper-container {
-    height: 400px;
+    // height: 400px;
+}
+
+.slider-item-style-1 {
+    position: relative;
+}
+
+.img-ini-size {
+    display: none;
 }
 
 .swiper-slide {
@@ -21,7 +29,7 @@
 }
 
 .slider-item-style-1 .img img {
-    height: 30rem;
+    // height: 30rem;
     width: 100%;
     object-fit: cover;
 }
@@ -29,6 +37,12 @@
 .swiper-pagination {
     bottom: -3.5rem !important;
     top: auto !important
+}
+
+.home-section-2 .slider-item-style-1 .img {
+    height: 100%;
+    display: flex;
+    align-items: end;
 }
 
 .home-section-2 .swiper-pagination {
@@ -174,9 +188,7 @@
 
 
 
-.banner-img-1 {
-    overflow: hidden
-}
+
 
 .ban-client-img img,
 .ban-client-info {

@@ -80,6 +80,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         },
         breakpoints: {
             768: {
+                spaceBetween: 4,
                 slidesPerView: 3,
                 centeredSlides: true,
             },

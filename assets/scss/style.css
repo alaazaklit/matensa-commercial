@@ -1972,14 +1972,25 @@ input[type=checkbox] {
 .banner-img-1 {
   position: absolute;
   bottom: 0;
-  left: 50%;
-  transform: translateX(-50%);
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.inner-banner-img-1 {
+  display: inline-block;
+  position: relative;
 }
 
 .banImg1 {
   height: 76vh;
   position: relative;
   z-index: 10;
+}
+
+.img-ini-size {
+  opacity: 0;
+  width: 100%;
 }
 
 .bg-img-1 {
@@ -2191,8 +2202,12 @@ input[type=checkbox] {
   text-align: center;
 }
 
-.swiper-container {
-  height: 400px;
+.slider-item-style-1 {
+  position: relative;
+}
+
+.img-ini-size {
+  display: none;
 }
 
 .swiper-slide {
@@ -2213,7 +2228,6 @@ input[type=checkbox] {
 }
 
 .slider-item-style-1 .img img {
-  height: 30rem;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
@@ -2222,6 +2236,12 @@ input[type=checkbox] {
 .swiper-pagination {
   bottom: -3.5rem !important;
   top: auto !important;
+}
+
+.home-section-2 .slider-item-style-1 .img {
+  height: 100%;
+  display: flex;
+  align-items: end;
 }
 
 .home-section-2 .swiper-pagination {
@@ -2357,10 +2377,6 @@ input[type=checkbox] {
 
 .trans.ActiveItem {
   opacity: 1;
-}
-
-.banner-img-1 {
-  overflow: hidden;
 }
 
 .ban-client-img img,
@@ -2841,13 +2857,11 @@ input[type=checkbox] {
 html,
 body {
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
-  width: 100%;
-  margin: 0 auto;
   font-family: "Barlow", sans-serif;
-  overflow-x: hidden;
 }
 
 .container.mod {
@@ -2858,10 +2872,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-}
-
-::-webkit-scrollbar {
-  width: 0px;
 }
 
 ::-webkit-scrollbar-track {
@@ -3036,7 +3046,6 @@ p {
   html,
   body {
     font-size: 12px;
-    overflow-x: hidden;
   }
   .home-blk-3-2,
   .home-blk-3-1 {
