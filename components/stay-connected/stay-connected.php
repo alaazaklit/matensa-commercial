@@ -1,6 +1,6 @@
 <section class="stay-connected py-5">
     <div class="container mod">
-        <div class="row">
+        <div class="row stay-connectedrow">
             <div class="col-md-4">
                 <h3 class="h3-style-1">STAY CONNECTED</h3>
                 <div class="desc">

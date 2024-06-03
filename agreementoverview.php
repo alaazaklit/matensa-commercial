@@ -4,7 +4,7 @@
         <div class="welcome text-center">
             <div class="container pt-5 pb-5">
                 <div class="heading-1">Agreements Overview</div>
-                <div class="heading-2 mt-2"> Create Secure Agreements Effortlessly
+                <div class="heading-2 mt-2"> Create Secure <br> Agreements Effortlessly
 
                 </div>
                 <div class="heading-6 mt-3 mb-5">Tailor agreements that resonate with your business operations,
@@ -25,33 +25,33 @@
         <div class="mt-2">
             <div class="container pt-5 pb-5">
                 <div class="row">
-                    <div class="col-lg-7">
-                        <div class="heading-2">New & Faster
+                    <div class="col-lg-6">
+                        <div class="heading-2">New & Faster<br>
                             Payment Methods</div>
                     </div>
-                    <div class="col-lg-5 heading-6">Lorem ipsum dolor sit amet consectetur. Felis tincidunt donec cras
+                    <div class="col-lg-6 heading-6">Lorem ipsum dolor sit amet consectetur. Felis tincidunt donec cras
                         pharetra
                         aliquet. Fringilla sed vel sem tincidunt nunc felis. Dictum dolor diam sapien est dignissim
                         fames mi id tincidunt.</div>
                 </div>
                 <div class="row mt-5 pt-2 ">
                     <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17059 (1).png">
-                        <div class="mt-3">Fixed subscriptions or flexible pay-as-you-go plans</div>
+                        <div class="mt-3 methods">Fixed subscriptions or flexible pay-as-you-go plans</div>
                     </div>
                     <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17060 (1).png">
-                        <div class="mt-3">Contracts with set repayment schedules</div>
+                        <div class="mt-3 methods">Contracts with set repayment schedules</div>
                     </div>
                     <div class="col-lg-4"><img class="width-100" src="assets/images/content/Rectangle 17061 (1).png">
-                        <div class="mt-3">One-time invoices</div>
+                        <div class="mt-3 methods">One-time invoices</div>
                     </div>
                 </div>
                 <div class="row mt-5">
-                    <div class="col-lg-3 col-md-12 relativeposition" >
+                    <div class="col-lg-3 col-md-12  relativeposition" >
                         <img class="image-13" width="100%"
                             src="assets/images/content/Partnership-2--Streamline-Milano.png">
                     </div>
-                    <div class="col-lg-9 col-md-12 pl-5 heading-6 pt-3">
-                        <div class="heading-2 mt-5 mb-3">Dual-Currency Agreements & Streamlined Transaction
+                    <div class="col-lg-9 col-md-12 pl-5  pt-3">
+                        <div class="heading-2 mt-5 mb-3">Dual-Currency Agreements <br> & Streamlined Transaction
                             Management
                         </div>
                         <p>Craft your agreements with dual-currency convenience in Lebanese pounds or USD, and
@@ -70,11 +70,11 @@
                 </div>
 
                 <div class="row mt-5 pt-5">
-                    <div class="col-lg-5 col-md-12 relativeposition" >
-                        <div class="heading-2 mb-3">Agreement Flexibility & Transparency
+                    <div class="col-lg-6 col-md-12 relativeposition" >
+                        <div class="heading-2 mb-3">Agreement Flexibility <br> & Transparency
                         </div>
                     </div>
-                    <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
+                    <div class="col-lg-6 col-md-12 pl-5 heading-6 pt-3">
 
                         <p>Experience the adaptability of managing your financial engagements with Matensa: at any
                             moment, you're empowered to alter, discontinue, or put your agreements on hold, with the
@@ -88,7 +88,7 @@
                             src="assets/images/content/Rectangle 17063.png">
                     </div>
                     <div class="col-lg-7 col-md-12 pl-5 heading-6 pt-3">
-                        <div class="heading-2 mt-2 mb-3">Secure Agreement
+                        <div class="heading-2 mt-5 pt-5 mb-3 ">Secure Agreement
                             Documents Sharing
                         </div>
                         <p>Initiate agreements with the added confidence of securely attaching and sharing essential
@@ -101,7 +101,7 @@
         </div>
 
 
-        <div class="pb-5">
+        <div class="pb-5 BigText">
             <div class="container pt-5 pb-5">
                 <div class="row">
                     <div class="col-lg-12 col-md-12">
@@ -111,10 +111,10 @@
                 </div>
             </div>
         </div>
-        <div class="KeyBenefits">
-            <div class="container pt-5 pb-5">
+        <div class="KeyBenefits mb-5 pb-5">
+            <div class="container pt-5 pb-5 mb-5">
                 <div class="row">
-                    <div class="col-lg-7 col-md-12 ">
+                    <div class="col-lg-6 col-md-12 ">
                         <div class="text-4 ">Matensa transforms how you engage with customers and partners, offering
                             unparalleled adaptability across B2C, B2B, and C2C interactions. Our platform molds to your
                             business's pace, promoting both flexibility and expansion.
@@ -183,21 +183,21 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5  col-md-12"><img class="pl-5 width-100" 
+                    <div class="col-lg-6  col-md-12"><img class="pl-5 width-80" 
                             src="assets/images/content/Rectangle 17064.png">
                     </div>
                 </div>
             </div>
         </div>
-        <div class="journey mt-5 pt-5">
-            <div class="container pt-5 pb-5 mt-5" >
-                <div class="row ">
+        <div class="journey mt-5 pt-5 pb-5">
+            <div class="container pb-5 " >
+                <div class="row pb-5">
                     <div class="col-lg-5 col-md-12">
 
                         <div class="heading-2 mt-5 mb-3">Get
                             <span class="heading-3">Matensa </span> For Your Business
                         </div>
-                        <p class="text-1">Lorem ipsum dolor sit amet consectetur. Aliquam tempor nulla lorem donec
+                        <p class="text-1 mb-5">Lorem ipsum dolor sit amet consectetur. Aliquam tempor nulla lorem donec
                             metus
                             vulputate risus. Eu nunc nulla eleifend egestas sit imperdiet amet. Eget accumsan nulla
                             porttitor rhoncus sed. Ullamcorper cursus ut ultrices enim arcu sed dictum eget

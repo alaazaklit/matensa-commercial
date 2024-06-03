@@ -79,19 +79,19 @@
                                 <div class="col-lg-4">
                                     <div class="job-icon"><img src="assets/images/content/Layer.svg"></div>
                                     <div class="job-det mt-1">Job Level:</div>
-                                    <div class="job-date">14 Jun, 2021</div>
+                                    <div class="job-date">Entry Level</div>
                                 </div>
                             </div>
                             <div class="row mt-4">
                                 <div class="col-lg-4">
                                     <div class="job-icon"><img src="assets/images/content/Wallet.svg"></div>
                                     <div class="job-det mt-1">Experience:</div>
-                                    <div class="job-date">14 Jun, 2021</div>
+                                    <div class="job-date">$50k-$80k/month</div>
                                 </div>
                                 <div class="col-lg-4">
                                     <div class="job-icon"><img src="assets/images/content/Suitcase 1.svg"></div>
                                     <div class="job-det mt-1">Education:</div>
-                                    <div class="job-date">14 Jun, 2021</div>
+                                    <div class="job-date">Graduation</div>
                                 </div>
                                 <div class="col-lg-4"></div>
                             </div>

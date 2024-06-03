@@ -1,19 +1,19 @@
 <?php include 'html-start.php'; ?>
 <?php include 'components/headers/header-1.php'; ?>
 <div>
-    <div class=" pb-3">
-        <div class="container pt-5 pb-5">
+    <div >
+        <div class="container pt-5 ">
 
-            <div class="row mt-5 pt-5">
-                <div class="col-lg-7 col-md-12  pt-5">
-                    <div class="heading-2 mt-2 ">Everything you need to scale a <span class="underlinepink">global
+            <div class="row mt-5 pt-5  join-team ">
+                <div class="col-lg-6 col-md-12  pt-5">
+                    <div class="heading-2 mt-2 ">Everything you need to<br> scale a <span class="underlinepink">global
                             team</span>
                     </div>
                     <p class="mt-4">Check out our proven methods, guides, and exercises that help make work better, and
                         people happier by downloading the application to explore and use it.</p>
 
                 </div>
-                <div class="col-lg-5 col-md-12 pl-5">
+                <div class="col-lg-6 col-md-12 pl-5">
                     <img class="borderrad" width="80%" src="assets/images/content/Column.png">
                 </div>
             </div>
