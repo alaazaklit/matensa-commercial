@@ -11,17 +11,30 @@
     height: 100vh;
 }
 
+
 .banner-img-1 {
     position: absolute;
     bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    width: 100%;
+    text-align: center;
+
+}
+
+.inner-banner-img-1 {
+    display: inline-block;
+    position: relative;
 }
 
 .banImg1 {
     height: 76vh;
     position: relative;
     z-index: 10;
+}
+
+.img-ini-size {
+    opacity: 0;
+    width: 100%;
 }
 
 .bg-img-1 {
@@ -42,6 +55,9 @@
     background: rgba(0, 0, 0, 0.15);
     border: 3px solid #D4D4D4;
 }
+
+
+
 
 .hero-content-row {
     position: absolute;

@@ -3,7 +3,7 @@
     <?php include 'components/headers/header-1.php'; ?>
     <?php include 'components/banners/banner-1.php'; ?>
     <!-- ///////////////////Beyond An E-wallet///////////// -->
-    <section class="home-section-2 trans pt-5 pb-5">
+    <section class="home-section-2 trans pt-5 pb-5" id="home-section-2">
         <div class="container mod">
             <h2 class="heading-2 pb-4 text-center">Beyond An <span class="heading-3">E-wallet</span></h2>
             <div class="row home-section-2-description">
@@ -47,17 +47,23 @@
 
                             <div class="swiper-slide">
                                 <a href="beyondwallet">
-                                    <div class="slider-item-style-1">
-                                        <div class="img"><img class="destination"
-                                                src="assets/images/home/banner/ban-img-1.png">
+                                    <div class="position-relative d-inline-block w-100">
+                                        <div class="img-ini-size"><img src="assets/images/content/Frame 1000002565.png">
                                         </div>
-                                        <div class="slider-item-1-content">
-                                            <h5>Efficient Payment
-                                                Reminder</h5>
-                                            <div class="slider-item-1-card">
-                                                <i><img src="assets/images/home/wallet/icons/1.png"></i>
-                                                <p><b>Gym subscription renewal</b> Reminder</p>
-                                                <span>50 $</span>
+                                        <div class="slider-item-style-1 start">
+                                            <div class="position-relative h-100">
+                                                <div class="img"><img class=""
+                                                        src="assets/images/home/banner/ban-img-1.png">
+                                                </div>
+                                                <div class="slider-item-1-content">
+                                                    <h5>Efficient Payment
+                                                        Reminder</h5>
+                                                    <div class="slider-item-1-card">
+                                                        <i><img src="assets/images/home/wallet/icons/1.png"></i>
+                                                        <p><b>Gym subscription renewal</b> Reminder</p>
+                                                        <span>50 $</span>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>

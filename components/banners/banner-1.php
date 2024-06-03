@@ -194,8 +194,12 @@
     </div>
 
     <div class="banner-img-1">
-        <span class="bg-img-1 trans-3"><span></span></span>
-        <span class="start">
-            <img class="banImg1 trans-4" src="assets/images/home/banner/ban-img-1.png"></span>
+
+        <div class="inner-banner-img-1">
+            <span class="bg-img-1 trans-3"><span></span></span>
+
+            <span class="destination">
+                <img class="banImg1 trans-4" src="assets/images/home/banner/ban-img-1.png"></span>
+        </div>
     </div>
 </div>
