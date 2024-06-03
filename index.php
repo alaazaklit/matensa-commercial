@@ -192,7 +192,7 @@
                     <div class="home-blk-3-content trans">
                         <h2 class="h2-style-1 color-white">How To Benefit From
                             Matensa Features</h2>
-                        <div class="desc color-white">
+                        <div class="desc color-white mb-5">
                             <p>We are not building a platform; we are nurturing a movement, a leap towards a future
                                 where finances are a source of empowerment, a force for communal upliftment.</p>
                         </div>

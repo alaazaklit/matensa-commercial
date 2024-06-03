@@ -303,11 +303,11 @@ body {
 }
 
 .heading-1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 .heading-2 {
-  font-size: 3.75rem;
+  font-size: 3rem;
   font-weight: 700;
   color: black;
   line-height: 5rem;
@@ -315,13 +315,13 @@ body {
 
 .slider-text {
   font-weight: 500 !important;
-  font-size: 0.87rem !important;
+  font-size: 0.7rem !important;
   color: black;
 }
 
 .footer-section p,
 .footer-section .desc {
-  font-size: 1.1rem !important;
+  font-size: 1rem !important;
 }
 
 .footer-section a {
@@ -338,7 +338,7 @@ body {
 
 .dropdown-item {
   font-weight: 600;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 
 .dropdown-item:hover {
@@ -358,11 +358,11 @@ body {
   border-radius: 8px;
   background: white !important;
   padding: 1rem;
-  font-size: 1.2rem !important;
+  font-size: 1.1rem !important;
 }
 
 .block-2 .text-4 {
-  font-size: 1rem !important;
+  font-size: 0.9rem !important;
 }
 
 .button-5 {
@@ -514,7 +514,7 @@ a.button-1 {
 }
 
 .heading-7 {
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 28px;
 }
 
@@ -634,16 +634,16 @@ body .securepayment .block-slider .block-bl {
 
 .text-1 {
   color: white;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 .heading-4 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 600;
 }
 
 .heading-6 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: #344051;
   font-weight: 400;
   line-height: spacing-40;
@@ -653,7 +653,7 @@ body .securepayment .block-slider .block-bl {
 .heading-5 {
   color: white;
   text-align: center;
-  font-size: 1.75rem;
+  font-size: 1rem;
   font-weight: 700;
   position: absolute;
   bottom: 7rem;
@@ -669,12 +669,12 @@ body .securepayment .block-slider .block-bl {
 
 .text-2 {
   color: var(--Text-text-secondary, #344051);
-  font-size: 1rem;
+  font-size: 0.9rem;
   font-weight: 400;
 }
 
 .text-3 {
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   border-radius: 1rem;
   margin: auto;
   background-color: white;
@@ -788,7 +788,7 @@ body .securepayment .block-slider .block-bl {
 
 .highlight-content {
   color: #344051;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 700;
 }
 
@@ -804,7 +804,7 @@ body .securepayment .block-slider .block-bl {
 
 .highlight-text {
   font-weight: 500;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   color: #637083;
   margin-bottom: 1rem;
 }
@@ -824,7 +824,7 @@ body .securepayment .block-slider .block-bl {
 
 .text-4 {
   color: var(--Text-text-tertiary, #637083);
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 400;
 }
 
@@ -835,7 +835,7 @@ body .securepayment .block-slider .block-bl {
   border-radius: 50%;
   background-color: #D7008A;
   color: white;
-  font-size: 3.5rem;
+  font-size: 3.3rem;
   font-weight: 800;
 }
 
@@ -913,7 +913,7 @@ body .securepayment .block-slider .block-bl {
 }
 
 .info-name {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: 700;
 }
 
@@ -1186,7 +1186,7 @@ select {
 }
 
 .methods {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 .button-3 {
@@ -1244,8 +1244,8 @@ input[type=checkbox] {
   font-weight: 600 !important;
 }
 
-.business .heading-2 {
-  line-height: 72px !important;
+.heading-2 {
+  line-height: 60px !important;
 }
 
 .applydiv .job-det {
@@ -2948,7 +2948,7 @@ p {
 
 .desc,
 p {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 400;
   line-height: 1.4;
   color: var(--Text-text-secondary, #344051);
