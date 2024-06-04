@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         },
         breakpoints: {
             768: {
-                spaceBetween: 4,
+                spaceBetween: 40,
                 slidesPerView: 3,
                 centeredSlides: true,
             },
@@ -93,16 +93,16 @@ document.addEventListener('DOMContentLoaded', (event) => {
         slidesPerView: 1,
         centeredSlides: false,
         loop: false,
-        spaceBetween: 10,
+        spaceBetween: 0,
         initialSlide: 0,
         effect: 'coverflow',
-        coverflowEffect: {
-            rotate: 0,
-            stretch: 0,
-            depth: 0,
-            modifier: 1,
-            slideShadows: false,
-        },
+        // coverflowEffect: {
+        //     rotate: 0,
+        //     stretch: 0,
+        //     depth: 0,
+        //     modifier: 0,
+        //     slideShadows: false,
+        // },
         pagination: {
             el: '.swiper-pagination',
             clickable: true,

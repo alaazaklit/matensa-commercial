@@ -103,12 +103,16 @@ header {
     width: 100%;
     height: 2.5px;
     vertical-align: top;
-    background: #fff;
+    background: #344051;
     display: inline-block;
     float: right;
     margin-bottom: 6px;
     border-radius: 25%;
     overflow: hidden;
+}
+
+.white-header .menu-bar span {
+    background: #fff;
 }
 
 .menu-bar {

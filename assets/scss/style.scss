@@ -369,6 +369,10 @@ p {
         width: 100%;
     }
 
+    .image-9 {
+        display: none;
+    }
+
     .payment-gateway span {
 
         width: 47% !important;
@@ -388,8 +392,25 @@ p {
         text-align: center;
     }
 
+    .row.stay-connectedrow {
+        width: 100%;
+    }
+
     .payment-gateway span img {
         max-width: 100%;
+    }
+
+    .image-15 {
+        width: 100%;
+        margin-top: 3rem !important;
+    }
+
+    .menu-tab {
+        display: none !important
+    }
+
+    #aboutus-slider-1 .swiper-slide {
+        width: 100% !important;
     }
 
     .gallery-blk-3 {
@@ -412,8 +433,8 @@ p {
     }
 
     .row {
-        margin-left: -15px !important;
-        margin-right: -15px !important;
+        margin-left: 0px !important;
+        margin-right: 0px !important;
     }
 
     .ban-clients {
@@ -495,7 +516,63 @@ p {
     .menu-active {
         overflow: hidden;
     }
+
+    .dropdown-menu {
+        margin-top: 0rem;
+        position: relative !important;
+        top: -1rem;
+    }
+
+    .slider-item-blk-3 svg {
+        height: inherit
+    }
+
+    .home-blk-3-content.blk-1 {
+        margin-top: 3.5rem;
+    }
+
+    .home-blk-3-2 .img svg {
+        max-width: 90%;
+        height: inherit;
+        margin-top: 2.5rem;
+    }
+
+    .gallery-blk-3 {
+        margin-top: 0 !important
+    }
+
+    .testimonials-section .swiper-button {
+        top: 100%;
+        margin-top: 0.5rem;
+        left: 50%;
+        width: 4rem;
+        transform: translateX(-6rem);
+    }
+
+    .testimonials-section .swiper-button.swiper-button-next-swiper-testimonoals {
+
+        transform: translateX(2rem);
+    }
+
+    .testimonials-section .swiper-button svg {
+        width: 100%;
+    }
+
+
+    .dropdown-item {
+        font-size: 1.4rem !important;
+        background: #f7f7f7;
+    }
+
+    .dropdown-menu .dropdown-item:first-child {
+        padding-top: 1rem;
+    }
+
+    .dropdown-menu .dropdown-item:last-child {
+        padding-bottom: 1rem;
+    }
 }
+
 
 
 @media (max-width:600px) {}

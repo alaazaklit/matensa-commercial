@@ -6,8 +6,12 @@
     position: relative;
 }
 
-.img-ini-size {
-    display: none;
+.slider-item-style-1.start {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .swiper-slide {
@@ -46,7 +50,7 @@
 }
 
 .home-section-2 .swiper-pagination {
-    bottom: -6rem !important;
+    bottom: -3rem !important;
 }
 
 .swiper-pagination-bullet-active {
@@ -86,7 +90,7 @@
 }
 
 .home-section-2 {
-    margin-bottom: 10rem !important
+    margin-bottom: 6rem !important
 }
 
 .gallery-blk-3-tabs {
@@ -306,7 +310,9 @@
     transform: scale(0);
 }
 
-.matensa-community .img svg g {
+.matensa-community .img svg g,
+.slider-item-blk-3 svg g,
+.home-blk-3-content svg g {
     transition-delay: 0s;
     transition-duration: 0.4s;
     transition-property: all;
@@ -405,9 +411,9 @@ $base-delay: 0.2s;
 
 .slider-item-1-content {
     position: absolute;
-    bottom: 0;
-    width: 80%;
-    left: 10%;
+    bottom: 2rem;
+    width: 90%;
+    left: 5%;
 }
 
 .slider-item-1-card {

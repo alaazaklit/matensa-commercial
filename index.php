@@ -3,7 +3,7 @@
     <?php include 'components/headers/header-1.php'; ?>
     <?php include 'components/banners/banner-1.php'; ?>
     <!-- ///////////////////Beyond An E-wallet///////////// -->
-    <section class="home-section-2 trans pt-5 pb-5" id="home-section-2">
+    <section class="home-section-2 mt-4 trans pt-5 pb-5" id="home-section-2">
         <div class="container mod">
             <h2 class="heading-2 pb-4 text-center">Beyond An <span class="heading-3">E-wallet</span></h2>
             <div class="row home-section-2-description">
@@ -23,8 +23,9 @@
             </div>
 
 
-            <div class="row pt-3 mt-5">
-                <div class="col-md-12">
+            <div class="row  mt-4">
+                <div class="col-md-1"></div>
+                <div class="col-md-10">
                     <div class="swiper-container">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
@@ -44,13 +45,29 @@
                                 </a>
                             </div>
 
-
                             <div class="swiper-slide">
                                 <a href="beyondwallet">
-                                    <div class="position-relative d-inline-block w-100">
-                                        <div class="img-ini-size"><img src="assets/images/content/Frame 1000002565.png">
+                                    <div class="slider-item-style-1">
+                                        <div class="img"><img src="assets/images/home/wallet/1.png"></div>
+                                        <div class="slider-item-1-content">
+                                            <h5>Agreement Management</h5>
+                                            <div class="slider-item-1-card">
+                                                <i><img src="assets/images/content/Frame 1000002542"></i>
+                                                <p><b>Payment received</b> Accounts</p>
+                                                <span>100 $</span>
+                                            </div>
                                         </div>
-                                        <div class="slider-item-style-1 start">
+                                    </div>
+                                </a>
+                            </div>
+                            <!-- 
+                            <div class="swiper-slide">
+                                <a href="beyondwallet">
+                                    <div class="position-relative">
+                                        <div class="img-ini-size2"><img
+                                                src="assets/images/content/Frame 1000002565.png">
+                                        </div>
+                                        <div class="slider-item-style-1 start" style="display:none;">
                                             <div class="position-relative h-100">
                                                 <div class="img"><img class=""
                                                         src="assets/images/home/banner/ban-img-1.png">
@@ -68,7 +85,7 @@
                                         </div>
                                     </div>
                                 </a>
-                            </div>
+                            </div> -->
                             <div class="swiper-slide">
                                 <a href="beyondwallet">
                                     <div class="slider-item-style-1">
@@ -121,7 +138,7 @@
 
 
 
-    <div class="home-blk-3-1">
+    <div class="home-blk-3-1 mt-5">
         <div class="text-center"><span class="shadow-style-1"></span></div>
 
         <div class="container">
@@ -197,7 +214,7 @@
                 </div>
 
                 <div class="col-md-7 pt-5 ">
-                    <div class="home-blk-3-content trans">
+                    <div class="home-blk-3-content blk-1 trans">
                         <h2 class="h2-style-1 color-white">How To Benefit From
                             Matensa Features</h2>
                         <div class="desc color-white mb-5">
@@ -284,7 +301,10 @@
                                 </div>
                                 <div class="col-md-5 ">
                                     <div class="img trans">
-                                        <?php include 'components/home/mconnect-img.php'; ?>
+                                        <img src="assets/images/home/3/3/1.png">
+                                        <?php 
+                                        //include 'components/home/mconnect-img.php';
+                                         ?>
                                     </div>
                                 </div>
                             </div>

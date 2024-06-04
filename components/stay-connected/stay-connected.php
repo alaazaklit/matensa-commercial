@@ -66,18 +66,20 @@
         <div class="row">
             <div class="col-lg-4">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/content/Logo.png" alt="Logo">
+                    <img src="assets/images/content/logo.svg" alt="Logo">
                 </a>
                 <div class="desc mt-3"> We love working with ambitious people. Let's build something
                     great together now. </div>
                 <div class="mt-4 play-store-row">
                     <a href="https://play.google.com/store/apps/details?id=com.matensa.app"><img class="marginright"
-                        src="assets/images/content/Mobile app store badge.png"></a><a href="https://apps.apple.com/lb/app/matensa/id1617027453"><img
-                        src="assets/images/content/Mobile app store badge (1).png"></a> </div>
+                            src="assets/images/content/Mobile app store badge.png"></a><a
+                        href="https://apps.apple.com/lb/app/matensa/id1617027453"><img
+                            src="assets/images/content/Mobile app store badge (1).png"></a>
+                </div>
             </div>
             <div class="col-lg-2 col-6">
                 <div class="desc">
-                    <p><b>Product</b></p> 
+                    <p><b>Product</b></p>
                     <p><a>Features</a></p>
                     <p><a href="highlights">Highlights</a></p>
 
@@ -113,13 +115,16 @@
         <div class="row">
             <div class="col-lg-6">© 2024 Matensa - All rights reserved</div>
             <div class="col-lg-6" class="text-right">
-            <div class="socialmediaicons">
-            <a href="https://twitter.com/matensaapp?s=11&t=UIx1kLcYngQAx6Y_twFBtA"><img src="assets/images/Vector (1).svg"></a>
-            <a href="https://www.instagram.com/matensa.ltd?igsh=MTVmanhnN3BsbHZ0Yg=="><img src="assets/images/instagram.svg"></a>
-            <a href="https://www.linkedin.com/company/matensa-app/"><img src="assets/images/linkedin.svg"></a>
-            <a href="https://www.facebook.com/matensaapp?mibextid=LQQJ4d"><img src="assets/images/Facebook.svg"></a>
-        </div>
-        </div>
+                <div class="socialmediaicons">
+                    <a href="https://twitter.com/matensaapp?s=11&t=UIx1kLcYngQAx6Y_twFBtA"><img
+                            src="assets/images/Vector (1).svg"></a>
+                    <a href="https://www.instagram.com/matensa.ltd?igsh=MTVmanhnN3BsbHZ0Yg=="><img
+                            src="assets/images/instagram.svg"></a>
+                    <a href="https://www.linkedin.com/company/matensa-app/"><img src="assets/images/linkedin.svg"></a>
+                    <a href="https://www.facebook.com/matensaapp?mibextid=LQQJ4d"><img
+                            src="assets/images/Facebook.svg"></a>
+                </div>
+            </div>
         </div>
     </div>
 </section>

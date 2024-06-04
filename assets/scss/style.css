@@ -178,12 +178,16 @@ header {
   width: 100%;
   height: 2.5px;
   vertical-align: top;
-  background: #fff;
+  background: #344051;
   display: inline-block;
   float: right;
   margin-bottom: 6px;
   border-radius: 25%;
   overflow: hidden;
+}
+
+.white-header .menu-bar span {
+  background: #fff;
 }
 
 .menu-bar {
@@ -1612,7 +1616,8 @@ input[type=checkbox] {
   font-size: 1.25rem !important;
 }
 
-.half-div .heading-1, .head-0 {
+.half-div .heading-1,
+.head-0 {
   font-weight: 600 !important;
 }
 
@@ -1643,7 +1648,8 @@ input[type=checkbox] {
   font-weight: 500;
 }
 
-.morearticles .highlight-content, .morearticles .highlight-text {
+.morearticles .highlight-content,
+.morearticles .highlight-text {
   font-size: 1rem !important;
 }
 
@@ -1769,7 +1775,7 @@ input[type=checkbox] {
     padding: unset !important;
   }
   .payment-gateway span img {
-    max-width: 50% !important;
+    max-width: 80% !important;
   }
   .methods {
     margin-bottom: 2rem;
@@ -1815,7 +1821,8 @@ input[type=checkbox] {
   .firstimage img {
     margin-top: 3rem;
   }
-  .apply-now .job-det, .apply-now .heading-4 {
+  .apply-now .job-det,
+  .apply-now .heading-4 {
     margin-left: -5px !important;
   }
   .business .journey {
@@ -2206,8 +2213,12 @@ input[type=checkbox] {
   position: relative;
 }
 
-.img-ini-size {
-  display: none;
+.slider-item-style-1.start {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .swiper-slide {
@@ -2245,7 +2256,7 @@ input[type=checkbox] {
 }
 
 .home-section-2 .swiper-pagination {
-  bottom: -6rem !important;
+  bottom: -3rem !important;
 }
 
 .swiper-pagination-bullet-active {
@@ -2286,7 +2297,7 @@ input[type=checkbox] {
 }
 
 .home-section-2 {
-  margin-bottom: 10rem !important;
+  margin-bottom: 6rem !important;
 }
 
 .gallery-blk-3-tabs {
@@ -2479,7 +2490,9 @@ input[type=checkbox] {
   transform: scale(0);
 }
 
-.matensa-community .img svg g {
+.matensa-community .img svg g,
+.slider-item-blk-3 svg g,
+.home-blk-3-content svg g {
   transition-delay: 0s;
   transition-duration: 0.4s;
   transition-property: all;
@@ -2734,9 +2747,9 @@ input[type=checkbox] {
 
 .slider-item-1-content {
   position: absolute;
-  bottom: 0;
-  width: 80%;
-  left: 10%;
+  bottom: 2rem;
+  width: 90%;
+  left: 5%;
 }
 
 .slider-item-1-card {
@@ -3146,6 +3159,9 @@ p {
     display: block;
     width: 100%;
   }
+  .image-9 {
+    display: none;
+  }
   .payment-gateway span {
     width: 47% !important;
     display: inline-block;
@@ -3160,8 +3176,21 @@ p {
   .footer-section {
     text-align: center;
   }
+  .row.stay-connectedrow {
+    width: 100%;
+  }
   .payment-gateway span img {
     max-width: 100%;
+  }
+  .image-15 {
+    width: 100%;
+    margin-top: 3rem !important;
+  }
+  .menu-tab {
+    display: none !important;
+  }
+  #aboutus-slider-1 .swiper-slide {
+    width: 100% !important;
   }
   .gallery-blk-3 {
     margin-top: 3rem;
@@ -3177,8 +3206,8 @@ p {
     left: 15px;
   }
   .row {
-    margin-left: -15px !important;
-    margin-right: -15px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
   }
   .ban-clients {
     transform: scale(0.8);
@@ -3244,5 +3273,47 @@ p {
   }
   .menu-active {
     overflow: hidden;
+  }
+  .dropdown-menu {
+    margin-top: 0rem;
+    position: relative !important;
+    top: -1rem;
+  }
+  .slider-item-blk-3 svg {
+    height: inherit;
+  }
+  .home-blk-3-content.blk-1 {
+    margin-top: 3.5rem;
+  }
+  .home-blk-3-2 .img svg {
+    max-width: 90%;
+    height: inherit;
+    margin-top: 2.5rem;
+  }
+  .gallery-blk-3 {
+    margin-top: 0 !important;
+  }
+  .testimonials-section .swiper-button {
+    top: 100%;
+    margin-top: 0.5rem;
+    left: 50%;
+    width: 4rem;
+    transform: translateX(-6rem);
+  }
+  .testimonials-section .swiper-button.swiper-button-next-swiper-testimonoals {
+    transform: translateX(2rem);
+  }
+  .testimonials-section .swiper-button svg {
+    width: 100%;
+  }
+  .dropdown-item {
+    font-size: 1.4rem !important;
+    background: #f7f7f7;
+  }
+  .dropdown-menu .dropdown-item:first-child {
+    padding-top: 1rem;
+  }
+  .dropdown-menu .dropdown-item:last-child {
+    padding-bottom: 1rem;
   }
 }/*# sourceMappingURL=style.css.map */
