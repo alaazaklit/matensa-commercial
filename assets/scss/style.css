@@ -1261,11 +1261,19 @@ input[type=checkbox] {
   font-weight: 600 !important;
 }
 
-.apply-now input[type=text] {
+.apply-now input[type=text], .apply-now input[type=date] {
   font-size: 1rem;
   border: 1px solid rgba(128, 128, 128, 0.5098039216);
   border-radius: 8px;
   height: 50px;
+  padding: 1rem;
+  width: 100%;
+}
+
+.apply-now textarea {
+  font-size: 1rem;
+  border: 1px solid rgba(128, 128, 128, 0.5098039216);
+  border-radius: 8px;
   padding: 1rem;
   width: 100%;
 }

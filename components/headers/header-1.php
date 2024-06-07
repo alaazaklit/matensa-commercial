@@ -49,8 +49,8 @@ $pageName = pathinfo($pageName, PATHINFO_FILENAME);
                     <li class="nav-item <?php if($pageName=="highlights"){?>active<?php } ?>">
                         <a class="nav-link" href="highlights">Highlights</a>
                     </li>
-                    <li class="nav-item <?php if($pageName=="faq"){?>active<?php } ?>">
-                        <a class="nav-link" href="faq">Contact</a>
+                    <li class="nav-item <?php if($pageName=="contactus"){?>active<?php } ?>">
+                        <a class="nav-link" href="contactus">Contact</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://dashboard.matensa.com/#/auth/login">Login</a>

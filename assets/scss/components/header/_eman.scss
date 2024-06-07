@@ -984,7 +984,7 @@ input[type=checkbox] {
     font-weight: 600 !important;
 }
 
-.apply-now input[type=text] {
+.apply-now input[type=text]  ,.apply-now input[type=date]{
 
     font-size: 1rem;
     border: 1px solid #80808082;
@@ -993,7 +993,13 @@ input[type=checkbox] {
     padding: 1rem;
     width: 100%;
 }
-
+.apply-now textarea{
+    font-size: 1rem;
+    border: 1px solid #80808082;
+    border-radius: 8px;
+    padding: 1rem;
+    width: 100%; 
+}
 .apply-now select {
     width: 100% !important;
 }
