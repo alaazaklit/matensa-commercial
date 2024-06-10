@@ -1562,7 +1562,9 @@ input[type=checkbox] {
     .salary {
         text-align: center;
     }
-
+     .applydiv{
+        width: unset !important;
+     }
     .icon-2 {
         padding: unset !important;
     }
@@ -1604,7 +1606,7 @@ input[type=checkbox] {
 
     .apply-now .job-det,
     .apply-now .heading-4 {
-        margin-left: -5px !important;
+        margin-left: 1rem !important;
     }
 
     .business .journey {
@@ -1614,7 +1616,9 @@ input[type=checkbox] {
     .salary .fa-map-marker-alt {
         padding-top: 1rem;
     }
-
+    .apply-now input,.apply-now textarea{
+        margin-top: 1rem;
+    }
     .salary .col-lg-5 {
         border-left: unset !important;
     }
