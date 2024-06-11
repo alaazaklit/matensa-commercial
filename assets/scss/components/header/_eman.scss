@@ -1498,19 +1498,44 @@ input[type=checkbox] {
         left: unset !important;
     }
 
-    .dropdown-item {
+   .dropdown-menu .dropdown-item {
         font-size: 1.8rem !important;
-        text-align: center;
+        background: unset !important;
+        padding: unset !important;
+        font-size: 1.6rem !important;
+        font-weight: 500;
+        margin-top: 1rem;
     }
-
+  
+    #navbarNav{
+        padding-top: 12vh !important;
+    }
+    .nav-link{
+        font-weight: 700;
+        font-size: 4.5vw !important;
+    }
     .dropdown-toggle:hover {
         margin-bottom: 0rem !important;
     }
-
+    
     .home-blk-3-content img {
         margin-top: 1rem;
     }
-
+    .nav-link:hover:before, .nav-item.active .nav-link:before{
+        width: unset !important;
+    }
+    header.headersmall {
+visibility: visible !important;    }
+.headerbig{
+    visibility: hidden;
+}
+.nodown .dropdown-menu{
+display: unset !important;
+border: unset !important;
+}
+// .dropdown-menu{
+//     display: unset !important;
+// }
     .main-slide {
         margin-top: 2rem;
     }
@@ -1522,12 +1547,20 @@ input[type=checkbox] {
     .journey .block-slider .block {
         margin-bottom: 3.5rem;
     }
-
+.dropdown-toggle img{
+    width: 2rem;
+    float: right;
+    margin-top: 1.3rem;
+    margin-right: 3rem;
+}
     .securepayment .block {
         max-width: unset !important;
         height: unset !important;
+        flex: unset;
     }
-
+    .dropdown-toggle::after{
+        display: none;
+    }
     .securepayment .block-slider {
         grid-gap: 25px !important;
     }
@@ -1553,7 +1586,9 @@ input[type=checkbox] {
     .business img {
         margin-top: 2rem;
     }
-
+.business{
+    margin-top: 7rem !important;
+}
     .numbering {
         padding-top: 1rem;
         margin: auto;
@@ -1678,6 +1713,7 @@ input[type=checkbox] {
 
     .main-div {
         width: 100% !important;
+        margin-top: 5rem !important;
     }
 
     .warning-block {
@@ -1748,7 +1784,8 @@ input[type=checkbox] {
     left: 57rem;
     width: 100%;
 }
-
+.headersmall {
+    visibility: hidden !important;    }
 .upload-container {
     display: flex;
     align-items: center;
@@ -1777,3 +1814,67 @@ input[type=checkbox] {
     margin-left: auto !important;
     font-size: 1.5rem !important;
 }
+
+@media (max-width: 960px) {
+    .hero {
+        padding-top: 17rem !important;
+    }
+
+    header.headersmall{
+        padding-top: 3rem;
+    }
+    .container .h2-style-1,.container .heading-2 {
+        font-size: 9vw !important;
+    }
+
+     .home-blk-3-1 .heading-2.color-white {
+        font-size: 7vw !important;
+    }
+    .home-blk-3-2{
+        text-align: center;
+    }
+    .button-1{
+        font-size: 4vw !important;
+        padding: 1rem 3rem;
+        width: unset !important;
+        margin-bottom: 2rem;
+        font-weight: 600;
+    }
+    .nav-item-btn{
+        display: flex;
+        margin: 0 !important;
+        padding:2rem 0rem;
+        background-color: #FBE6F3;
+        padding-left: 3rem !important;
+        position: fixed;
+    bottom: 0;
+    width: 100%;
+    }
+    .menu-active #navbarNav{
+text-align: left;
+    }
+    .nav-item{
+padding-left: 2rem;
+    }
+    .btn-style-3{
+        background: transparent;
+    border-radius: 3rem;
+    padding: 0.5rem 2rem !important;
+    color: black !important;
+    border: 1px solid gray;
+    font-weight: 600;
+    }
+    .nav-item-btn a{
+margin-right: 2.5rem;
+margin-bottom: 0rem !important;
+    }
+    .footer-section .socialmediaicons{
+        margin-top: 1rem;
+        display: block !important;
+        float: unset !important;
+    }
+    .aboutus-section{
+        text-align: center;
+    }
+}
+
