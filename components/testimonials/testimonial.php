@@ -41,7 +41,7 @@
                                 <div class="col-md-2"></div>
                                 <div class="col-md-8">
                                     <div class="img"><img src="assets/images/home/testimonials/profile.png"></div>
-                                    <div class="desc">
+                                    <div class="desc mt-4">
                                         "Matensa has truly revolutionized the way I handle my finances. Its
                                         user-friendly
                                         interface and seamless functionality make sending funds to family and friends an
@@ -58,7 +58,7 @@
                             <div class="row text-center">
                                 <div class="col-md-12">
                                     <div class="img"><img src="assets/images/home/testimonials/profile.png"></div>
-                                    <div class="desc">
+                                    <div class="desc mt-4">
                                         "Matensa has truly revolutionized the way I handle my finances.
                                         "
                                     </div>

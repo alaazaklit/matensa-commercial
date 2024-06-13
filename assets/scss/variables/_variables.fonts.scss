@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-roman.var.ttf') format('truetype');
+}
+
+body {
+    font-family: 'Inter';
+}
+
+
 // customize bootstrap fonts system
-$font:'Barlow',
-sans-serif;
+$font: 'Inter'

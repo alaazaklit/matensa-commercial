@@ -1,4 +1,4 @@
-<div class="hero">
+<div class="hero" id="hero-banner">
     <div class="hero-bg">
         <img src="assets/images/home/banner/bg-ban.jpg">
     </div>
@@ -196,7 +196,7 @@
     <div class="banner-img-1">
 
         <div class="inner-banner-img-1">
-            <span class="bg-img-1 trans-3"><span></span></span>
+            <span class="bg-img-1"><span></span></span>
 
             <span class="destination">
                 <img class="banImg1 trans-4" src="assets/images/home/banner/ban-img-1.png"></span>

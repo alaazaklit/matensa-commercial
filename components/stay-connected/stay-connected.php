@@ -66,7 +66,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <a class="navbar-brand" href="index.php">
-                    <img src="assets/images/content/logo.svg" alt="Logo">
+                    <img src="assets/images/logo.svg" alt="Logo">
                 </a>
                 <div class="desc mt-3"> We love working with ambitious people. Let's build something
                     great together now. </div>

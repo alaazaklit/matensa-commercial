@@ -9,8 +9,38 @@ window.addEventListener('load', function () {
     }, 1000);
 });
 
+document.addEventListener('DOMContentLoaded', () => {
+    const lazyLoadElements = document.querySelectorAll('.lazy-load-content');
+
+    lazyLoadElements.forEach(element => {
+        const url = element.getAttribute('data-url');
+
+        fetch(url)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                return response.text();
+            })
+            .then(html => {
+                element.innerHTML = html;
+                loadTrans();
+                loadSlider2();
+            })
+            .catch(error => {
+                console.error('Error loading content:', error);
+                element.innerHTML = 'Failed to load content';
+            });
+    });
+});
+
 
 document.addEventListener("DOMContentLoaded", function () {
+    loadTrans();
+});
+
+
+function loadTrans() {
     const targets = document.querySelectorAll('.trans');
 
     const observerOptions = {
@@ -33,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
     targets.forEach(target => {
         observer.observe(target);
     });
-});
+}
 
 function triggerAnimation() {
     const clientsList = document.querySelector('.ban-clients.active');
@@ -55,38 +85,7 @@ function triggerAnimation() {
 
 
 }
-document.addEventListener('DOMContentLoaded', (event) => {
-    const swiper = new Swiper('.swiper-container', {
-        slidesPerView: 1,
-        centeredSlides: false,
-        loop: false,
-        spaceBetween: 0,
-        initialSlide: 1,
-        effect: 'coverflow',
-        coverflowEffect: {
-            rotate: 0,
-            stretch: 0,
-            depth: 100,
-            modifier: 1,
-            slideShadows: false,
-        },
-        pagination: {
-            el: '.swiper-pagination',
-            clickable: true,
-        },
-        navigation: {
-            nextEl: '.swiper-button-next',
-            prevEl: '.swiper-button-prev',
-        },
-        breakpoints: {
-            768: {
-                spaceBetween: 40,
-                slidesPerView: 3,
-                centeredSlides: true,
-            },
-        }
-    });
-});
+
 
 document.addEventListener('DOMContentLoaded', (event) => {
     const swiper = new Swiper('.swiper-container-3', {
@@ -124,6 +123,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
     });
 });
 document.addEventListener('DOMContentLoaded', (event) => {
+    loadSlider2();
+});
+
+
+function loadSlider2() {
     // Select all swiper containers
     const swiperContainers = document.querySelectorAll('.swiper-container-2');
 
@@ -131,7 +135,6 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
         // Assign an ID to each swiper container if it doesn't have one
         if (!container.id) {
-
             container.id = `swiper-container-2-${index}`;
         }
 
@@ -176,8 +179,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         const prevButton = container.querySelector('.swiper-button-prev');
         if (prevButton) prevButton.classList.add(`swiper-button-prev-${container.id}`);
     });
-});
-
+}
 
 
 

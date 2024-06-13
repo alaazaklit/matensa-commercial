@@ -56,7 +56,7 @@
 
 .hero-content-row {
   position: absolute;
-  top: 20vh;
+  top: 21vh;
   left: 9vw;
   width: 100%;
   z-index: 10000;
@@ -67,9 +67,10 @@
 }
 
 .hero-content p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: white;
   line-height: 1.4;
+  max-width: 82%;
 }
 
 .ban-client-style-1 {
